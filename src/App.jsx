@@ -42,7 +42,7 @@ function App() {
 
   return (
     <>
-      <h2 className="container-title">{quiz.questions[count].question}</h2>
+      <h3 className="container-title">{quiz.questions[count].question}</h3>
       <div className="answers-multipole">
         <div className="answer">
           <button
