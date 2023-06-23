@@ -47,13 +47,14 @@ function App() {
     let buttonValue = event.target.value;
     let materie =  event.target.getAttribute("materie"); 
     let buttonTrue = event.target.getAttribute("bool");
+    let question = haide.questions[count].question
     setTruty(buttonTrue)
    
   
 
     setAns((prevState) => [
       ...prevState,
-     "Raspuns Corect:"+ findTrueValue() + materie+ "-" + count + "-" + buttonValue + " - " + buttonTrue ,
+     question +"\n"+"Raspuns Corect:"+ findTrueValue()+"\n" + materie+ "-" + count + "-" + buttonValue + " - " + buttonTrue ,
     ]);
     setCount("");
     setCount(getRandomInt(150));
@@ -62,7 +63,7 @@ function App() {
      }
   };
  
- 
+
  
   return (
     <>
@@ -128,7 +129,7 @@ function App() {
         </div>
       </div>
       <div className="the-ans">
-        {ans.map((element, index) => (
+        {ans.reverse().map((element, index) => (
           <div className={`${element.slice(-2)}`} key={index}>{element}</div>
         ))}
       </div>
