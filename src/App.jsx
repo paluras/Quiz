@@ -57,6 +57,9 @@ function App() {
     let question = haide.questions[count].question;
     setTruty(buttonTrue);
 
+    
+    if(question === undefined)return setCount(1)
+   
     let thing = question +
     "\n" +
     "Raspuns Corect: \n" +
@@ -79,9 +82,11 @@ function App() {
       ...prevState,
       haha,
     ]);
+    if(count == undefined)return setCount(0)
     setCount("");
     if (ordine == false) {
-      setCount(count + 1);
+      setCount(count + 1)
+       
     } else {
       setCount(getRandomInt(150));
     }
@@ -89,7 +94,11 @@ function App() {
     if (buttonTrue === "false") {
       setCorect(haide.questions[count]);
     }
+   
   };
+
+   
+    
 
   return (
     <>
