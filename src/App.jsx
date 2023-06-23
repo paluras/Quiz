@@ -9,7 +9,7 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
 
-console.log(fizio);
+
 
 function App() {
   const [count, setCount] = useState(0);
@@ -17,6 +17,20 @@ function App() {
   const [truty, setTruty] = useState("");
   const [materie, setMaterie] = useState(true);
   const [haide, setHaide] = useState(quiz);
+  const[corect, setCorect] = useState("")
+
+
+  const findTrueValue = () => {
+   
+    const trueOption =  haide.questions[count].options.find(option => option.bool === "true");
+    if (trueOption) {
+      return trueOption.id +")" + trueOption.text;
+    }
+    return "No true value found.";
+  };
+
+
+  console.log(findTrueValue());
 
 
   const handleMaterie = () => {
@@ -27,31 +41,34 @@ function App() {
     } else setHaide(quiz);
   };
 
-  console.log(materie, haide);
+  
 
   const handleClick = (event) => {
     let buttonValue = event.target.value;
     let materie =  event.target.getAttribute("materie"); 
     let buttonTrue = event.target.getAttribute("bool");
     setTruty(buttonTrue)
-    console.log(buttonTrue);
    
+  
 
     setAns((prevState) => [
       ...prevState,
-      materie+ "-" + count + "-" + buttonValue + " - " + buttonTrue,
+     "Raspuns Corect:"+ findTrueValue() + materie+ "-" + count + "-" + buttonValue + " - " + buttonTrue ,
     ]);
     setCount("");
     setCount(getRandomInt(150));
-    console.log(ans);
+    if (buttonTrue === "false"){
+      setCorect(haide.questions[count]);
+     }
   };
+ 
  
  
   return (
     <>
       <h3 className="container-title">{haide.questions[count].question}</h3>
       <button className="change" onClick={handleMaterie}>Schimba Materia</button>
-
+      <div></div>
       <div className="answers-multipole">
         <div className="answer">
           <button
@@ -112,7 +129,7 @@ function App() {
       </div>
       <div className="the-ans">
         {ans.map((element, index) => (
-          <div className={`${truty.toString()}`} key={index}>{element}</div>
+          <div className={`${element.slice(-2)}`} key={index}>{element}</div>
         ))}
       </div>
     </>

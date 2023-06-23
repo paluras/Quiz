@@ -47,6 +47,7 @@ body{
   align-items: center;
   background-color: rgb(71, 71, 158);
   justify-content: center;
+  
 }
 
 
@@ -56,8 +57,17 @@ p{
 
 .the-ans{
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr ;
+  
+  
 }
+
+
+.the-ans > div{
+
+  border: 2px solid rgb(135, 135, 229);
+}
+
 
 .change{
   width: 300px;
@@ -67,4 +77,8 @@ p{
 #root > .change{
   align-content: center;
   justify-content: center;
+}
+
+.se{
+  color: rgb(218, 111, 79);
 }
