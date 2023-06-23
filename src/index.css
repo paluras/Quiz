@@ -1,6 +1,7 @@
 
 *{
  margin: 0;
+ font-family: 'Roboto', sans-serif;
 
 }
 #root{
@@ -22,6 +23,7 @@ body{
   align-items: center;
   justify-content: center;
   background-color: rgba(137, 137, 216, 0.404);
+  text-align: center;
 }
 
 .answer{
@@ -50,4 +52,19 @@ body{
 
 p{
   padding: 30px;
+}
+
+.the-ans{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.change{
+  width: 300px;
+  margin: 0 auto
+}
+
+#root > .change{
+  align-content: center;
+  justify-content: center;
 }

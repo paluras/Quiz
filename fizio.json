@@ -1,0 +1,4685 @@
+{
+  "questions": [
+    {
+    "question": "PlaceHolder",
+    "options": [
+      {
+        "id": "a",
+        "materie":"fizio",
+        "text": "Press a Button",
+        "bool": "false"
+      },
+      {
+        "id": "b",
+        "text": "Press a Button",
+        "bool": "false"
+      },
+      {
+        "id": "c",
+        "text": "Press a Button",
+        "bool": "false"
+      },
+      {
+        "id": "d",
+        "text": "Press a Button",
+        "bool": "false"
+      },
+      {
+        "id": "e",
+        "text": "Press a Button",
+        "bool": "true"
+      }
+    ]
+  },
+    {
+      "question": "Absorbția fosforului are loc în:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "tot tractul digestiv",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "stomac",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "colon",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "ileon",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "duoden",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "Absorbția fosforului este optimă la raportul Ca/P de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "2/3",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "2/4",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "1/3",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "1/2",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "1/1",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "Rolurile fosforului în organism sunt următoarele, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "intră în compoziția oaselor și dinților",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "este constituent al ATP-ului",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "este constituent al acizilor nucleici",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "contribuie la menținerea echilibrului acido-bazic",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "catalizează numeroase reacții biochimice",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "4. Raportul Ca/P la păsări este cuprins între:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "1/4 – 1/1",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "1/1 – 1/2",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "1/2 - 1/4",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "3/1 – 3,5/1",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "1/3 – 1,5/3",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "5. Unul dintre rolurile pe care fosforul nu îl are în organism este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "intră în compoziția oaselor",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "intră în compoziția dinților",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "contribuie la menținerea echilibrului acido-bazic al sângelui",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "contribuie la menținerea echilibrului acido-bazic al urinei",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "contribuie la formarea influxului nervos",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "6. Nivelul metabolic care asigură necesarul energetic pentru realizarea condiţiilor bazale plus, cele ale digestiei, termoreglării și activității locomotorii moderate este reprezentat de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "metabolismul energetic",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "metabolismul substanțelor",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "metabolismul de întreținere",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "metabolismul de producție",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "metabolismul standard",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "7. Care dintre următoarele roluri atribuite vitaminei A nu este corect:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "stimulează sinteza hormonului de creștere",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "are acțiune antiinfecțioasă",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "este implicată în funcționarea normală a sistemului imunitar",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "este implicată în funcționarea funcționarea normală a celulelor epiteliale",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "stimulează sinteza hepatică de factori anticoagulanți",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "8. Fierul este utilizat în sinteza a numeroși compuși fiziologici, printre care nu se numără:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "riboflavinele",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "hemoglobina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "mioglobina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "peroxidazele",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "catalazele",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "9. Excreția fierului se face pe cale:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "renală",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "respiratorie",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "digestivă",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "fierul nu se excretă, fiind total recuperat din produșii de catabolism",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "pe cale urinară și digestivă deopotrivă",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "10. Referitor la faza intestinală de reglare a secreției de suc pancreatic, nu este corectă varianta:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "implică stimuli endocrini și nervoși",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "componenta endocrină în reglarea acestei faze este reprezentată de colecistokinina și secretina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "în această fază, secretina determină secreția unui suc pancreatic sărac în bicarbonat, dar bogat în enzime",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "este ultima fază a reglării secreției de suc pancreatic",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "această fază intensifică stimularea neuronală mediată vagal din fazele cefalică și gastrică",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "11.Acidul clorhidric din sucul gastric este produs de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "celulele principale ale glandelor gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "celulele parietale ale glandelor gastrice",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "celulele intermediare ale glandelor gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "celulele mucoase ale glandelor gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "celulele generatoare ale glandelor gastrice",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "12. Cei doi ioni ai HCl sunt produși de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "aceeași celulă",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "celule diferite",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "o celulă oxintică și o celulă parietală",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "două celule oxintice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "toate tipurile de celule din structura glandelor gastrice",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "13. În sinteza de HCl de către glandele gastrice, ionii de hidrogen din structura HCl provin din:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "disocierea acidului lactic",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "disocierea apei",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "disocierea intracelulară a CO2",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "disocierea intracelulară a acidului carbonic",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "disocierea intracelulară a fosfaților anorganici",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "14. Acidul carbonic este sintetizat în celulele parietale ale glandelor gastrice sub controlul:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "xantinoxidazei",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "anhidrazei carbonice",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "izomerazelor",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "enzimelor glicolitice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "pepsinei",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "15. Următoarele afirmații privind sărurile biliare sunt corecte, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "potenţează acțiunea digestivă a lipazelor",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "sunt săruri ale acizilor glicocolic și taurocolic",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "principalul rol al acestora este emulsionarea lipidelor",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "precursorul lor este colesterolul",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "după absorbție trec în sânge și sunt eliminate prin urină",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "16. Acidul clorhidric din sucul gastric are roluri digestive. Printre rolurile sale nu se numără:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "transformarea pepsinogenului în pepsină",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "blocarea proceselor de putrefacție și de fermentație",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "activarea tripsinogenului la tripsină",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "inhibarea secreției de gastrină",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "stimularea eliberării de secretină",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "17. Acidul clorhidric din sucul gastric are roluri digestive. Printre rolurile sale nu se numără:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "transformarea pepsinogenului în pepsină",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "blocarea proceselor de putrefacție și de fermentație",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "activarea chimotripsinogenului la chimotripsină",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "inhibarea secreției de gastrină",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "stimularea eliberării de secretină",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "18. Activarea pepsinogenului la pepsină are loc:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "în celulele gastrice secretoare",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "în lumenul intestinal",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "la contactul cu conținutul gastric acid",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "oriunde în aceste compartimente și structuri precizate mai sus",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "stomacul nu produce pepsinogen ci pepsină",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "19. Activarea pepsinogenului:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "are loc în celula gastrică secretoare",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "are loc printr-un proces autocatalitic la un pH alcalin",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "are loc în prezenta acidului clorhidric în celulele principale ale glandelor gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "are loc atât în prezența HCl, cât și printr-un mecanism autocatalitic în lumenul tractului digestiv",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "nu este necesară, aceasta fiind o enzimă activă",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "20. Referitor la plexul mienteric, nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este localizat între straturile musculare netede longitudinale și circulare ale intestinului",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "neuronii motori controlează, în principal, mișcările gastro-intestinale",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "neuronii senzitivi își au originea în epiteliul sau peretele intestinal",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "reglează secreția gastro-intestinală și fluxul sanguin local",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "stimularea lui determină intensificarea motilității intestinale",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "21. Secreția de HCl este stimulată de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "somatostatin",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "secretină",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "prostaglandine",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "acetilcolină",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "factorul de creștere epidermic",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "22. Secreția de HCl este stimulată de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "somatostatin",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "secretină",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "prostaglandine",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "gastrină",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "factorul de creștere epidermic",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Referitor la faza cefalică de reglare a secreției gastrice nu este corectă varianta:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "excitarea chemoreceptorilor din mucoasa bucală determină secreția de suc gastric",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "stimulii au origine cefalică",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "această fază nu are componentă umorală (hormonală)",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "secreția de suc gastric se realizează prin reflex vago-vagal",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "vederea, mirosul hranei, precum și apropierea orelor de masă determină secreția de suc gastric",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Dintre vitaminele complexului B, următoarele sunt implicate în metabolismul glucidelor, în decarboxilarea acidului piruvic, respectiv, în reglarea glicemiei:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "tiamina și biotina",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "riboflavina și nicotinamida",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "acidul pantotenic și piridoxina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "acidul folic și cobalamina",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "nicotinamida și acidul pantotenic",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Factorul intrinsec, o mucoproteină secretată de celule din glandele fundice, are rol în:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "absorbția glucidelor",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "absorbția vitaminei B12",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "absorbția lipidelor",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "absorbția apei",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "absorbția fierului",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Coagularea intragastrică a laptelui este produsă de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "pepsină la animalele adulte, renină (labferment) la sugari",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "lipază",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "amilază",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "tripsină",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "chimotripsină",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Pepsina:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "hidrolizează doar legăturile peptidice ale aminoacizilor aromatici",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "hidrolizează doar legăturile peptidice ale aminoacizilor carboxilici",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "hidrolizează doar legăturile peptidice ale aminoacizilor bazici",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "nu are specificitate, hidrolizează toate proteinele",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "este o exopeptidază",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "pH-ul optim de acțiune al pepsinei este unul:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "slab acid (5.5 – 6)",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "neutru",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "alcalin",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "fără importanță",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "foarte acid (1.5 – 3.2)",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "29. Renina (labfermentul) din sucul gastric participă la:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "digestia proteinelor la animale sugare",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "digestia lipidelor la animale sugare",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "digestia glucidelor la animale sugare",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "activarea tripsinogenului",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "activarea chimotripsinogenului",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "30. Renina (labfermentul) din sucul gastric este o:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "enzimă secretată sub formă inactivă",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "enzimă glicolitică",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "lipază",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "amilază",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "carboxipeptidază",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "31. Principalul hormon care contribuie la reglarea secreției de suc gastric în faza gastrică este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "secretina",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "colecistokinina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "gastrina",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "bombesina",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "adrenalina",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "32. Principalul hormon care contribuie la reglarea secreției de suc gastric în faza cefalică este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "secretina",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "colecistokinina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "gastrina",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "bombesina",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "adrenalina",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "33. Gastrina este un hormon produs de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "celulele din mucoasa gastrică",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "celulele din epiteliul duodenal",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "celulele oxintice ale glandelor gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "celulele principale ale glandelor gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "epiteliul gastric",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "34. În secrețiile digestive, rolul gastrinei constă în:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "stimularea secreției de acid clorhidric",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "inhibarea secreției glandelor gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "stimularea secreției pancreatice",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "stimularea secreției intestinale",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "inhibarea secreției intestinale",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "35. Dacă animalul se află în perioada catabolică, organismul folosește glucoza activată, prin procese de fosforilare, pentru obținere de energie, prin:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "glicogeneză",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "gluconeogeneză",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "glicoliză",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "formare de depozite",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "termogeneză",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "36. Enterokinaza are următorul rol:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "catalizează transformarea tripsinogenului în tripsină",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "catalizează transformarea pepsinogenului în pepsină",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "catalizează transformarea chimotripsinogenului în chimotripsină",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "stimulează sinteza de enzime pancreatice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "inhibă sinteza de enzime pancreatice",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "37. Secreția glandelor Brunner are următoarele calități, mai puțin faptul că este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "o secreție bogată în enzime digestive",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "o secreție mucoasă",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "o secreție lipsită de enzime digestive",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "o secreție bogată în bicarbonat",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "o secreție cu rol în protejarea epiteliului intestinal",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "38. Care variantă legată de vitaminele liposolubile, nu este corectă?",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "îndeplinesc funcțiile coenzimelor",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "după absorbție, sunt transportate de chilomicroni pe cale limfatică",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "se stochează în ficat și în țesutul adipos, formând depozite",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "în plasmă circulă legate de lipoproteinele specifice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "nu sunt excretate în urină",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "39. Care variantă legată de Acetil- CoA nu este corectă?",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "rezultă din descompunerea glucidelor",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "provine din degradarea proteinelor",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "rezultă din degradarea lipidelor",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "reprezintă placa turnantă între metabolismul substanțelor organice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "rezultă în condiții de anaerobioză din piruvat",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "40. Prezența maltazei este o caracteristică a:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "tuturor secrețiilor digestive",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "secreției salivare",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "secreției pancreatice",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "secreției intestinale",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "secreției gastrice",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "41. Aminopeptidazele au ca substrat specific:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "lipide",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "amidon",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "glicogen",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "proteine în general",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "peptide",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "42. Carboxipeptidazele au ca substrat specific:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "lipide",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "amidon",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "glicogen",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "proteine în general",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "peptide",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "43. Acțiunile fiziologice ale vitaminei C sunt următoarele, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "stimulează procesul de sinteză a colagenului",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "favorizează oxidarea diferitelor substanțe biologice",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "intervine în fixarea calciului în oase prin activarea fosfatazei alcaline",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "intensifică catabolismul diferitelor substanţe toxice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "activează sistemul imunitar al organismului",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "44. Următoarele afirmații privind vitamina B12 sunt corecte, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este un complex organo-metalic",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "după absorbție, se leagă de transcobalamină",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "conține un inel tetrapirolic, similar cu nucleul porfirinic",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "conține ionul de cobalt în structura sa",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "absorbția intestinală a acesteia se realizează prin difuziune simplă",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "45. Care dintre următoarele substanțele nu se absoarbe la nivel intestinal prin mecanismul de sodiu co-transport:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "aminoacizii",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "trigliceridele",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "glucoza",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "tripeptidele",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "dipeptidele",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "46. Care dintre următoarele variante reprezintă forma activă a vitaminei D?",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "7-dehidrocolesterolul",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "colecalciferolul",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "ergosterolul",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "ergocalciferol",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "calcitriolul",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "47. În perioada de absorbție digestivă, ficatul:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "reține trigliceridele şi le transformă în glucoză şi glicogen care se depozitează în ficat",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "reține surplusul de glucoză sanguină şi îl transformă în glicogen şi trigliceride",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "eliberează glucoza deoarece acesta este necesară țesuturilor periferice, iar preluarea ei de către ficat nu este controlată de insulină",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "reține trigliceridele care sunt depozitate în ficat determinând „infiltrația grasă a ficatului”",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "reține doar proteinele",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "48. Ciclul lui Krebs se desfășoară:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "în majoritatea țesuturilor, cu excepția creierului, care se pot hrăni şi cu corpi cetonici în caz de absență parțială sau totală a glucozei",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "în țesuturile periferice, inclusiv sânge",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "doar în ficat",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "în majoritatea celulelor, cu excepția eritrocitelor care nu prezintă mitocondrii",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "toate variantele sunt valabile",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "49. Referitor la metabolismului fierului nu este corectă următoarea afirmație:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "fierului feric este redus la fier feros, la nivelul stomacului",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "absorbția fierului se face în duoden şi jejun",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "excreţia fierului se face pe cale digestivă",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "transferina este forma de depozit hepatic a fierului",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "feritina rezultă din combinarea fierului cu proteina de transport - apoferitina",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Referitor la chilomicroni sunt corecte variantele, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "permit grăsimilor să se deplaseze în sistemul limfatic și circulator",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "părăsesc enterocitele prin exocitoză",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "părăsesc hepatocitele prin endocitoză",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "rezultă din trigliceride combinate cu molecule de colesterol",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "permit colesterolului să se deplaseze în sistemul limfatic și circulator",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Referitor la compoziția sucului gastric nu este corectă următoarea afirmație:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "enzimele proteolitice ale sucului gastric sunt reprezentate de pepsină și tripsină",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "mucusul gastric are o afinitate mare de a se combina cu acizii gastrici",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "factorul intrinsec secretat de glandele fundice are rol în absorbția vitaminei B12",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "alături de acidul clorhidric la realizarea pH-ului foarte acid concură și acizii carbonic, butiric și lactic",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "la animalele sugare lipaza gastrică este mai activă decât la adulte",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Ficatul nu poate prelua şi stoca sub formă de glicogen întreaga cantitate de glucoză absorbită. De aceea organismul posedă şi alte mecanisme de preluare a excesului de glucoză. Un astfel de mecanism este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "sinteza de acizi graşi",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "sinteza de vitamine cu structură pe bază de glucoză",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "sinteza de proteine",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "sinteza de acizi nucleici, aceștia având în structura lor şi glucide",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "excesul de glucoză este eliminat prin urină, ceea ce este cunoscut sub numele de glicozurie",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Carența căror vitamine poate determina apariția infertilității?",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "vitaminele A și E",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "vitaminele E și D",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "vitaminele A, D și K",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "vitaminele C și D",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "vitaminele hidrosolubile",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Semnul clinic patognomonic de opistotonus la rumegătoare mici și păsări, se întâlnește în carența următoarei vitamine:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "biotina",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "tiamina",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "riboflavina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "piridoxina",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "nicotinamida",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Proteinele serice îndeplinesc numeroase funcții. Una din funcțiile care nu este îndeplinită de aceste proteine este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "transportul acizilor grași",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "constituie sursă de aminoacizi pentru sinteze proteice extrahepatice",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "rol de creare a presiunii oncotice a plasmei",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "vehicul de transport pentru diferiți hormoni",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "vehicul de transport pentru diferite vitamine",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "56. Dezaminarea aminoacizilor:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "are ca rezultat formarea acidului lactic",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "are loc în celulele intestinale",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "are ca rezultat formarea de hidrocarburi și reziduuri azotate",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "determină formarea corpilor cetonici",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "este inhibată de somatostatin",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "57. La rumegătoare, pe lângă aminoacizii glucoformatori, o parte însemnată din necesarul de glucoză este asigurat prin:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "conversia beta-hidroxibutiratului",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "conversia acetatului",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "conversia propionatului",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "conversia acetatului, propionatului, cât și a beta-hidroxibutiratului",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "nu există surse suplimentare pentru completarea necesarului de glucoză, nici la rumegătoare, nici la alte specii",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "58. Vitaminele cu rol esențial în neutralizarea radicalilor liberi din organism sunt:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "vitaminele A, D și C",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "vitaminele E și C",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "vitaminele A și K",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "vitaminele D și K",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "toate vitaminele hidrosolubile",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "59. Vitamina antirahitică prezintă următoarele proprietăți, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "vitaminele D2 și D3 reprezintă forme inactive din punct de vedere biologic",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "sinteza vitaminei D este stimulată de hormonul paratiroidian printr-un mecanism feedback negativ",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "vitamina D favorizează absorbţia calciului şi a fosfaţilor",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "carența de vitamina D la tineret determină apariția rahitismului",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "carența vitaminei D se manifestă prin tulburări ale metabolismului proteic",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "60. Unul dintre dezavantajele depozitării energiei sub formă de lipide îl constituie faptul că:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "ţesutul adipos conţine puţină apă",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "grăsimile, fiind insolubile în apă, necesită forme speciale de transport sanguin",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "acizii graşi sunt convertiţi la glucoză, scăzând disponibilul în caz de solicitări energetice intense",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "lipidele sunt substanţe puternic reduse, ceea ce le scade calitatea energetică",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "acestea se convertesc ușor în proteine",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "61. În urma digestiei fermentative a glucidelor rezultă următorii produşi finali:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "zaharoza și glucoza",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "maltoza",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "glucoza și lactoza",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "acizii grași volatili",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "fructoza",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "62. Colecistokinina:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "intervine în controlul secreției gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "este stimulată de sucul gastric care are aciditate mare",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "rolul ei este secreția pancreatică bogată în bicarbonat",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "este principalul stimulent umoral al secreției de enzime din celulele acinare pancreatice",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "se secretă ca răspuns la prezența glucidelor nedigerate în intestinul subțire",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "63. Referitor la metabolismul glucidic în perioada catabolică (postabsorbtivă), nu este corectă următoarea variantă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "dominanta metabolică a acestei peioade este mobilizarea glucozei din depozite",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "este reprezentat de o succesiune de reacții enzimatice de degradare a moleculei de glucoză",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "are drept rezultat formarea acidul piruvic și energie, sub formă de ATP și NADH",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "se poate desfășura atât în condiții de aerobioză, cât și în condiții de anaerobioză",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "monoglucidele sunt metabolizate sub formă liberă",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "64. Următoarele afirmații privind metabolismul fierului sunt corecte, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "după absorbția sa, fierul se depozitează în enterocit sub formă de apoferitină",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "în sânge, fierul circulă sub formă combinată de transferină",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "în ficat, se depozitează sub formă de ferosiderină",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "cea mai mare cantitate a fierului feric (Fe3+) este redusă la fier feros (Fe2+), în stomac",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "excreţia fierului se face în cantitate mică pe cale digestivă, deoarece organismul îl recuperează din produşii de catabolism",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "65. În procesul de eliminare a amoniacului din organism, degradarea aminoacizilor are loc aproape în totalitate în:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "splină",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "pulmoni",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "rinichi",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "mușchi",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "ficat",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "66. Dominanta metabolică a ţesutului adipos după absorbția intestinală și formarea de depozite este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "ţesutul adipos nu prezintă o dominantă metabolică în această fază",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "reţinerea lipidelor plasmatice pentru evitarea slăbirii",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "mobilizarea acizilor graşi, în vederea furnizării de energie organismului",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "sinteza de lipide",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "sinteza de novo a acizilor graşi",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "67. Acizii grași eliberați din țesutul adipos în sânge, pentru a putea fi transportați:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "nu necesită prezența unor molecule vehicul",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "sunt legați reversibil de gamma-globuline",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "sunt legați reversibil de albumine",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "sunt împachetați în lipoproteine cu densitate mică",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "sunt împachetați în chilomicroni",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "68. Ieșirile de apă, pentru menținerea balanței hidrice, se fac prin următoarele căi vizibile (sensibile):",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "evaporare la suprafața corpului",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "evaporare la suprafața alveolelor pulmonare",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "eliminarea prin fecale, urină și evaporare la suprafața alveolelor pulmonare",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "producții (ouă, lapte) și evaporare la suprafața corpului",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "fecale și urină",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "69. Rolurile fiziologice ale apei sunt următoarele, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "mediu de difuziune",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "transport de căldură",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "lubrifiant pentru reducerea forței de frecare",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "solvent pentru lipide",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "transport de substanțe nutritive la celule",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "70. În reglarea metabolismului apei nu este implicat:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "hormonul antidiuretic",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "vasopresina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "hipotalamusul",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "aldosteronul",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "glucagonul",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "71. Placa turnantă între cele cele trei mari metabolisme (glucidic, lipidic, proteic) este reprezentată de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "lipoproteinlipaza",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "coenzima A",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "acetil Co A",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "malonil coenzima A",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "carnitinpalmitoil transferaza I",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "72. Propionatul este un precursor al glucozei important la rumegătoare. La rumegătoare, propionatul provine din:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "sinteza endogenă de novo",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "absorbția ruminală ca acid gras volatil",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "catabolismul acizilor grași",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "catabolismul acidului propionic",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "catabolismul intermediar al glucozei",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "73. Rumegătoarele își asigură stocul de glucoză și prin protejarea degradării metabolice a acesteia, astfel:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "acizii grași sunt sintetizați pornind de la acetat",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "acizii grași sunt sintetizați pornind de la glucoză",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "nu produc acizi grași",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "acizii grași sunt sintetizați pornind de la aminoacizi",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "acizii grași sunt sintetizați pornind atât de la de la acetat, cât și de la aminoacizi",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "74. Referitor la metabolismul fierului nu este corectă varianta:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "în enterocit, fierul se leagă de o proteină denumită feritină",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "în sânge fierul circulă sub formă legată de o proteină, numită transferină",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "transferina - forma sub care circulă fierul în sange se formează prin legarea acestuia cu apotransferina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "sub formă de feritină, fierul se depozitează temporar în enterocit",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "absorbția fierului se face în duoden și jejun",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "75. Rolurile calciului în organism sunt următoarele, cu o excepție:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este implicat în contracțiile musculare",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "intră în compoziția unor coenzime (NAD+, NADP+) și a unor molecule macroergice (ATP)",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "menține integritatea oaselor și dinților",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "cantități mici de calciu se găsesc și în lichidele extracelulare",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "participă la propagarea și transmiterea influxului nervos",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "76. Rolurile fiziologice ale vitaminei E sunt următoarele, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "are acțiune antioxidantă",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "intervine în sinteza citocromilor, având rol în respirația celulară",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "vitamina E și seleniul au acțiune antagonică",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "stimulează hematopoieza prin stimularea sintezei hemului",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "protejează membrana celulară împotriva acțiunii antioxidanților",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "77. Amoniacul rezultat din dezaminarea aminoacizilor este eliminat din organism sub formă de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "cetoanalogi",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "uree",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "amoniu ureic",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "alanină",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "leucină",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "78. Necesarul de apă al animalelor de fermă este direct proporțional cu:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "starea fiziologică",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "gradul de deshidratare",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "greutatea",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "suprafața corporală",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "vârsta, fiind mai mare la vârstele mai înaintate",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "79. Apa îndeplinește numeroase roluri în organism. Unul dintre rolurile pe care nu le îndeplinește este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "solvent pentru substanțe chimice",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "mediu de difuziune",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "transport de căldură",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "lubrifiant",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "solvent pentru grăsimile ingerate",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "80. Sinteza acizilor grași direct din glucoză este realizată în:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "rumen",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "intestin",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "ficat",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "rinichi",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "pulmoni",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "81. Reglarea metabolismului calciului implică controlul mișcării calciului între fluidul extracelular şi următoarele structuri corporale:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "intestin și os",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "os, ficat și tract gastrointestinal",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "os și rinichi",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "os, tract gastrointestinal și rinichi",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "tract gastrointestinal",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "82. Creşterea concentrației calciului sanguin cu aproximativ 10% determină creşterea imediată a secreției de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "parathormon",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "calcitonină",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "cortizol",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "hormoni androgeni",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "hormoni estrogeni",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Hormonul care stimulează reabsorbția renală a calciului este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "parathormonul",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "calcitonina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "insulina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "glucagonul",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "estrogenii",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Faza intestinală de reglare a secreției de suc gastric se declanșează la:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "pătrunderea ingestei în stomac",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "pătrunderea ingestei în duoden",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "ingestia de furaje",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "imediat după prehensiunea, masticația și deglutiția furajelor ingerate",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "în faza cefalică",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Enterogastrona este un hormon cu rol în reglarea secreției de suc gastric. Rolul său este unul:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "stimulator al secreției de suc gastric",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "stimulator al secreției de secretină, care stimulează la rândul ei și secreția de suc gastric",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "enterogastrona nu are rol în acest sens",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "inhibitor al secreției de suc gastric",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "stimulator al secreției de secretină și indirect de suc gastric",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Pelagra apare ca urmare a carenței în:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "vitamina B1",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "vitamina B2",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "vitamina B3",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "biotinei",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "piridoxinei",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Unul din hormonii alăturați nu are efecte inhibitoare asupra secreției de suc gastric:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "secretina",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "colecistokinina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "somatostatinul",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "enteroglucagonul",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "gastrina",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "În legătură faza intestinală de reglare a secreției de suc pancreatic, nu este corectă varianta:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "implică stimuli endocrini și nervoși",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "peptidele, grăsimile și pH-ul scăzut din lumenul duodenal determină secreția de gastrină",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "reglarea nervoasă este mediată vagal",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "pH-ul scăzut determină și secreția hormonului secretină din epiteliul duodenal",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "secreția de colecistokinină în această fază determină un suc pancreatic bogat în enzime",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Referitor la digestia fermentativă nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este mai lentă decât digestia glandulară",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "schimbă semnificativ substraturile",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "generează produși diferiți față de componeții de bază ai substratului",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "are loc în condiții de anaerobioză",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "implică participarea enzimelor intestinale: proteolitice, lipolitice și glucolitice",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "Enzima care stimulează sinteza de acid carbonic necesar pentru producerea de bicarbonat de sodiu pancreatic este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "pepsina",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "tripsina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "chimotripsina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "anhidraza carbonică",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "anhidraza bicarbonică",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Sucul pancreatic conține numeroase proteaze. Una dintre proteazele pe care nu le conține este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "tripsina",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "chimotripsina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "carboxipeptidaza",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "colagenaza",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "pepsina",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "Noțiunea de proenzimă este sinonimă cu cea de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "enzimă inactivă",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "enzimă activă, inactivată în lumenul digestiv",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "lipază",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "enzimă glicolitică",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "enzimă proteolitică activă",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Activarea tripsinogenului din sucul pancreatic este realizată de:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "tripsină",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "autocatalitic",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "enterokinază",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "enterokinază, tripsină, autocatalitic",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "acidul clorhidric",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "Referitor la digestia fermentativă a proteinelor, la rumegătoare, nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "proteinele sunt degradate până la stadiul de peptide de către enzimele proteolitice din cheag",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "microorganismele ruminale degradează proteina până la stadiul de peptide și aminoacizi",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "o parte din produșii de degradare sunt utilizați de microorganismele ruminale pentru sinteză de proteine proprii",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "sursele de proteine disponibile pentru rumegătoare sunt: proteina din furaje și cea din biomasa fermentativă ruminală",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "proteazele bacteriene extracelulare au roluri asemănătoare cu tripsina",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "95. Care variantă legată de absorbția intestinală a carbohidrațiilor nu este corectă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "sunt absorbiți sub formă de monozaharide",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "absorbția glucozei și fructozei se face printr-un mecanism de sodiu co-transport",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "absorbția tuturor monozaharidelor are loc printr-un transport activ",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "glucoza este cel mai frecvent monozaharid absorbit la nivel intestinal",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "în absența sodiului, absorbția glucozei nu poate avea loc",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "96. Reglarea secreției de bilă se face prin:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "acțiunea secretinei",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "mecanism feedback negativ",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "mecanism feed forward",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "mecanism push-pull",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "acțiunea glucagonului",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "97. Hormonul cu rol în producerea unui volum mare de secreție biliară bogată în bicarbonat este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "gastrina",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "colecistokinina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "secretina",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "motilinul",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "peptidul inhibitor gastric",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "98. Secreția de colecistokinină încetează:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "la pătrunderea în duoden a chimului gastric",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "odată cu alcalinizarea chimului intestinal",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "la încheierea digestiei grăsimilor din lumenul intestinal",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "în momentul demarării digestiei grăsimilor",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "condiționat de scăderea pH-ului duodenal",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "99. Referitor la metabolismul lipidelor nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "lipidele sunt absorbite prin peretele intestinal ca mono-,digliceride, glicerol și acizi grași",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "trigliceridele chilomicronice sunt hidrolizate de către lipoproteinlipaza",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "acizii grași rezultați după hidroliză sunt preluați pentru resinteză și depozitare ca trigliceride",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "chilomicronii părăsesc hepatocitele prin endocitoză și ajung în intestin",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "o parte din acizii grași liberi sunt oxidați, constituind o sursă principală de energie",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "100. Referitor la digestia fermentativă a carbohidrațiilor la rumegătoare nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "carbohidrații sunt hidrolizați de celulaza și amilaza prezente în sucul intestinal",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "are loc în condiții de anaerobioză",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "produșii finali sunt reprezentați de acizii grași volatili",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "celuloza este degradată de bacterii și protozoare din ecosistemul fermentativ",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "digestia carbohidrațiilor se produce preponderant în rumen, la toate speciile de rumegătoare",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "101. Proprietățile sucului pancreatic sunt următoarele cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este un lichid incolor",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "este ușor vâscos",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "are un conținut ridicat de bicarbonat de sodiu",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "prezintă pH acid",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "conține enzime proteolitice, glicolitice și lipolitice",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "102. Proprietățile sucului gastric sunt următoarele cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este un lichid incolor",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "este relativ izotonic cu plasma",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "prezintă pH foarte acid",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "conține substanțe organice reprezentate de enzime, mucus și factor intrinsec",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "glandele gastrice secretă enzime glicolitice",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "103. Despre proenzime nu este corectă următoarea variantă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "sunt enzime proteolitice active",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "este necesară secreția lor pentru evitarea autodigestiei celulelor sintetizatoare",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "sunt reprezentate de pepsinogen, tripsinogen, chimotripsinogen",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "sunt activate în lumenul digestiv",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "sunt stocate în citoplasma celulelor sintetizatoare până la eliberarea lor în lumenul tractului digestiv",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "104. Referitor la metabolismul glucozei nu este corectă următoarea variantă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "glucoza absorbită este condusă prin vena portă",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "excesul de glucoză este depozitat sub formă de glicogen hepatic și trigliceride",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "glucoza scăpată de prelucrarea hepatică este depozitată sub formă de glicogen muscular",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "transportul glucozei în ficat și mușchi este controlat de insulină",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "procesul de degradare al glucozei se face prin glicogenoliză",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "105. Între tainuri sau perioade de înfometare, atunci când nivelul glicemiei scade:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este stimulată gluconeogeneza",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "este inhibată glicogenoliza",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "este stimulată glicogeneza",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "este stimulată glicoliza",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "se trece la consumul de glucoză",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "106. Referitor la metabolismul aminoacizilor nu este corectă următoarea variantă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "o parte din aminoacizii reținuți de ficat sunt folosiți pentru sinteza de proteine proprii",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "ficatul sintetizează majoritatea proteinelor serice",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "proteinele serice constituie sursă de aminoacizi pentru sintezele extrahepatice",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "majoritatea aminoacizilor absorbiți, suportă în ficat un proces de dezaminare",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "aminoacizii sunt transportați prin membrana enterocitară cu ajutorul unor transportori specifici (mecanism de sodiu co-transport)",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "107. Referitor la metabolismul lipidelor nu este corectă următoarea variantă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "trigliceridele constituie forma ideală de stocare a energiei",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "trigliceridele au valoare energetică dublă față de glucide și proteine",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "acizii grași pot fi ușor convertiți in glucoză, de aceea contribuie la aprovizionarea energetică a SNC-ului",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "grăsimile necesită forme speciale de transport",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "lipidele sunt absorbite prin peretele intestinal sub formă de micelii de mono-, di- sau trigliceride, glicerol și acizi grași",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "108. Tripsina:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este o exopeptidază",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "este secretată în forma sa activă",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "acționează inițial la un pH acid",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "este activată de enterokinază",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "este o enzimă glicolitică",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "109. Colecistokinina:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este secretată de celulele ”I” din mucoasa jejunală",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "acționează asupra celulelor ductale determinând secreția unui suc pancreatic sărac în proteine",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "secreția acesteia este stimulată de pH-ul acid ajuns în ileon",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "acționează ca un inhibitor pentru a bloca motilitatea crescută a stomacului determinată de gastrină",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "secreția acesteia este stimulată de terminațiile nervoase simpatice",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "110. Referitor la digestia proteinelor, nu este corectă următoarea variantă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "endopeptidazele eliberează aminoacizi liberi din molecula proteică",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "proteazele sunt secretate sub formă inactivă",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "digestia luminală a proteinelor începe în stomac",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "renina (labfermentul) activă coagulează laptele la pH 5 – 5,5",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "nucleazele hidrolizează acizii nucleici",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "111. Secretina:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "stimulează secreția de suc pancreatic bogat în ioni de bicarbonat",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "este stimulată de prezența produșilor de digestie ai lipidelor și mono-gliceridelor",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "determină o secreția pancreatică bogată în enzime",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "intervine în faza gastrică a secreției de suc gastric",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "este secretată de celulele duodenale și celulele jejunale",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "112. Caracteristicile salivei obținute în urma excitării parasimpaticului sunt următoarele, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "apoasă",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "bogată în substanță uscată",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "fluidă",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "abundentă cantitativ",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "nefilantă",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "113.Referitor la deglutiție, nu este corectă varianta:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "timpii faringian și esofagian ai deglutiției sunt involuntari",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "în timpul faringian sunt evitate căile aeriene",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "în timpul esofagian se produce o apnee de deglutiție",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "este etapa finală a digestiei pregastrice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "timpii involuntari ai deglutiţiei se declanşează după excitarea receptorilor de la nivelul faringelui",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "114. Care caracteristică nu este specifică mișcărilor de segmentare:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "divid intestinul în segmente cu lumen micșorat și segmente cu lumen nemodificat",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "rezultă din contracția fibrelor musculare circulare din structura tubului digestiv",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "aduc în contact conținutul cu suprafața mucoasei intestinale",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "amestecă conținutul intestinal cu sucurile digestive",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "permit adaptarea la cantități mari de hrană, fără creşterea presiunii intraluminale",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "115. Pepsinogenul este secretat de următorul tip de celule al glandelor gastrice:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "parietale",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "principale",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "mucoase",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "celulele G",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "celulele antrului piloric",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "116. Despre reflexul entero-gastric nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este un reflex vago-vagal",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "stimulează motilitatea intestinală, favorizând evacuarea duodenală",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "reglează cantitatea de hrană care părăsește stomacul în funcție de volumul conținutului intestinal",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "efectorul este musculatura peretelui gastric",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "receptorii acestui reflex sunt localizați în mucoasa duodenală",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "117. Despre chimul gastric nu este corectă următoarea variantă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "rezultă în urma amestecării alimentelor cu sucul gastric",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "ajuns în duoden stimulează secreția celulelor parietale gastrice",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "inactivează amilaza salivară",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "la formarea lui participă mișcările peristaltice ale stomacului",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "ajuns în cantitate mare în duoden este împins înapoi în stomac, pentru a continua digestia",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "118. Care variantă despre amilază, nu este corectă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "se găsește și în sucul gastric, dar nu este produsă de stomac",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "descompune carbohidrații încă din cavitatea bucală",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "este o enzimă glicolitică",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "producşii finali de hidroliză sunt poliglucidele",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "alfa-amilaza acţionează optim la un pH în jur de 7,1",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "119. Care enzimă nu este secretată sub formă inactivă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "tripsina",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "chimotripsina",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "pepsina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "renina",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "enterokinaza",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "120. Despre gastrină nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "creșterea pH-ului stimulează eliberarea ei",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "stimulează celulele parietale să intensifice producția de HCl",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "activează contracțiile musculaturii netede",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "la pH 1 secreţia de gastrină este complet blocată",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "inhibă motilitatea ileonului",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "121. Enterogastrona:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "are efecte inhibitoare asupra secreţiei gastrice",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "intervine în faza gastrică a reglării secreției sucului gastric",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "este secretată de celulele E ale glandelor gastrice",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "stimulează peristaltismul gastrointestinal",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "stimulează celulele parietale să intensifice producția de HCl",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "122. Despre digestia proteinelor nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "începe în stomac",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "se definitivează în intestinul gros",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "pepsina scindează proteinele în lanțuri polipeptidice mai mici",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "după stomac, este continuată de enzimele proteolitice pancreatice, în intestinul subțire",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "produsul final sunt aminoacizii, rezultați și în urma acțiunii enzimelor din “marginea în perie” a enterocitelor",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "123. Referitor la digestia lipidelor nu este corectă varianta:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "acizi graşi liberi şi glicerolul sunt produși de hidroliză ai lipidelor",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "lipaza gastrică este cea mai activă lipază din tubul digestiv",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "lipaza pancreatică acţionează asupra lipidelor emulsionate în prealabil de către bilă",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "lipaza pancreatică descompune trigliceridele în doi acizi grași liberi și o monogliceridă",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "aciditatea chimului gastric activează lipaza",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "124. Printre rolurile fiziologice ale vitaminei C nu se numără:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "activarea sistemului imunitar",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "fixarea calciului în oase",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "activarea cascadei coagulării",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "prevenirea anemiei",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "stimularea sintezei de colagen",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "125. În timpul faringian al deglutiției:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "respirația se oprește temporar",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "palatul moale coboară, închizând nasofarinxul",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "limba presează palatul moale",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "osul hioid și laringele sunt trase înapoi",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "glota este poziționată deasupra epiglotei și blochează orificiul laringean",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "126. Contracțiile peristaltice:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "se deplasează în sens oral",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "străbat segmente lungi de intestin",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "deplasează conținutul intestinal în spirală în sensul acelor de ceasornic",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "se transmit bidirecțional",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "sunt alcătuite dintr-o undă de contracție precedată de o undă de relaxare",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "127. Nu reprezintă, în general, mișcări fiziologice ale tractului gastrointestinal, următorul tip de contracții:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "contracțiile antipersitaltice",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "contracțiile de pendulare",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "contracțiile de segmentare",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "contracțiile tonice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "contracțiile propulsive",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "128. Excitarea sistemului nervos simpatic determină secreția de salivă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "fluidă",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "apoasă",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "abundentă cantitativ",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "mucoasă, concentrată",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "săracă în substanță uscată",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "129. Mucusul gastric are o mare afinitate de combinare cu:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "acizii gastrici",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "pepsinogenul",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "renina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "lipaza gastrică",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "factorul intrinsec",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "130. Rolurile acidului clorhidric din sucul gastric sunt următoarele, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "transformă pepsinogenul în pepsină",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "are acţiune bactericidă prin blocarea proceselor de putrefacţie şi fermentaţie gastrică",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "denaturează proteinele din hrana ingerată, pregătindu-le pentru digestie",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "are rol antiseptic prin distrugerea microorganismelor din hrană",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "stimulează secreţia de enterogastronă",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "131. Stimularea simpatică determină:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "contracția peristaltică a colonului descendent",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "contracția peristaltică a colonului sigmoid",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "relaxarea sfincterului anal intern",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "scăderea peristaltismului intestinului gros",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "contracția peristaltică a rectului",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "132. Care enzimă nu este specifică sucului intestinal:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "dipeptidaza",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "nucleaza, nucleotidaza",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "maltaza",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "amilaza",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "enterokinaza",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "133. Colereza – procesul de sinteză a bilei:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este un proces continuu",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "are loc în vezica biliară",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "este stimulată de secreția de glucagon",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "este declanșată de chimul bogat în proteine care intră în duoden",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "este procesul de eliminare a bilei în intestinul subțire",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "134. Referitor la efectul colagog – eliminarea bilei din vezica biliară este corectă următoarea variantă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "contracția vezicii biliare este stimulată de insulină",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "evacuarea bilei are loc în ileon",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "eliminarea bilei începe atunci când alimentele cu conținut bogat în glucide pătrund în duoden",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "controlul umoral se realizează prin colecistokinină",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "în timpul golirii vezicii biliare sfincterului Oddi este contractat",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "135. Referitor la bilă, nu este corectă următoarea afirmație:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "procesul de formare se numește colereză",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "o mare parte din sărurile biliare sunt reabsorbite și reutilizate",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "conține enzime digestive",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "secreția bilei este continuă",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "participă la digestia și absorbția lipidelor",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "136. Specia la care creșterea presiunii intragastrice închide puternic orificiul esofagian inferior determinând ruperea stomacului în încercările de vomă este:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "calul",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "câinele",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "porcul",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "vaca",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "iepurele",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "137. Referitor la deglutiție nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "are loc după masticație și implică timpi voluntari și involuntari",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "între deglutiții atât corpul esofagului, cât și cele două sfinctere sunt relaxate",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "constă în trecerea hranei din cavitatea bucală în stomac",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "timpii involuntari ai deglutiției se declanșează odată cu pătrunderea hranei în faringe",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "propulsarea bolului alimentar prin esofag se face prin mișcări peristaltice",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "138. În cecum și colon digestia se realizează cu ajutorul:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "enzimelor glicolitice",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "enzimelor lipolitice",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "proteazelor",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "bacteriilor",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "bilei",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "139. Una dintre cele mai importante surse de energie pentru organism se obține în urma:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "glicolizei aerobe",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "glicolizei anaerobe",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "conversiei glucozei în acizi grași",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "dezaminării aminoacizilor",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "reesterificării produșilor rezultați din digestia lipidică",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "140. Motilitatea gastrică îndeplinește următoarele roluri, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "furnizează intestinului un conținut de consistență fluidă",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "asigură depozitarea temporară a hranei ingerate",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "pune în contact hrana ingerată cu sucul gastric",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "este preponderent reprezentată de mișcări de segmentare",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "evacuează controlat în intestinal subțire conținutul gastric",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "141. Care dintre contracțiile intestinale au efect propulsiv:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "contracțiile vilozitățiilor intestinale",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "de segmentare",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "peristaltice",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "tonice",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "de pendulare",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "142. Principalele funcții ale colonului sunt, cu excepția:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "absobția apei",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "prelucrarea mecanică a alimentelor",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "absobția electroliților",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "depozitare temporară a fecalelor",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "fermentarea materiei organice scăpate de digestia și absobția intestinului subțire",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "143. Despre salivă nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este produsul de secreție cel mai bogat în apă din organism",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "debitul de salivă depinde de specie și de conținutul în apă al furajelor",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "saliva la rumegătoare este bogată în bicarbonat și are un pH alcalin",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "secreția de salivă poate fi stimulată pe cale reflexă condiționată și necondiționată",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "în reglarea secreției salivare intervine doar componenta parasimpatică",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "144. Nu reprezintă o etapă a rumegării:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "regurgitarea",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "remasticația",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "redigerarea",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "reinsalivarea",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "redeglutirea",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "145. Din glucidele activate prin procesul de fosforilare, cea mai mare cantitate de energie rezultă din:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "glicoliza aerobă",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "glicogenoliza",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "procesul de fosforilare oxidativă",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "glicoliza anaerobă",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "glicoliza",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "146. Referitor la faza gastrică de reglare a secreției de suc gastric nu este corectă varianta:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este declanșată de excitarea receptorilor și chemoreceptorilor din cavitatea bucală",
+          "bool": "true"
+        },
+        {
+          "id": "b",
+          "text": "are o componentă nervos-conditionată și o componentă umorală",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "sucul gastric secretat în această fază este puternic acid și bogat în enzime",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "implică eliberarea de gastrină prin reflex vago-vagal",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "este a doua faza a reglării secreției de suc gastric",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "147. Care variantă legată de sucul pancreatic nu este corectă:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "este un lichid incolor, ușor vâscos și alcalin",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "proteazele pancreatice sunt sintetizate sub formă de proenzime",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "activarea chimotripsinogenului este un proces autocatalitic",
+          "bool": "true"
+        },
+        {
+          "id": "d",
+          "text": "reglarea secreției recunoaște trei faze: cefalică, gastrică și intestinală",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "gastrina stimulează secreația de suc pancreatic",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "148. Referitor la pigmenții biliari, nu este corectă afirmația:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "sunt produşi de excreţie ai ficatului",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "nu au funcții digestive",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "dau culoarea caracteristică bilei în funcție de specie",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "sunt reprezentați de bilirubină și biliverdină",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "sunt transportați sub formă liberă în sânge",
+          "bool": "true"
+        }
+      ]
+    },
+    {
+      "question": "149. Care dintre următoarele roluri ale bilei nu este corect:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "contribuie la tamponarea mediului duodenal",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "activează peristaltismul",
+          "bool": "false"
+        },
+        {
+          "id": "c",
+          "text": "prin fosfolipidele, colesterolul și acizii biliari pe care îi conține, participă la digestia și absorbția lipidelor",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "stimulează dezvoltarea florei de fermentație și de putrefacție din colon",
+          "bool": "true"
+        },
+        {
+          "id": "e",
+          "text": "emulsionează lipidele",
+          "bool": "false"
+        }
+      ]
+    },
+    {
+      "question": "150. Care enzimă nu se găsește în sucul pancreatic:",
+      "options": [
+        {
+          "id": "a",
+          "materie":"fizio",
+          "text": "tripsina",
+          "bool": "false"
+        },
+        {
+          "id": "b",
+          "text": "renina",
+          "bool": "true"
+        },
+        {
+          "id": "c",
+          "text": "chimotripsina",
+          "bool": "false"
+        },
+        {
+          "id": "d",
+          "text": "carboxipeptidaza",
+          "bool": "false"
+        },
+        {
+          "id": "e",
+          "text": "lipaza",
+          "bool": "false"
+        }
+      ]
+    }
+  ]
+}

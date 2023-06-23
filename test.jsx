@@ -5,6 +5,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "",
           bool: "false",
         },
@@ -36,6 +37,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "neagră",
           bool: "false",
         },
@@ -66,6 +68,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "aspect de leziune multifocală dominată de necroză tisulară",
           bool: "false",
         },
@@ -97,6 +100,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "inflamaţia catarală",
           bool: "false",
         },
@@ -128,6 +132,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "formarea de butoni difteroizi",
           bool: "false",
         },
@@ -159,6 +164,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "neutrofile",
           bool: "true",
         },
@@ -190,6 +196,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "catarală",
           bool: "false",
         },
@@ -220,6 +227,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "apariţia ţesutului de granulaţie",
           bool: "false",
         },
@@ -250,6 +258,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "cutanat",
           bool: "false",
         },
@@ -281,6 +290,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "adenomatoză",
           bool: "false",
         },
@@ -311,6 +321,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "are drept origine pericitul",
           bool: "false",
         },
@@ -341,6 +352,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "doar după forma tumorii",
           bool: "false",
         },
@@ -371,6 +383,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "desmoplazie pronunţată",
           bool: "true",
         },
@@ -402,6 +415,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "adenom",
           bool: "false",
         },
@@ -432,6 +446,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "fibrom",
           bool: "false",
         },
@@ -463,6 +478,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "condrosarcomul",
           bool: "false",
         },
@@ -494,6 +510,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "mastocitom bine diferenţiat",
           bool: "false",
         },
@@ -525,6 +542,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hemangiopericitom",
           bool: "false",
         },
@@ -556,6 +574,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "carcinomul",
           bool: "false",
         },
@@ -586,6 +605,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "osteosarcomul osteoblastic",
           bool: "false",
         },
@@ -617,6 +637,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "în suspiciune de osteosarcom",
           bool: "true",
         },
@@ -648,6 +669,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hemangiopericitom",
           bool: "false",
         },
@@ -679,6 +701,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "limfom",
           bool: "false",
         },
@@ -710,6 +733,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "mastocitom --- celula dendritică",
           bool: "false",
         },
@@ -741,6 +765,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "cutanată",
           bool: "false",
         },
@@ -772,6 +797,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "fibrosarcom",
           bool: "true",
         },
@@ -802,6 +828,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "în mezoteliom diagnosticul citopatologic nu trebuie confirmat prin examen histologic",
           bool: "false",
         },
@@ -833,6 +860,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "adenocarcinom chistic papilar de glandă sudoripară",
           bool: "false",
         },
@@ -864,6 +892,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "mastocitom",
           bool: "false",
         },
@@ -894,6 +923,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "osteomul",
           bool: "false",
         },
@@ -925,6 +955,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "melanom",
           bool: "false",
         },
@@ -956,6 +987,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "carcinomul cu celule scvamoase",
           bool: "false",
         },
@@ -986,6 +1018,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "dispunerea celulelor tumorale în palisadă sau în „oase de peşte”",
           bool: "false",
         },
@@ -1016,6 +1049,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hemangiosarcom",
           bool: "false",
         },
@@ -1047,6 +1081,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "fibromul bogat celular //// fibrosarcom",
           bool: "false",
         },
@@ -1078,6 +1113,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "tumoră cu comportament benign, care poate înregistra regresie spontană şi frecvent afectează câinii tineri (sub 2 ani)",
           bool: "true",
         },
@@ -1109,6 +1145,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hemangiosarcom",
           bool: "false",
         },
@@ -1140,6 +1177,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "ulcerul",
           bool: "false",
         },
@@ -1170,6 +1208,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "tumoră neuroectodermică, de alcătuită dintr-o populaţie celulară mixtă reprezentată defibroblaste şi histiocite",
           bool: "false",
         },
@@ -1201,6 +1240,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "meningiomul",
           bool: "false",
         },
@@ -1232,6 +1272,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "mielom multiplu",
           bool: "false",
         },
@@ -1263,6 +1304,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "lobuli de cartilaj hialin",
           bool: "false",
         },
@@ -1294,6 +1336,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "abundenţă de fibre de colagen şi fibrocite dispuse în benzi",
           bool: "false",
         },
@@ -1325,6 +1368,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "adenom trabecular - proiecţii epiteliale digitiforme sau ramificate spre lumenul chistului",
           bool: "false",
         },
@@ -1356,6 +1400,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "condrom",
           bool: "false",
         },
@@ -1387,6 +1432,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "necroza ceroasă cu afectarea musculaturii pectorale la pasăre",
           bool: "true",
         },
@@ -1418,6 +1464,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "lipomul",
           bool: "false",
         },
@@ -1448,6 +1495,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "gangrenă uscată",
           bool: "false",
         },
@@ -1479,6 +1527,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "examen clinic",
           bool: "false",
         },
@@ -1510,6 +1559,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "histiocitom cutanat canin",
           bool: "false",
         },
@@ -1540,6 +1590,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "doar pe localizarea cutanată",
           bool: "false",
         },
@@ -1571,6 +1622,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hemangiom",
           bool: "true",
         },
@@ -1602,6 +1654,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "tuberculoză peritoneală",
           bool: "false",
         },
@@ -1633,6 +1686,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "peritonita seroasă",
           bool: "false",
         },
@@ -1664,6 +1718,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "prognosticul diferă doar în funcţie de localizarea tumorii",
           bool: "false",
         },
@@ -1694,6 +1749,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "limfatică în fibropapilom",
           bool: "false",
         },
@@ -1725,6 +1781,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "dermarită granulomatoasă",
           bool: "false",
         },
@@ -1756,6 +1813,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "granulom de corp străin",
           bool: "false",
         },
@@ -1786,6 +1844,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "este o inflamaţie care evoluează întotdeauna cronic",
           bool: "false",
         },
@@ -1816,6 +1875,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "se stabileşte clinic pe baza granuloamelor ce deformează planul nazal",
           bool: "false",
         },
@@ -1847,6 +1907,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "transformarea în inflamaţie foliculară",
           bool: "false",
         },
@@ -1878,6 +1939,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "leucocite numeroase, celule mezoteliale de iritaţie şi precipitat proteic",
           bool: "true",
         },
@@ -1909,6 +1971,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hepatită necrotică din histomonoza aviară",
           bool: "false",
         },
@@ -1940,6 +2003,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "inflamaţia toxică-acută",
           bool: "false",
         },
@@ -1971,6 +2035,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "inflamaţie granulomatoasă",
           bool: "false",
         },
@@ -2002,6 +2067,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "mucoasă hiperemiată, acoperită de pelicule albicioase-gălbui sau de depozite fin granulare ce se îndepărtează cu uşurinţă - este descrierea pentru inflamaţie seroasă/ edematoasă",
           bool: "false",
         },
@@ -2032,6 +2098,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "reprezintă o formă de cronicizare a inflamaţiei fibrinoase, proces dominat de proliferarea ţesutului conjunctiv",
           bool: "true",
         },
@@ -2063,6 +2130,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "capilare de neoformaţie şi celularitate mixtă (limfocite, plasmocite, macrofage, fibroblaste) //// focarelor de inflamaţie miliară necrotică",
           bool: "false",
         },
@@ -2093,6 +2161,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "fenomenului de fistulizare a abceselor subcutanate la suine",
           bool: "false",
         },
@@ -2124,6 +2193,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "inflamaţia granulomatoasă",
           bool: "false",
         },
@@ -2154,6 +2224,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "se exprimă macroscopic prin splenomegalie",
           bool: "true",
         },
@@ -2185,6 +2256,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "În inflamaţia granulomatoasă, în mucoasa intestinală se constată descuamări epiteliale masive, necroză superficială şi acoperirea mucoasei cu o reţea de fibrină. Hiperemia şi exsudaţia leucocitară sunt evidente.",
           bool: "false",
         },
@@ -2216,6 +2288,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "vor domina celulele mononucleare",
           bool: "false",
         },
@@ -2247,6 +2320,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "nodul puloric",
           bool: "true",
         },
@@ -2278,6 +2352,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "nu se impune diagnostic diferenţial între inflamaţia hemoragică şi hemoragie",
           bool: "false",
         },
@@ -2310,6 +2385,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "celula gigantă multinucleată",
           bool: "false",
         },
@@ -2342,6 +2418,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "dezvoltarea unei inflamaţii cronice",
           bool: "true",
         },
@@ -2374,6 +2451,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "celulele epiteliale",
           bool: "false",
         },
@@ -2405,6 +2483,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "frotiu bogat în celule mononucleare, majoritatea fiind macrofage, rare celule gigante multinucleate cu nuclei uniformi, dispuşi sub membrana plasmatică a celulei sub formă de „coroniţă” sau de „potcoavă”",
           bool: "false",
         },
@@ -2436,6 +2515,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "neutrofilele şi Interferonul γ",
           bool: "false",
         },
@@ -2467,6 +2547,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "zonă centrală de necroză, cu focare de calcificare; strat de celule gigante multinucleate",
           bool: "false",
         },
@@ -2498,6 +2579,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "zonă centrală de necroză de cazeificare cu sau fără focare de calcificare; strat de celule gigante multinucleate; strat de celule epitelioide",
           bool: "false",
         },
@@ -2529,6 +2611,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "granulom aspergilar - impregnaţie argentică",
           bool: "true",
         },
@@ -2559,6 +2642,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "un anumit agent etiologic",
           bool: "true",
         },
@@ -2590,6 +2674,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "focare miliare, negricioase, asociate cu depozite alb-văroase pe capsula splenică",
           bool: "false",
         },
@@ -2621,6 +2706,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "focare miliare, roşii-negricioase, asociate cu depozite alb-văroase pe capsula hepatică",
           bool: "false",
         },
@@ -2652,6 +2738,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "rinita purulentă",
           bool: "false",
         },
@@ -2683,6 +2770,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "inflamaţie catarală",
           bool: "false",
         },
@@ -2713,6 +2801,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "inflamaţia descuamativă",
           bool: "false",
         },
@@ -2744,6 +2833,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "leziune linguală acută, caracterizată prin reacţie inflamatorie bogată în neutrofile spre centrul ulcerului şi plasmocite spre periferia acestuia, prezenţa eozinofilelor fiind inconstantă",
           bool: "false",
         },
@@ -2774,6 +2864,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "inflamaţia fibrinoasă",
           bool: "false",
         },
@@ -2805,6 +2896,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "tuberculos",
           bool: "false",
         },
@@ -2836,6 +2928,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "granulomul macrofagic",
           bool: "false",
         },
@@ -2867,6 +2960,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "pustulă - acumularea exsudatului purulent în cavităţi",
           bool: "false",
         },
@@ -2898,6 +2992,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "inflamaţia hemoragică",
           bool: "false",
         },
@@ -2928,6 +3023,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "sero-fibrinoase",
           bool: "false",
         },
@@ -2959,6 +3055,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "celulelor epiteliale",
           bool: "false",
         },
@@ -2990,6 +3087,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "virală",
           bool: "false",
         },
@@ -3021,6 +3119,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "mucoasa nazală, pulmon, glandă mamară, ţesut osos",
           bool: "false",
         },
@@ -3052,6 +3151,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "meninge, pleură, pericard, glomerul renal",
           bool: "true",
         },
@@ -3083,6 +3183,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "abcesul pulmonar",
           bool: "false",
         },
@@ -3113,6 +3214,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "fibrosarcom",
           bool: "false",
         },
@@ -3144,6 +3246,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "necroza ceroasă",
           bool: "false",
         },
@@ -3175,6 +3278,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "aspect pergamentos",
           bool: "false",
         },
@@ -3205,6 +3309,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "pulmon",
           bool: "false",
         },
@@ -3235,6 +3340,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "detritus celular",
           bool: "false",
         },
@@ -3266,6 +3372,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "abces",
           bool: "false",
         },
@@ -3297,6 +3404,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "catarală",
           bool: "false",
         },
@@ -3327,6 +3435,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "În granulomul tuberculos matur pot să apară focare de calcificare",
           bool: "false",
         },
@@ -3357,6 +3466,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "cunoști doar localizarea și numărul tumorii",
           bool: "false",
         },
@@ -3388,6 +3498,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "macroscopic",
           bool: "false",
         },
@@ -3418,6 +3529,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "amiloidoza renală, prin alterarea structurii capilarelor glomerulare şi a funcţiei de filtrare glomerulară determină insuficienţă renală",
           bool: "true",
         },
@@ -3448,6 +3560,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "sunt depozitele de hialin din citoplasma hepatocitelor",
           bool: "false",
         },
@@ -3479,6 +3592,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "icter",
           bool: "false",
         },
@@ -3510,6 +3624,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "țesut muscular – perturbarea sintezei de imunoglobuline",
           bool: "false",
         },
@@ -3541,6 +3656,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hipovitaminoza A - țesut muscular",
           bool: "false",
         },
@@ -3572,6 +3688,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "în infarctele splenice din pesta porcină clasică",
           bool: "false",
         },
@@ -3603,6 +3720,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hialinoza",
           bool: "false",
         },
@@ -3634,6 +3752,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "trigliceridele",
           bool: "false",
         },
@@ -3665,6 +3784,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "glucocerebrozidoza",
           bool: "false",
         },
@@ -3696,6 +3816,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "aspect necaracteristic",
           bool: "false",
         },
@@ -3727,6 +3848,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "doar culoarea",
           bool: "false",
         },
@@ -3758,6 +3880,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "rujet",
           bool: "false",
         },
@@ -3789,6 +3912,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "plasmocitoza nurcilor",
           bool: "false",
         },
@@ -3820,6 +3944,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "distrofia și necroza fibrinoidă",
           bool: "true",
         },
@@ -3851,6 +3976,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "mastocitom - lipomatoză",
           bool: "false",
         },
@@ -3882,6 +4008,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "miozita eozinofilică",
           bool: "false",
         },
@@ -3913,6 +4040,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "formării de noduli gliali",
           bool: "false",
         },
@@ -3943,6 +4071,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "datorită fosfolipidelor din compoziția lichidul surfactant",
           bool: "true",
         },
@@ -3974,6 +4103,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hialin – vacuole optic goale, care dislocă nucleul",
           bool: "true",
         },
@@ -4004,6 +4134,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "boli cronice – amiloid",
           bool: "false",
         },
@@ -4035,6 +4166,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "splină Sago – amiloidoză localizată",
           bool: "false",
         },
@@ -4066,6 +4198,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "miocardită limfohistiocitară",
           bool: "false",
         },
@@ -4097,6 +4230,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "amiloidoză renală",
           bool: "false",
         },
@@ -4128,6 +4262,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "grasă",
           bool: "false",
         },
@@ -4159,6 +4294,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "în obezitate la câine",
           bool: "false",
         },
@@ -4190,6 +4326,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "enterită hemoragică",
           bool: "false",
         },
@@ -4220,6 +4357,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "carcinom mucinos",
           bool: "true",
         }, {
@@ -4250,6 +4388,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "ischemia mucoasei urmată de contractura vilozităților",
           bool: "false",
         },
@@ -4281,6 +4420,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "structură nodulară epitelizată, care generează puroi",
           bool: "false",
         },
@@ -4312,6 +4452,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "formarea unor cordoane de celule endoteliale, care ulterior formează lumen",
           bool: "true",
         },
@@ -4343,6 +4484,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "când sunt afectate celulele miosatelite",
           bool: "false",
         },
@@ -4373,6 +4515,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "un coagul sanguin apărut consecutiv unei fracturi osoase",
           bool: "false",
         },
@@ -4404,6 +4547,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "atrofie și fibroză",
           bool: "true",
         },
@@ -4434,6 +4578,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hiperplazia celulelor Ito",
           bool: "false",
         },
@@ -4465,6 +4610,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "reparare regenerativă",
           bool: "false",
         },
@@ -4495,6 +4641,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "prezența exsudatului în cantitate mare",
           bool: "true",
         },
@@ -4526,6 +4673,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hialinoza și necroza de tip Zenker",
           bool: "true",
         },
@@ -4557,6 +4705,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "hialinoza epiteliului tubilor renali",
           bool: "false",
         },
@@ -4588,6 +4737,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "5 cm/zi",
           bool: "false",
         },
@@ -4619,6 +4769,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "teritoriu tisular necrozat delimitat de o capsulă conjunctivă groasă",
           bool: "true",
         },
@@ -4648,6 +4799,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "",
           bool: "false",
         },
@@ -4677,6 +4829,7 @@ export const quiz = {
       options: [
         {
           id: "a",
+          materie:"anatopat",
           text: "",
           bool: "false",
         },
