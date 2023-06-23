@@ -16,21 +16,19 @@ function App() {
   const [materie, setMaterie] = useState(true);
   const [haide, setHaide] = useState(quiz);
   const [corect, setCorect] = useState("");
-  const [ordine, setOrdine] = useState(true)
-  const [textOrdine, setTextOrdine] = useState("Vreau in ordine")
+  const [ordine, setOrdine] = useState(true);
+  const [textOrdine, setTextOrdine] = useState("Vreau in ordine");
 
   const handleOrdine = () => {
-     setOrdine(!ordine)
-     if(ordine == true){
-      
-      setTextOrdine("Vreau amestecate")
-    }else {
-    
-    setTextOrdine("Vreau in ordine")
-  } 
-  }
+    setOrdine(!ordine);
+    if (ordine == true) {
+      setTextOrdine("Vreau amestecate");
+    } else {
+      setTextOrdine("Vreau in ordine");
+    }
+  };
 
-  console.log(ordine);
+
 
   const findTrueValue = () => {
     const trueOption = haide.questions[count].options.find(
@@ -42,7 +40,7 @@ function App() {
     return "No true value found.";
   };
 
-  console.log(findTrueValue());
+ 
 
   const handleMaterie = () => {
     materie ? setMaterie(false) : setMaterie(true);
@@ -59,30 +57,35 @@ function App() {
     let question = haide.questions[count].question;
     setTruty(buttonTrue);
 
+    let thing = question +
+    "\n" +
+    "Raspuns Corect: \n" +
+    findTrueValue() +
+    "\n" +
+    materie +
+    "-" +
+    count +
+    "-" +
+    buttonValue +
+    " - " +
+    buttonTrue;
+
+    let haha=`${question}\n Raspuns Corect: \n ${findTrueValue()}
+     \n ${materie} - ${count}-${buttonValue}-${buttonTrue}`
+
+  
+
     setAns((prevState) => [
       ...prevState,
-      question +
-        "\n" +
-        "Raspuns Corect:" +
-        findTrueValue() +
-        "\n" +
-        materie +
-        "-" +
-        count +
-        "-" +
-        buttonValue +
-        " - " +
-        buttonTrue,
+      haha,
     ]);
     setCount("");
-    if(ordine == false){
-      setCount(count+1)
-     
-    }else {
-    setCount(getRandomInt(150));
-  
-  } 
-   
+    if (ordine == false) {
+      setCount(count + 1);
+    } else {
+      setCount(getRandomInt(150));
+    }
+
     if (buttonTrue === "false") {
       setCorect(haide.questions[count]);
     }

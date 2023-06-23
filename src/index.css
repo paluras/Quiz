@@ -60,12 +60,15 @@ p{
   grid-template-columns: 1fr  ;
   
   
+  
 }
 
 
 .the-ans > div{
-
+  padding: 10px;
   border: 2px solid rgb(135, 135, 229);
+  
+
 }
 
 
