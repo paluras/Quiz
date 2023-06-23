@@ -42,7 +42,7 @@ function App() {
 
   return (
     <>
-      <h1 className="container-title">{quiz.questions[count].question}</h1>
+      <h2 className="container-title">{quiz.questions[count].question}</h2>
       <div className="answers-multipole">
         <div className="answer">
           <button
@@ -96,7 +96,7 @@ function App() {
           <span>{quiz.questions[count].options[4].text} </span>
         </div>
       </div>
-      <h4>{ans}</h4>
+      <p>{ans}</p>
     </>
   );
 }
