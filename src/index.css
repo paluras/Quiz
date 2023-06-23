@@ -1,0 +1,41 @@
+
+*{
+ margin: 0;
+
+}
+
+body{
+  background-color: rgba(166, 166, 235, 0.404);
+}
+
+
+.container-title{
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(137, 137, 216, 0.404);
+}
+
+.answer{
+  color: white;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  background-color: rgb(71, 71, 158);
+  border: 2px solid rgba(255, 255, 255, 0.247);
+  display: flex;
+  
+ 
+ 
+}
+
+.margin > button{
+ width: 300px;
+}
+
+.answers-multipole{
+  align-items: center;
+  background-color: rgb(71, 71, 158);
+  justify-content: center;
+}
