@@ -1,32 +1,32 @@
 export const quiz = {
   questions: [
     {
-      question: "Sa Incepem",
+      question: "Hai",
       options: [
         {
           id: "a",
-          materie:"anatopat",
+          materie:"Press a button",
           text: "",
           bool: "false",
         },
         {
           id: "b",
-          text: "",
+          text: "Press a button",
           bool: "false",
         },
         {
           id: "c",
-          text: "",
+          text: "Press a button",
           bool: "false",
         },
         {
           id: "d",
-          text: "",
+          text: "Press a button",
           bool: "false",
         },
         {
           id: "e",
-          text: "",
+          text: "Press a button",
           bool: "false",
         },
       ],
