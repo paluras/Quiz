@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import { quiz } from "../test";
 import fizio from "../fizio.json";
-
+import fizioPat from "../fizioPat.json";
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
@@ -13,11 +13,12 @@ function App() {
   const [count, setCount] = useState(1);
   const [ans, setAns] = useState([]);
   const [truty, setTruty] = useState("");
-  const [materie, setMaterie] = useState(true);
+  const [materie, setMaterie] = useState(1);
   const [haide, setHaide] = useState(quiz);
   const [corect, setCorect] = useState("");
   const [ordine, setOrdine] = useState(true);
   const [textOrdine, setTextOrdine] = useState("Vreau in ordine");
+  
 
   const handleOrdine = () => {
     setOrdine(!ordine);
@@ -27,8 +28,6 @@ function App() {
       setTextOrdine("Vreau in ordine");
     }
   };
-
-
 
   const findTrueValue = () => {
     const trueOption = haide.questions[count].options.find(
@@ -40,14 +39,15 @@ function App() {
     return "No true value found.";
   };
 
- 
-
-  const handleMaterie = () => {
-    materie ? setMaterie(false) : setMaterie(true);
-
-    if (materie === true) {
-      setHaide(fizio);
-    } else setHaide(quiz);
+  const handleMaterie = (event) => {
+    let materie = event.target.getAttribute("materieLes");
+    console.log(materie);
+    if (materie == 1) {
+      setHaide(quiz);
+    } else if(materie ==2){
+      setHaide(fizioPat);
+    } else if(materie == 3) setHaide(fizio);
+      
   };
 
   const handleClick = (event) => {
@@ -57,36 +57,30 @@ function App() {
     let question = haide.questions[count].question;
     setTruty(buttonTrue);
 
-    
-    if(question === undefined)return setCount(1)
-   
-    let thing = question +
-    "\n" +
-    "Raspuns Corect: \n" +
-    findTrueValue() +
-    "\n" +
-    materie +
-    "-" +
-    count +
-    "-" +
-    buttonValue +
-    " - " +
-    buttonTrue;
+    if (question === undefined) return setCount(1);
 
-    let haha=`${question}\n Raspuns Corect: \n ${findTrueValue()}
-     \n ${materie} - ${count}-${buttonValue}-${buttonTrue}`
+    let thing =
+      question +
+      "\n" +
+      "Raspuns Corect: \n" +
+      findTrueValue() +
+      "\n" +
+      materie +
+      "-" +
+      count +
+      "-" +
+      buttonValue +
+      " - " +
+      buttonTrue;
 
-  
+    let haha = `${question}\n Raspuns Corect: \n ${findTrueValue()}
+     \n ${materie} - ${count}-${buttonValue}-${buttonTrue}`;
 
-    setAns((prevState) => [
-      ...prevState,
-      haha,
-    ]);
-    if(count == undefined)return setCount(0)
+    setAns((prevState) => [...prevState, haha]);
+    if (count == undefined) return setCount(0);
     setCount("");
     if (ordine == false) {
-      setCount(count + 1)
-       
+      setCount(count + 1);
     } else {
       setCount(getRandomInt(150));
     }
@@ -94,18 +88,21 @@ function App() {
     if (buttonTrue === "false") {
       setCorect(haide.questions[count]);
     }
-   
   };
-
-   
-    
 
   return (
     <>
       <h3 className="container-title">{haide.questions[count].question}</h3>
-      <button className="change" onClick={handleMaterie}>
-        Schimba Materia
+      <div><button materieles="1" className="change" onClick={handleMaterie}>
+        Altceva?
       </button>
+      <button materieles="2" className="change" onClick={handleMaterie}>
+        FizioPat
+      </button>
+      <button materieles="3" className="change" onClick={handleMaterie}>
+        Fizio
+      </button></div>
+     
       <button className="change" onClick={handleOrdine}>
         {textOrdine}
       </button>
