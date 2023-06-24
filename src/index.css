@@ -1,24 +1,19 @@
-
-*{
- margin: 0;
- font-family: 'Roboto', sans-serif;
-
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
 }
-#root{
+#root {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  justify-content: space-between;
-
 }
 
-body{
+body {
   background-color: rgba(166, 166, 235, 0.404);
 }
 
-
-.container-title{
-  height: 30vh;
+.container-title {
+  min-height: 30vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -26,7 +21,7 @@ body{
   text-align: center;
 }
 
-.answer{
+.answer {
   color: white;
   display: flex;
   gap: 15px;
@@ -34,54 +29,78 @@ body{
   background-color: rgb(71, 71, 158);
   border: 2px solid rgba(255, 255, 255, 0.247);
   display: flex;
-  
- 
- 
 }
 
-.margin > button{
- width: 300px;
+.margin > button {
+  width: 300px;
 }
 
-.answers-multipole{
+.answers-multipole {
   align-items: center;
   background-color: rgb(71, 71, 158);
   justify-content: center;
-  
 }
 
-
-p{
+p {
   padding: 30px;
 }
 
-.the-ans{
+.the-ans {
   display: grid;
-  grid-template-columns: 1fr  ;
-  
-  
-  
+  grid-template-columns: 1fr;
 }
 
-
-.the-ans > div{
+.the-ans > div {
   padding: 10px;
   border: 2px solid rgb(135, 135, 229);
-  
-
 }
 
-
-.change{
-  width: 300px;
-  margin: 0 auto
+.change {
+  width: 150px;
+  margin: 0 auto;
+  height: 55px;
+  font-weight: bold;
 }
 
-#root > .change{
+#root > .change {
   align-content: center;
   justify-content: center;
 }
 
-.se{
+.se {
   color: rgb(218, 111, 79);
 }
+
+
+
+/* CSS */
+button {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #183766;
+  cursor: pointer;
+  border: 3px solid rgb(92, 92, 179);
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  text-align: center;
+}
+
+button:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+
+.nav-bar{
+  display: flex;
+  
+}
+

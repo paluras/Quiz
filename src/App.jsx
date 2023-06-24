@@ -1,6 +1,5 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+
 import "./App.css";
 import { quiz } from "../test";
 import fizio from "../fizio.json";
@@ -12,13 +11,11 @@ function getRandomInt(max) {
 function App() {
   const [count, setCount] = useState(1);
   const [ans, setAns] = useState([]);
-  const [truty, setTruty] = useState("");
-  const [materie, setMaterie] = useState(1);
+
   const [haide, setHaide] = useState(quiz);
-  const [corect, setCorect] = useState("");
+
   const [ordine, setOrdine] = useState(true);
   const [textOrdine, setTextOrdine] = useState("Vreau in ordine");
-  
 
   const handleOrdine = () => {
     setOrdine(!ordine);
@@ -44,10 +41,9 @@ function App() {
     console.log(materie);
     if (materie == 1) {
       setHaide(quiz);
-    } else if(materie ==2){
+    } else if (materie == 2) {
       setHaide(fizioPat);
-    } else if(materie == 3) setHaide(fizio);
-      
+    } else if (materie == 3) setHaide(fizio);
   };
 
   const handleClick = (event) => {
@@ -55,23 +51,9 @@ function App() {
     let materie = event.target.getAttribute("materie");
     let buttonTrue = event.target.getAttribute("bool");
     let question = haide.questions[count].question;
-    setTruty(buttonTrue);
+
 
     if (question === undefined) return setCount(1);
-
-    let thing =
-      question +
-      "\n" +
-      "Raspuns Corect: \n" +
-      findTrueValue() +
-      "\n" +
-      materie +
-      "-" +
-      count +
-      "-" +
-      buttonValue +
-      " - " +
-      buttonTrue;
 
     let haha = `${question}\n Raspuns Corect: \n ${findTrueValue()}
      \n ${materie} - ${count}-${buttonValue}-${buttonTrue}`;
@@ -85,24 +67,27 @@ function App() {
       setCount(getRandomInt(150));
     }
 
-    if (buttonTrue === "false") {
-      setCorect(haide.questions[count]);
-    }
+
   };
 
   return (
     <>
+    <nav>
+    <div className="nav-bar">
+        <button materieles="1" className="change" onClick={handleMaterie}>
+          Altceva?
+        </button>
+        <button materieles="2" className="change" onClick={handleMaterie}>
+          FizioPat
+        </button>
+        <button materieles="3" className="change" onClick={handleMaterie}>
+          Fizio
+        </button>
+      </div>
+    </nav>
       <h3 className="container-title">{haide.questions[count].question}</h3>
-      <div><button materieles="1" className="change" onClick={handleMaterie}>
-        Altceva?
-      </button>
-      <button materieles="2" className="change" onClick={handleMaterie}>
-        FizioPat
-      </button>
-      <button materieles="3" className="change" onClick={handleMaterie}>
-        Fizio
-      </button></div>
-     
+      
+
       <button className="change" onClick={handleOrdine}>
         {textOrdine}
       </button>
