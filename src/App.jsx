@@ -7,6 +7,8 @@ import fizioPat from "../fizioPat.json";
 import histo from "../histo.json";
 import igiena from "../igiena.json";
 import anato from "../anato.json";
+import farmaco from"../farmaco.json"
+import micro from "../micro.json"
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
@@ -19,7 +21,7 @@ function App() {
   const [haide, setHaide] = useState(quiz);
   const [color, setColor] = useState("active");
   const [ordine, setOrdine] = useState(true);
-  const [textOrdine, setTextOrdine] = useState("Vreau in ordine");
+  const [textOrdine, setTextOrdine] = useState("In ordine");
   const [activeButton, setActiveButton] = useState(null);
 
   const handleButtonClick = (buttonId) => {
@@ -29,9 +31,9 @@ function App() {
   const handleOrdine = () => {
     setOrdine(!ordine);
     if (ordine == true) {
-      setTextOrdine("Vreau amestecate");
+      setTextOrdine("Amestecate");
     } else {
-      setTextOrdine("Vreau in ordine");
+      setTextOrdine("In ordine");
     }
   };
 
@@ -67,6 +69,13 @@ function App() {
     } else if (materie == 6) {
       handleButtonClick("button6");
       setHaide(anato);
+    }else if (materie == 7) {
+      handleButtonClick("button7");
+      setHaide(farmaco);
+    }
+    else if (materie == 8) {
+      handleButtonClick("button8");
+      setHaide(micro);
     }
   };
 
@@ -154,6 +163,26 @@ function App() {
             onClick={handleMaterie}
           >
             Anatomie
+          </button>
+          <button
+            style={{
+              backgroundColor: activeButton === "button7" ? "red" : "white",
+            }}
+            materieles="7"
+            className={`change`}
+            onClick={handleMaterie}
+          >
+            Farmaco
+          </button>
+          <button
+            style={{
+              backgroundColor: activeButton === "button8" ? "red" : "white",
+            }}
+            materieles="8"
+            className={`change`}
+            onClick={handleMaterie}
+          >
+            Micro
           </button>
           <button className={`change`} onClick={handleOrdine}>
             {textOrdine}

@@ -1,0 +1,4504 @@
+{
+    "questions":[
+    {
+        "question": "Plasmidele sunt constituite din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ADN extracromozomal",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. ARNm",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. ARNt",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ARNr",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. numai din ADN intracromozomal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În natură bacteriile se găsesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. numai sub formă de spori",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. numai sub formă de celule vegetative",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sub formă de celule vegetative, sau alternativ, sub formă de celule vegetative și sub formă de spori",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. numai sub formă de rezistenţă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. sub formă de rezistenţă şi vegetativă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Încetinirea multiplicărilor bacteriene într-un mediu lichid în faza staționară este determinată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epuizarea substanțelor nutritive din mediul de cultură",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. realizarea unei concentrații maxime de celule/unitatea de volum",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. acumularea unor metaboliți în mediul de cultură",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. scăderea drastică a pH-ului mediului de cultură",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. scăderea uşoară a pH-ului mediului de cultură",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Componentele obligatorii ale învelişului unei celule vegetative bacteriene sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. peretele celular",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. membrana citoplasmatică",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. capsula",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. glicocalixul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. peretele celular şi membrana citoplasmatică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mezozomii sunt structuri care derivă din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. membrana citoplasmatică",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. peretele celular",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. capsulă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. glicocalix",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. bacteriile nu posedă mezozomi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Faza de multiplicare a bacteriilor în medii lichide în care se recomandă efectuarea examenelor bacteriologice este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. faza exponențială sau logaritmică",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. faza de lag",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. faza de declin",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. faza staționară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. faza de latență",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Sub acţiunea penicilinei şi a lizozimului, bacteriile Gram pozitive se transformă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sferoplaşti",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. protoplaşti",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. forme R",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. forme S",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. forme M",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La bacteriile Gram negative corpusculul bazal al cililor este alcătuit din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un singur disc",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. două discuri",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. trei discuri",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. patru discuri",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. cinci discuri",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Care dintre următoarele procese indică finalizarea germinării:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. hidratarea sporoplasmei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. activarea echipamentului enzimatic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. reluarea multiplicării",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. inițierea proceselor de biosinteză",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. absenţa echipamentului enzimatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bacteriile peritriha prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. câte un smoc de cili la fiecare extremitate",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. un smoc de cili la o singură extremitate",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. mai mulţi cili dispuşi pe toată suprafaţa celulei",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. câte un singur cil la fiecare extremitate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. un singur cil dispus pe partea laterală",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Dimensiunile bacteriilor se exprimă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. milimetri",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. microni",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. nanometri",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. angstromi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. picroni",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Conține steroli membrana citoplasmatică a celulei bacteriene de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. leptospire",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. micoplasme",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. micobacterii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. streptococi patogeni",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. brucele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În funcţie de localizarea lor, mezozomii pot fi:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. veziculari, lamelari şi tubulari",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. tubulari, perinucleari şi septali",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. laterali, lamelari şi septali",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. septali, periferici şi nucleari",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. veziculari, laterali şi lamelari",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați structura sporului care conține ADN-ul bacterian:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. inima sporului",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. membrana internă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. cortexul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. exosporiumul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. corpii parasporali",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bacteriile care au nevoie de oxigen în proporție mai redusă decât cel din aer se încadrează din punct de vedere respirator în:",   
+        "options": [
+            {
+                "id": "a",
+                "text": "a. tip aerob",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. subtip strict aerob",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. tip anaerob/subtipul strict anaerob",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. tip anaerob/subtipul microaerofil",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. tip aerob-anaerob facultativ",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Care dintre următoarele specii bacteriene formează microcapsulă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Clostridium perfringens",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Pasteurella multocida",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Klebsiella pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Bacillus anthracis",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Streptococcus pneumoniae",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Clostridium tetani se încadrează din punct de vedere respirator în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. tip aerob",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. subtip stric aerob",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. tip anaerob/subtipul strict anaerob",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. tip anaerob/subtipul microaerofil",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. tip aerob-anaerob facultativ",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Ribozomii bacterieni au constanta de sedimentare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 20 S",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. 70 S",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. 50 S",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. 30 S",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 40 S",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bacillus subtilis se încadrează din punct de vedere respirator în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. tip anaerob",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. tip aerob/subtipul strict aerob",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. tip anaerob/subtipul strict anaerob",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. tip anaerob/subtipul microaerofil",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. tip aerob-anaerob facultativ",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați formele bacteriene care nu prezintă perete celular:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. formele vegetative",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. formele încurbate",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. formele L",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. formele S",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. formele R",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Pigmentul piocianina este sintetizat de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Pseudomonas aeruginosa",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Staphylococcus aureus",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Corynebacterium equi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Serratia marcescens",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate speciile bacteriene",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Localizarea caracteristică a sporului la Clostridium tetani în raport cu axul longitudinal al bacteriei este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. subterminală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. centrală",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. terminală",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. laterală",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. dublu terminală",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "De la interior spre exterior, componentele structurale ale unui spor prezintă următoarea succesiune:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. protoplast sporal, intină, cortex, exină",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. membrana internă, cortex, protoplast sporal, tunici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. protoplast sporal, cortex, intină, exosporium",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. cortex, membrana sporală, exină, exosporium",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. sporii au înveliş nestructurat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Principalul proces de multiplicare la bacterii este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. conjugarea",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ramificarea",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prin corpi elementari",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. sciziparitatea",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. înmugurirea",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Forma metabolic activă a unei bacterii este reprezentată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. celula vegetativă",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. spor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celulă vegetativă şi spor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. sporangiu",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. spor şi sporangiu",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În compoziţia chimică a membranei citoplasmatice a bacteriilor se găsesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fosfolipide amfipatice",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. peptidoglican",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. lipida A",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. acid teichoic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. acid lipoteichoic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Pilii sunt organite cu structură chimică:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. proteică",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. lipidică",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. glucidică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. lipopoliglucidică",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. lipoproteică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Referitor la pilii F este falsă afirmaţia:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. prezintă canal axial",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. sunt alcătuiţi din molecule de pilină",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. intervin în transferul de material genetic prin conjugare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. stabilizează cuplurile celulare donor-acceptor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. intervin în procesul de sporogeneză",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Despre cromozom este adevărată afirmaţia:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. bacteriile au un număr variabil de cromozomi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. majoritatea bacteriilor prezintă un singur cromozom",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. cromozomul nu este o structură celulară obligatorie a bacteriilor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. majoritatea bacteriilor nu au cromozomi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. majoritatea bacteriilor prezintă doi cromozomi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Tipul de deplasare pentru bacteriile mobile este determinat de sensul de rotație al:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. dicului S",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. discului M",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. discului P",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. discului L",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. discului R",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Scheletul biochimic al membranei citoplasmatice cuprinde:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un strat simplu de fosfolipide",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. un strat dublu de proteine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. un strat dublu de glucide",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. un strat dublu de fosfolipide",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. un strat simplu de proteine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La care dintre următoarele specii bacteriene capsula este de natură polipeptidică:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Bacillus anthracis",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Klebsiella pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Streptococcus pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Pasteurella multocida",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Bucella",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Cele mai mici bacterii clasice aparțin genului bacterian:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Clostridium",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Pasteurella",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Staphylococcus",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Bacillus",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Vibrio",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Spaţiul periplasmic există:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. numai la micoplasme",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. numai la bacteriile Gram pozitive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. numai la bacteriile Gram negative",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. la toate bacteriile",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. numai la bacteriile sporogene",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Din punct de vedere chimic ribozomii bacteriilor sunt constituiţi din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ribonucleoproteine",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. fosfolipide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. glucide",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. polimeri anorganici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. polimeri minerali",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bacteriile cu cele mai mari dimensiuni, de interes pentru patologia veterinară, aparțin genului :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Clostridium",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Pasteurella",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Brucella",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Salmonella",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Staphylococcus",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Gruparea numită sarcina este constituită din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 2 coci",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. 4 coci",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 6 coci",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. 8 coci",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. 10 coci",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați un gen bacterian ai cărui germeni au un conținut mai mare de lipide:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Stapylococcus",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Listeria",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Mycobacterium",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. Clostridium",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Bacillus",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Din greutatea umedă a bacteriilor, apa reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 75 – 85 %",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. 12 – 20 %",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 5 – 30 %",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. 40 – 60 %",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 50 – 60 %",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați denumirea care reprezintă o spirochetă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Staphylococcus",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Pseudomonas",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Salmonella",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Streptococcus",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Leptospira",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Pigmenţii carotenoizi prezenţi mai ales la stafilococi protejează bacteriile faţă de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. undele electromagnetice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. antibiotice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. chimioterapice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. dezinfectante",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. radiaţiile luminoase şi ultraviolete",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Pentru majoritatea bacteriilor cultivate în condiții adecvate, durata medie a intervalului dintre două diviziuni este de:",        
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 2- 3 minute",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. 20- 30 minute",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. 24 ore",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. 60 minute",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 15-18 ore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La bacteriile din genul Clostridium sporul are dimensiuni:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. mai mari decât diametrul transversal al celulei",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. egale cu diametrul transversal al celulei",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. mai mici decât diametrul transversal al celulei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. mai mici sau mai mari decât diametrul transversal al celulei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. variabile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Toţii sporii bacterieni sunt distruşi la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 120°C căldură umedă şi 180°C căldură uscată",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. 100°C căldură umedă şi 112°C căldură uscată",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 65°C căldură umedă şi 80°C căldură uscată",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. 55°C căldură umedă şi 65°C căldură uscată",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 112°C căldură umedă şi 120°C căldură uscată",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Care dintre speciile bacteriene capsulogene sintetizează capsulă mucoasă cu aspect difuz:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Bacillus anthracis",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Klebsiella pneumoniae",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Streptococcus pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Escherichia coli",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Pasteurella multocida",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Încetarea multiplicărilor bacteriene într-un mediu lichid în faza de declin este determinată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epuizarea substanțelor nutritive din mediul de cultură",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. toxicitatea mediului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. acumularea unor metaboliți în mediul de cultură",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. scăderea drastică a pH-lui mediului de cultură",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Bacteriile Gram pozitive au corpusculul bazal al cililor constituit din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. patru discuri",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. trei discuri",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. două discuri",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. un disc",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. cinci discuri",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Seria de componente care face parte obligatoriu din structura celulei vegetative a bacteriilor este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. peretele celular, materialul nuclear, ribozomii, capsula",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. membrana citoplasmatică, capsula, ribozomii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. membrana citoplasmatică, ribozomii, materialul nuclear",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. capsula, flagelii, ribozomii",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. peretele celular, capsula, membrana citoplasmatică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Despre peretele celular bacterian este falsă afirmaţia:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. asigură forma bacteriei prin susţinere mecanică",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. mediază transportul de substanțe între mediu și celulă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. reprezintă o barieră osmotică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. este suport pentru diferite tipuri de receptori",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. este componentă obligatorie a bacteriei",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Selectaţi afirmația adevărată cu privire la citoplasma bacteriană:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este o componentă facultativă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. prezintă curenți citoplasmatici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. are consistență de gel",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. conține mitocondrii",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. conține reticul endoplasmatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bacteriile lofotricha prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un singur cil polar",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. un smoc de cili la una din extremități",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. câte un smoc de cili la fiecare extremitate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. mai mulți cili uniform repartizați pe toată suprafața celulei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. doi cili",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Celuloza se găsește în compoziția chimică a bacteriilor numai:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. în celulele vegetative",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. în spori",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. în formele vegetative și spori",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. bacteriile nu conțin celuloză",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt false",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Identificați afirmația falsă referitoare la bacteriile de tip nutritiv heterotrof:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sursa de carbon este carbonul organic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. sursa de azot este azotul organic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sursa de energie provine din reacții chimice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. glucidele pot reprezenta sursa de carbon",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. sursa de carbon poate fi CO2",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Epizomii bacterieni:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. reprezintă conglomerate de ribozomi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. apar în fazele intense de sinteze proteice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. conțin ribonucleoproteine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. sunt plasmide integrative",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. sunt prezenţi în membrana externă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Poliglucidul O îndeplineşte şi rolul de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. receptor pentru bacteriofagi",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. receptor pentru lectine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. receptor pentru enzime",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. receptor pentru vitamina A",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. receptor pentru complement",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Părţile componente ale unui cil bacterian sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. corpuscul bazal, articulația sau cârligul și filamentul helicoidal",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. corpuscul bazal și filamentul helicoidal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. corpuscul bazal și articulația sau cârligul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. filamentul helicoidal alcătuit din flagelină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. articulaţia sau cârligul şi filamentul helicoidal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Este adevărat despre Streptococcus pneumoniae:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. are formă lanceolată, de picătură",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. se grupează diplo",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. ansamblul grupării diplo are aspectul cifrei 8",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. gruparea diplo este acuperită de o capsulă comună",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Toate răspunsurile sunt adevărate",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "În funcţie de specie, bacteriile de tip heterotrof nu pot utiliza ca sursă de carbon:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. dioxidul de carbon",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. glucoza",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. zaharoza",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. amidonul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. lactoza",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Este specific sporului bacterian:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ADN-ul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ribozomii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. acid dipicolinic",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. apa liberă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. calciul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În interiorul unei celule vegetative sporogene se formează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. doi spori care evoluează diferit",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. un spor",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. trei spori care evoluează diferit",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. doi spori care evoluează identic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. un număr variabil de spori, funcţie de specia bacteriană",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Flagelina din compoziţia chimică a cililor bacterieni este antigenică şi reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. antigenul O",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. antigenul K",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. antigenul H",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. antigenul Vi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. antigenul viral",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bacteriile imobile, fără cili sunt denumite:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Atricha",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Peritricha",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Lofotricha",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Amfitricha",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Monotricha",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Este falsă afirmația referitoare la bacteriile de tip nutritiv heterotrof:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. anumite specii folosesc ca sursă de azot aminoacizi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. anumite specii folosesc ca sursă de azot peptone",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. anumite specii folosesc ca sursă de azot proteine macromoleculare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. anumite specii folosesc ca sursă de azot uree",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. anumite specii folosesc ca sursă de azot amoniac",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Selectați o specie bacteriană cu aspect de boabe de cafea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Neisseria gonorrhoeae",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Streptococcus pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Enterococcus",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Corynebacterium",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Bacillus cereus",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Vibrio cholerae, bacterie cu un flagel dispus polar, face parte din categoria",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Lofotricha",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Atricha",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Peritricha",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Amfitricha",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Monotricha",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Prezintă o capsulă adevărată:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Pasteurella multocida",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Klebsiella pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Bacillus anthracis",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. toate răspunsurile sunt adevărate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt false",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Aplicând metoda Gram, bacteriile Gram pozitive se colorează în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. roșu",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. albastru",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. violet",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. verde",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. galben",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Plasmidele care au o existență autonomă și pot fi integrate temporar în cromozom sunt denumite:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epizomi",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. ergozomi",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. mezozomi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ribozomi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. incluzii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Plasmidele sunt alcătuite din molecule de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ADN dublucatenar circulare, suprarăsucite",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. ADN dublucatenar circulare, nerăsucite",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. ADN monocatenar circulare, suprarăsucite",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ARN dublucatenar circulare, suprarăsucite",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ARN monocatenar circulare, suprarăsucite",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Are rol în sinteza proteinelor componenta bacteriană numită:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epizomii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. vacuolele",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. mezozomii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ribozomii",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. incluziile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Membrana citoplasmatică:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. reprezintă filtru biologic selectiv",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. intervine în replicarea bacteriilor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. participă la procesele de respirație bacteriană",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. reprezintă sediul sistemului enzimatic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate variantele sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Are rol de endotoxină componenta bacteriilor Gram negative numită:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. poliglucidul O",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. complexul lipopolizaharidic",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. spațiul periplasmic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. stratul de peptidoglican",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. membrana celulară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Protoplaștii se obțin prin tratarea cu lizozim și penicilină a bacteriilor:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Gram pozitive",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Gram negative",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. formelor L bacteriene",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. formelor S bacteriene",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. formelor R bacteriene",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Nu reprezintă o formă defectivă de perete celular :",
+        "options": [
+            {
+                "id": "a",
+                "text": "A. formele S",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "B. formele L",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "C. protoplaștii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "D. sferoplaștii",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "E. micoplasmele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați afirmația corectă privind flagelii bacterieni:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. la bacteriile Gram pozitive blefaroplastul este alcătuit din două discuri",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. la bacteriile Gram negative blefaroplastul este alcătuit din patru discuri",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. discul M este situat la nivelul membranei bacteriene",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. discul P este plasat în stratul de peptidoglican",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Activitatea cea mai intensă a creșterii bacteriilor în mediul lichid este în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. faza de declin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. faza de lag",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. faza staționară",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. faza exponențială",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. faza de adaptare a bacteriilor la condițiile de mediu",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Reprezintă factor declanșator al sporulării:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epuizarea azotului din mediu",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. expunerea la temperaturi suboptimale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. densitatea mare de bacterii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epuizarea carbonului din mediu",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate variantele sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "În prima fază a sporulării are loc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. formarea septului sporal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. formarea cortexului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. maturarea sporului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. liza celulei mamă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. replicarea cromozomului",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "În ultima fază a sporulării are loc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. formarea septului sporal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. formarea cortexului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. maturarea sporului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. liza celulei mamă",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. replicarea cromozomului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Determină rezistența sporului:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. proteinele keratin like",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. dipicolinatul de calciu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. un conținut foarte scăzut de apă liberă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. impermeabilitatea învelișurilor sporale",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toți factorii enumerați",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "În învelișul bacterian discul L al blefaroplastului este situat la nivelul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. membranei externe",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. peptidoglicanului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. membranei citoplasmatice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. supramembranar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. spaţiului periplasmic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați afirmația corectă despre vacuolele bacteriene:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sunt structuri intracitoplasmatice",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. sunt frecvente la bacteriile mature",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. pot fi polimeri organici",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. pot fi polimeri anorganici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. pot fi polimeri organici sau anorganici",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Sunt bacterii cu formă de bâtă de baseball sau pișcot:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Bacillus anthracis",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Corynebacterium",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Fusobacterium",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Streptococcus pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Neisseria gonorrhoeae",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați afirmația corectă despre incluziile bacteriene:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sunt structuri intracitoplasmatice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. sunt mai des întâlnite la bacteriile mature",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. pot fi polimeri organici",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. pot fi polimeri anorganici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate variantele sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Componenta sporului bacterian corespunzătoare peretelui celulei vegetative este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. cortexul",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. intina",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sporangiul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. exina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. protoplast sporal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Sunt microorganisme procariote:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fungii filamentoși",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. levurile",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. bacteriile",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. virusurile",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. prionii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Componenta sporului bacterian corespunzătoare membranei celulei vegetative este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. cortexul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. intina",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. sporangiul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. exina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. protoplast sporal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Este o specie bacteriană mobilă la 20- 25ºC și imobilă la 37ºC:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Streptococcus pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Listeria monocytogenes",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Bacillus anthracis",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Staphylococcus aureus",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Francisella tularensis",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Faza multiplicării bacteriilor în mediul lichid în care nu au loc diviziuni celulare este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. faza de multiplicare logaritmică",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. faza de latență",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. faza staționară",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. faza de declin",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. în toate aceste faze au loc diviziuni celulare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "De la exterior spre interior, succesiunea componentelor învelișului unei bacterii capsulate este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. capsula, peretele celular, membrana citoplasmatică",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. capsula, membrana citoplasmatică, peretele celular",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. peretele celular, capsula, membrana citoplasmatică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. membrana citoplasmatică, peretele celular, capsula",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. membrana citoplasmatică, capsula, peretele celular",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bacteriile nu prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ribozomi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. membrana citoplasmatică",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. aparat nuclear",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. citoplasmă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. reticul endoplasmatic",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "La majoritatea bacteriilor capsulogene, capsula este alcătuită din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. proteine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fosfolipide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. polizaharide",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. peptide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. lipide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Au efect chimiotactic negativ (repelent) pentru bacteriile heterotrofe:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. aminoacizii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. glucidele",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. lipidele",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. peptidele",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ionii de hidrogen",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Acizii teichoici se întâlnesc la bacteriile:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Gram negative",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. micoplasme",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Gram pozitive",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. leptospire",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. salmonele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În învelișul bacteriilor Gram pozitive mobile, discul L al blefaroplastului este situat la nivelul",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. membranei externe",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. peptidoglicanului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. membranei citoplasmatice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. spațiul periplasmic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. aceste bacterii nu au disc L",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Ribozomi bacterieni:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. reprezintă substanțe de rezervă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. intervin în chemotaxie",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. reprezintă sediul sintezelor proteice",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. au rol în aerotaxie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. au rol de protecţie",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Capacitatea unor bacterii de a se prezenta diferit din punct de vedere al formei, dimensiunilor și modului de grupare se numește:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. poliribozomi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. aerotaxie",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. polimorfism",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. chemotaxie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. germinare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Minicromozomii sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. cromozomi multipli în unele celule bacteriene",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. piese mici de ARN",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. pili de sex",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. plasmide",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. vacuole",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Acizii teichoici:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sunt caracteristici bacteriilor Gram negative",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ancorați de peretele celular reprezintă acizi lipoteichoici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sunt fixați de membrana citoplasmatică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. protejează bacteriile față de fagocitoză",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. se găsesc atât în bacterii Gram pozitive cât şi bacterii Gram negative",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Despre flagelii bacterieni este falsă afirmaţia:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. originea filamentului este discul M",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. energia de rotație este asigurată de protonii care traversează membrana",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. rotația filamentului în sens orar determină deplasarea bacteriei în linie dreaptă",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. flagelii sunt de natură proteică",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. flagelina are proprietăți antigenice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Sunt componente structurale obligatorii din citoplasma bacteriană:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. plasmide, incluzii, cromozom",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. cromozom, ribozomi",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. ribozomi, plasmide",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. plasmide, incluzii, cromozom, vacuole",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. plasmide, incluzii, cromozom, vacuole, ribozomi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Moleculele de fosfolipide sunt așezate în dublul strat al membranei :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. cu extremitatea hidrofilă spre exterior",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. cu extremitatea hidrofobă spre exterior",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. cu extremitatea hidrofilă spre exterior dacă sunt pe stratul extern",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. cu extremitatea hidrofilă spre exterior dacă sunt pe stratul intern",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. cu extremitatea hidrofobă spre interior",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Despre proteinele din membrana citoplasmatică este corectă afirmaţia",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. proteinele intrinseci sunt în general transmembranare",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. proteinele extrinseci sunt expuse numai pe fața externă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. proteinele extrinseci sunt expuse numai pe fața internă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. toate proteinele din membrană sunt transmembranare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. proteinele extrinseci sunt transmembranare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectaţi afirmaţia corectă despre peretele bacterian:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este o structură opțională",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. este situat la exteriorul membranei celulare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. este poros",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. conține peptidoglican",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate afirmațiile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Selectați afirmația corectă referitoare la rolul capsulei bacteriene:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. protejează celula față de desicație",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. reprezintă un factor de virulență",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. are rol antigenic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. este implicată în aderarea bacteriei la suporturi solide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate afirmațiile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Nu este prezent în celulele bacteriene:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ARN de transport",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ARN mitocondrial",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. ARN mesager",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ARN ribozomal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ARN solubil",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați afirmația incorectă referitoare la rolul membranei bacteriene:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este un filtru mecanic",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. este sediul proceselor respiratorii bacteriene",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. intervine în sinteza peptidoglicanului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. intervine în sinteza și secreția exotoxinelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. este sediul sistemelor enzimatice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Sistemele bacteriene de transport sunt localizate în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. peretele bacterian",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. capsulă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. membrană",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. citoplasmă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ribozomi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Afinitatea tinctorială a bacteriilor este determinată de compoziția chimică a:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. capsulei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. membranei citoplasmatice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. peretelui bacterian",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. mezozomilor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. cromozomului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați afirmația incorectă privind enzimele bacteriene:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. exoenzimele sunt eliberate în mediul extracelular",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. enzimele constitutive sunt sintetizate în anumite condiții de mediu",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. enzimele adaptative sunt sintetizate în prezența substratului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. endoenzimele rămân în celula bacteriană",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. exoenzimele acționează în afara celulei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați care dintre următoarele microorganisme sunt de tip procariot:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. virusuri ARN",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. levuri",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. virusuri ADN",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. bacterii",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. ciuperci filamentoase",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Identificați specia sporogenă, la care sporogeneza este corelată cu toxinogeneza:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Bacillus subtilis",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Clostridium histolyticum",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Bacillus brevis",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Bacillus polymyxa",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Identificați factorii care pot declanșa germinarea sporilor:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. temperatura între 60-80°C",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. pH-ul între 6-8",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezența oxigenului la bacteriile aerobe",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. şocul termic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toți factorii enumerați",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Faza multiplicării bacteriilor în mediul lichid, când datorită unei densități maxime /unitatea de volum unele bacterii sintetizează toxine sau speciile sporogene pot sporula, este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. faza staționară",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. faza exponențială",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. faza de lag",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. faza de latenţă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. faza de declin",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La o bacterie capsulată, prima componentă a învelișului celular de la exterior spre interior este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. peretele celular",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. acizii teicoici la bacteriile Gram pozitive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. capsula",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. membrana plasmatică",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. membrana externă la bacteriile Gram negative",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Enzimele bacteriene sintetizate de celula bacteriană, care acționează în interiorul celulei, sunt denumite:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. enzime constitutive",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. enzime mutative",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. exoenzime",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. enzime inductibile",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. endoenzime",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "După tratamentul cu penicilină şi lizozim, rămân resturi de perete bacterian la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sferoplaști",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. protoplaşti",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. atât la sferoplaști, cât și la protoplaști",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. micoplasme",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. forme L",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Este o componentă facultativă din structura unei bacterii:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. cromozomul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ribozomii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. membrana citoplasmatică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. plasmidele",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. toate componentele menţionate sunt obligatorii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "De la interior spre exterior, al treilea disc din structura corpusculului bazal al bacteriilor Gram negative este situat la nivelul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. supramembranar",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. peptidoglicanului",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. membranei externe",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. membranei plasmatice",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. nu are o poziție fixă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La o bacterie capsulată, prima componentă a învelișului celular, de la interior spre exterior, este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. peretele celular",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. acizii teichoici la bacteriile Gram pozitive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. capsula",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. membrana plasmatică",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. membrana externă la bacteriile Gram negative",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Conferă un grad mare termorezistență sporului bacterian:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. poli-beta-hidroxibutiratul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. sporoplasma",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. cisteina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. alanina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. acidul dipicolinic",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Din specia Clostridium perfringens este cel mai termorezistent:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. tipul C",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. tipul D",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. tipul E",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. tipul F",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate tipurile au o termorezistență egală",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Sunt absente din spor:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. enzimele ciclului Krebs",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. apa liberă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. acizii nucleici",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. săruri de fosfor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. săruri de potasiu",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Este corelată cu sporogeneza:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sinteza de antibiotice la Bacillus subtilis",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. sinteza de antibiotice la Bacillus polymyxa",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sinteza de antibiotice la Bacillus brevis",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. toate răspunsurile sunt corecte",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt false",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Tipurile de acizi nucleici prezenţi la bacterii sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ARN de transport",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ADN",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. ARN mesager",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ARN ribozomal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate aceste tipuri",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Enzimele bacteriene sintetizate în interiorul celulei și eliberate în mediu, unde descompun macromolecule, făcându-le accesibile celulei bacteriene, sunt denumite:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. enzime constitutive",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. enzime mutative",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. exoenzime",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. enzime inductibile",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. endoenzime",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Majoritatea bacteriilor de interes pentru medicina veterinară se încadrează la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. tipul anaerb",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. tipul aerob-facultativ anaerob",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. tipul aerob",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. subtipul microaerofil",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. subtipul strict anaerob",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Enzimele bacteriene sintetizate în prezența unui anumit substrat, se numesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. enzime constitutive",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. enzime mutative",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. exoenzime",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. enzime inductibile",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. endoenzime",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Este prezentă în cantitate mai mare în spor, decât în celula vegetativă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. cisteina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. calciu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. magneziu",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. mangan",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate substanţele menţionate",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Identificați o specie sporogenă, la care sporul este asimetric, excentric pe o singură parte a celulei vegetative:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Clostridium tetani",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Clostridium botulinum",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Bacillus cereus",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Bacillus anthracis",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Bacillus laterosporus",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Nu se găseşte într-o celulă vegetativă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. acidul dipicolinic",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. apă liberă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. proteine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. acizi nucleici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați o specie bacteriană al cărei spor este rotund:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Clostridium tetani",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Clostridium botulinum",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Bacillus cereus",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Bacillus anthracis",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Bacillus laterosporus",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Enzimele bacteriene sintetizate numai în urma acțiunii unor factori mutageni din mediu, se numesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. enzime constitutive",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. enzime mutative",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. exoenzime",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. enzime inductibile",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. endoenzime",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bacteriile care secretă pigmentul în mediu, se numesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. bacterii cromofore",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. bacterii cromogene",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. bacterii paracromofore",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. bacterii cromopare",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. bacterii acromogene",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La dezvoltarea bacteriilor în mediul lichid, se produce densitatea maximă de celule bacteriene/unitatea de volum în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. faza de declin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. faza exponențială",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. faza staționară",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. faza de lag",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. faza de latenţă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Se încadrează în subtipul respirator strict anaerob:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Bacillus subtilis",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Clostridium tetani",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Escherichia coli",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Staphylococcus aureus",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Listeria monocytogenes",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Se recomandă efectuarea antibiogramei în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. faza de declin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. faza exponențială (logaritmică)",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. faza staționară",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. faza de lag",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. faza de latenţă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Poate fi evidențiată numai prin metode imunologice capsula speciei bacteriene:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Clostridium perfringens",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Pasteurella multocida",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Klebsiella pneumoniae",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Bacillus anthracis",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Streptococcus pneumoniae",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Învelișul unei micoplasme are:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un strat",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. două straturi",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. trei straturi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. patru straturi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. cinci straturi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Este bacterie cu corpul spiralat:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Staphylococcus",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Pseudomonas",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Salmonella",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Streptococcus",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Leptospira",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Enzimele bacteriene sintetizate permanent în celula vegetativă se numesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. enzime constitutive",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. enzime mutative",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. exoenzime",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. enzime inductibile",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. endoenzime",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Dacă pigmentul este cantonat la nivelul peretelui celular, bacteriile sunt denumite:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. bacterii cromofore",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. bacterii cromogene",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. bacterii paracromofore",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. bacterii cromopare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. bacterii acromogene",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Micoplasmele nu au:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fosfolipide",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. peptidoglican",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. ADN",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ARN",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. apă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La dezvoltarea bacteriilor în mediul lichid, pH-ul mediului scade în mod semnificativ în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. faza de declin",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. faza exponențială",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. faza staționară",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. faza de lag",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. faza de latenţă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În compoziția chimică a bacteriilor nu există:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ADN",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fosfolipide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. proteine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ARN",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celuloza",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Poli-beta-hidroxibutiratul este prezent în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. membrană",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. nucleu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. flageli",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. capsulă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. incluzii",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "În general componenta peptidică a peretelui celular este alcătuită din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. L-alanină",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. acid D-glutamic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. L-lizină",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. D-alanină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toți aminoacizii menţionaţi",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Faza sporulării în care se formează 2 cromozomi în celula bacteriană este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. pregătirea celulei pentru sporogeneză",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. maturarea sporului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. formarea presporului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. constituirea septului transversal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. în fazele sporulării nu se găsesc doi cromozomi în celulă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați specia bacteriană încadrată în subtipul respirator strict aerob:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Bacillus subtilis",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. Clostridium tetani",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. Escherichia coli",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. Clostridium botulinum",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. Niciuna dintre aceste specii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Selectați o specie bacteriană strict anaerobă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. Bacillus subtilis",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. Fusobacterium necrophorum",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. Mycobacterium tuberculosis",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. niciuna dintre speciile menționate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate speciile menționate",
+                "bool": "false"
+            }
+        ]
+    }
+]
+}

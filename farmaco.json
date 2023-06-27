@@ -1,0 +1,4504 @@
+{
+    "questions":[
+    {
+        "question": "1 Imidaclopridul este un:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Piretroid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Organoclorurat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Neonicotinoid",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Ivermectină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Izoxazolină",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "2 Bravecto este un/o:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Imidacloprid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Izoxazolină",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Piretroid",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Ivermectină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Fenilpirazol",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "3 Fipronilul acționează prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Mimarea efectelor acetilcolinei (ACh)",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Blocarea competitivă a canalelor de clor ale glutamatului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Creșterea influxului de clor prin canalele glutamatului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Blocarea necompetitivă a canalelor de clor ale GABA (acid γ-amino butiric) și glutamatului",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Blocarea competitivă a canalelor de clor ale GABA",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "4 Fipronilul, eficient la câini și pisici, este formulat și cu metopren care este un:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Neonicotinoid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Piretroid",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Analog al hormonilor juvenili",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Ivermectină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Organoclorurat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "5 Printre inhibitorii de dezvoltare ai insectelor (IDI) se numără:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Ciromazin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Fenoxicarb",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Piriproxifen",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Metopren",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Lufenuron",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "6 Unul dintre cele mai utilizate piretroide din generatia a III-a este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Permetrin",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Cyflutrin",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Aletrin",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Phenotrin",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Cypermetrin",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "7 Formularea imidaclopridului impreună cu permetrin este utilizată numai la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Câini",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Pisici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Bovine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Cai",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Păsări",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "8 Advantage Multi este o combinatie a imidaclopridului cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Amitraz",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Permetrin",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Cypermetrin",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Moxidectin",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Ivermectin",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "9 Printre avermectine se numără următoarele, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Selamectina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Milbemicina",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Eprinomectina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Doramectina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Ivermectina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "10 Moxidectina este un/o:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Nicotinoid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Neonicotinoid",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Piretrină",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Organoclorurat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Lactonă macrociclică",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "11 În mod uzual fipronilul se administrează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Per os",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Sub cutanat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Topic",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Intra muscular",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Prin etichete auriculare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "12 Conform declarației producătorului, Fipronil ar combate și:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Puricii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Căpusele",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Păduchii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Râia sarcoptică",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Dirofilariile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "13 Aplicarea locală a imidaclopridului ajută:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Absorbția",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Translocația",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Distribuția",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Trecerea în sânge",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Dispersia",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "14 Imidaclopridul este larg distribuit în organe, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a SNC",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Ficat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Rinichi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Pulmon",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Glande suprarenale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "15 Imidaclopridul este larg distribuit în țesuturi, cu excepția tesutului:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Sanguin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Limfatic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Muscular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Adipos",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Conjuctiv",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "16 La câinii expuși unor doze mult crescute de imidacloprid apare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Intoxicația",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Voma",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Diareea",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Paralizia",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Nu apar efecte adverse",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "17 După administrarea topică a selamectinului, acesta formează depozite în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Ficat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Glande sebacee",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Rinichi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Țesut adipos",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Derm",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "18 După administrarea topică a selamectinului, acesta formează depozite în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Ficat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Glande suprarenale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Foliculi piloși",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Țesut adipos",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Derm",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "19 Depozitele de selamectin se formează prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Translocație",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Distribuire",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Extravazare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Migrație",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Redistribuire",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "20 Pirertroidele au ca principală țintă canalele de mișcare a:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Sodiu",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Clor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Glutamat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Calciu",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Magneziu",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "21 Mycodex este un produs care conține:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Permetrin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Cypermetrin",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Aletrin",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Resmetrin",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Fenvalerat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "22 Fenvaleratul este avizat pentru utilizare la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Porci",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Păsări",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Câini",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Vaci",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Pisici",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "23 Cyflutrin este avizat pentru folosirea la bovine sub formă de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Implanturi s.c.",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Etichete auriculare",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Bolus",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Spray",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Băi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "24 Amitraz acționează prin inhibarea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a GABA",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ATP",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ACh",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d NMDA",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e MAO",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "25 Taktic este un produs pe baza de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Fipronil",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Imidacloprid",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Aletrin",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Amitraz",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Fenvalerat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "26 Un precursor important al mediatorilor inflamației este acidul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Aspartic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Arahidonic",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Carbonilic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Lactic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Metilmalonic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "27 Eicosanoidele conțin în structura lor un număr de atomi de carbon egal cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a 10",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b 12",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c 16",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d 20",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e 24",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "28 Eicosanoidele sunt descrise ca fiind substanțe:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Autacoide",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Xenobiotice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Zwiterionice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Polimerice",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Amfoterice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "29 Receptorii eicosanoizi sunt cuplați cu",
+        "options": [
+            {
+                "id": "a",
+                "text": "a GABA",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Glutamatul",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c MAO",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d ACh",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Proteina G",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "30 Rolul Cox-1 este, după cei mai mulți autori unul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Proinflamator",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Antiinflamator",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Antiinfecțios",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Constitutiv",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Fizipatologic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "31 Cox-2 este o izoformă care generează/coordonează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Renoprotecție",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Gastroprotecție",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Prostaglandine proinflamatorii",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Coagularea sângelui",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Activitatea hormonală",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "32 Printre AINS-urile clasice se numără:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Coxibii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Inhibitorii duali",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Donatorii de oxid de azot",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d 2-aril propionații",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Inhibitorii 5-LO",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "33 Printre AINS mai noi se numără:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Donatorii de oxid de azot",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b 2 aril-propionații",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Acizii carboxilici",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Acizii enolici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Salicilații",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "34 În patologia canină se folosește ca inhibitor dual:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Mavacoxib",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Tepoxalin",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Parecoxib",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Fenilbutasone",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Robenacoxib",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "35 Acetaminofenul este un analgezic sigur pentru câine la un regim de dozare de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a 10 mg/kg q 24h",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b 15 mg/kg q 24h",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c 20 mg/kg q 12h",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d 20 mg/kg q 24h",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e 15 mg/kg q 12h",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "36 Aproape invariabil intervalul de dozare în cazul AINS este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a 12 ore",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b 24 ore",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c 36 ore",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d 48 ore",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e 7 zile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "37 Principala excepție de la regimul de dozare al AINS este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Parecoxib",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Robenacoxib",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Mavacoxib",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Tepoxalin",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Fenilbutasone",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "38 AINS sunt utilizate la scară largă pentru a controla durerea acută asociată afecțiunilor:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Chirurgicale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Medicale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Obstetricale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Chirurgicale și medicale",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Neurologice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "39 AINS administrate la equine pot masca semnele:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a De șchiopatură",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b De excitatie",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c De emfizem pulmonar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d De faringită",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e De colică",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "40 Admistrarea AINS înainte de revenirea din anestezie poatee fi asociată cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Insuficiența renală acută",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Șocul anafilactic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Crize epileptiforme",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Colica",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Insuficiența respiratorie",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "41 Pentru controlul durerii postoperatorii la pisică cel mai eficient a fost:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Meloxicam",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Ketoprofen",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Robenacoxib",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Carprofen",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Tepoxalin",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "42 Inflamația acută în OA (osteo-artrită) este mai proeminentă la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Cal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Pisică",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Rumegătoare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Câine",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Porc",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "43 În ceea ce privește terapia bolilor cronice AINS sunt utilizate pentru tratarea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Arteritelor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Artritelor",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Degenerescenței hepatice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Emfizemului pulmonar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Insuficienței renale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "44 În ceea ce privește terapia bolilor cronice AINS sunt utilizate pentru tratarea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Cancerului",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Insuficienței cardiace",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Insuficienței hepatice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Emfizemului pulmonar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Insuficienței renale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "45 AINS utilizat în exclusivitate pentru efectul antipiretic este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Ac. acetilsalicilic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Fenilbutazona",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Meloxicamul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Ibuprofenul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Dipirona",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "46 Metronidazolul este un derivat:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Acridinic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Ureic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Nitroimidazolic",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Tiazinic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Sulfamidic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "47 Sulfaquinoxalina este folosită în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Fascioloză",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Ascaridoză",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Moniezioză",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Coccidioză",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Dirofilarioză",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "48 Oxiclosamida acționează prin interferarea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Glucuronoreductazelor",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Oxidazelor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Transferazelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Esterazelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Amilazelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "49 Closantelul are efect redus asupra:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Trematodelor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Cestodelor",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Nematodelor hematofage",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Larve de insecte",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Ancylostoma",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "50 Dovenix este un fasciolocid eficient doar pe cale:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Orală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Intravenoasă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Intradermică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Externă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Intramusculară",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "51 Un antihelmintic ideal prezintă următoarele caracteristici, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Un indice terapeutic mic",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Un spectru larg de activitate",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Un timp scurt de remanență",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Absența efectelor secundare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Competitivitate în sistemul de management",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "52 Cea mai puternică acțiune a Rafoxanidului este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Asupra nematozilor hematofagi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Fasciolocidă",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Asupra larvelor genului Oestrus",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Asupra larvelor de Hypoderma",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Asupra cestodelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "53 Mecanismul de acțiune al Niclosamidei asupra helminților constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Împiedică participarea fosforilazelor la metabolismul energetic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Inhibarea absorbției glucozei",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Interferarea glucuronoreductazelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Alterarea balanței ionice a celulei musculare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Blocarea joncțiunilor neuromusculare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "54 Praziquantelul este un agent eficace față de numeroase genuri de helminți, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Helminți intestinali",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Helminți pulmonari",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Fasciola",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Tenii",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Echinococcus",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "55 Cestal este un produs care conține:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Tiabendazol",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Albendazol",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Morantel",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Praziquantel",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Nitroscanat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "56 Oxiclozanida (Zanil) este un antihelmintic care se utilizează în trematodoze la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Cal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Bovine",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Câine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Pisică",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Porc",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "57 Hexaclorofenul se folosește în nematodoze, cestodoze și fascioloză la următoarele specii:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Cabaline",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Câine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Ovine",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Pisică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "58 Diamfenetida are cea mai bună eficacitate față de formele imature de Fasciola la următoarele specii:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Ovine",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Bovine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Cabaline",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Suine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Carnivore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "59 Nitroscanatul administrat după tain poate provoca următoarele fenomene:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Reducerea eficacității",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Reducerea acțiunii iritante",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Vomă",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Creșterea eficacității",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Incompatibilitate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "60 Cel mai important reprezentant al grupei sulfamide antiparazitare cu activitate foarte bună asupra trematodelor adulte și tinere este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Closantelul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Clorsulonul",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Praziquantelul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Nitroscanatul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Rafoxanidul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "61 Fenbendazolul prezintă următoarele caracteristici, cu o excepție",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Este activ față de nematode",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Este activ fată de unele cestode",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Este activ față de trematode",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Nu este embriotoxic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Este bine absorbit în intestin",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "62 Triclabendazolul are următoarele caracteristici, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Acționează asupra nematodelor",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Are activitate bună asupra trematodelor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Este slab activ față de Dicrocelium",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Este bine tolerat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Nu se cunosc efecte embriotoxice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "63 Levamisolul prezintă următoarele caracteristici, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Este un derivat imidazotiazolic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Produce paralizia spastică a paraziților",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Poate determina reacții adverse",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Produce paralizia flască a paraziților",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Stimulează imunitatea celulară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "64 Morantelul este un antihelmintic din grupa:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Imidazotiazoli",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Benzimidazoli",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Tetrahidropirimidine",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Chinolone",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Lactone macrociclice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "65 Ivermectinele nu sunt active față de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Stadiile larvare ale paraziților",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Ouăle paraziților",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Paraziții adulți",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Larvele unor miaze",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Insecte hematofage",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "66 La cabaline pot să apară edeme după administrarea ivermectinelor pe cale:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Orală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Intramusculară",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Intravenoasă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Subcutanată",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Intradermică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "67 Doramectina prezintă următoarele caracteristici, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Determină mărirea permeabilității membranare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Inhibă activitatea celulelor nervoase și musculare ale paraziților",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Determină paralizia paraziților",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Pătrunde la nivelul SNC al mamiferelor",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Are o mare marjă de utilizare la animale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "68 Eprinomectina se utilizează la următoarele specii:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Bovine",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Ovine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Cabaline",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Suine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Carnivore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "69 Produsul Prazimec D este activ față de următoarele categorii de paraziți, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Cestode",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Nematode",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Artropode",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Agenții scabiei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Insecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "70 Sulful se utilizează în următoarele parazitoze cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Râie",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Pediculoză",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Tricofiție",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Cestodoze",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Microsporoză",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "71 Rezistenţa bacteriană la macrolide este încrucişată cu rezistenţa la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Lincosamide",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Tetracycline",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Aminoglicozide",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Polimixine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Fenicoli",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "72 Formolul este incompatibil cu urmatoarele substanţe, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Ammoniac",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Hidroxid de sodiu",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Permanganat de potasiu",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Tanin",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Apă oxigenată",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "73 Rivanolul este o substanţă antiseptică incompatibilă cu urmatoarele substanţe, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a albastru de metilen",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b clorura de sodiu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c cloramina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d iodul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e taninul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "74 Asupra tegumentului lezat în caz de arsuri sau plăgi albastrul de metilen se foloseşte ca:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a analgezic local uşor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b antiseptic moderat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c iritant",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d antiparazitar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e uşor analgezic local şi antiseptic moderat",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "75 Cloxacilina prezintă următoarele caracteristici, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este inactivată de penicilinaza stafilococică",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b are un spectru îngust de acţiune",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c se administrează intramamar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d se prezintă sub formă de tuburi cu suspensie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e este activă faţă de streptococi, stafilococi, corinebacterii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "76 Neomicina administrată pe cale orală prezintă următoarele proprietăţi, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a nu se absoarbe",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b este inactivată de sucul gastric",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c se elimină 97% prin fecale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d se elimină nemodificată",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e acţionează local la nivelul tubului digestiv",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "77 Pioctanina (violetul de gentiană) posedă urmatoarele acţiuni, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a antifungică",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b antibacteriană",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c iritantă",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d astringentă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e antihelmintică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "78 Cefepima se poate asocia cu următoarele substanțe, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a peniciline",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b quinolone",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c clindamicină",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d kanamicină",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e metronidazol",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "79 Iodoformul este un compus puţin stabil, descompunându-se uşor mai ales sub influenţa:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a luminii",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b căldurii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c aerului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d eterului etilic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cloroformului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "80 Sulful din compoziţia ihtiolului (ihtiosulfonat de amoniu) asigura următoarele proprietăţi, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a caustică",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b antiseptică",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c antiparazitară",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cheratoplastică",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e antipruriginoasă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "81 Ca urmare a unor tratamente îndelungate cu quinolone, se pot produce următoarele reacții adverse:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Afecțiuni hepatice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Afecțiuni nervoase",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Afecțiuni renale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Eroziuni ale cartilajelor de creștere",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Tulburări de echilibru",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "82 Bacitracina prezintă următoarele caracteristici, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Acțiune bactericidă de tip degenerativ",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Acționează prin împiedicarea sintezei peretelui bacterian",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Rezistența bacteriană se instalează lent",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Are nefrotoxicitate mare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Are neurotoxicitate mare",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "83 Despre spectinomicină sunt adevărate următoarele afirmații, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Este activă față de Gram +",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Este activă față de Gram -",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Este activă față de micoplasme",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Este activă față de fungi",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Se asociază cu lincomicina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "84 Apa de Javel conține:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a 0,5% hipoclorit de sodiu",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b 5-10% hipoclorit de potasiu",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c 20-25% hipoclorit de calciu",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Soluție saturată de clor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e 0,5% cloramină",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "85 Specia la care absorbția sulfamidelor este cea mai completă este reprezentată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Câine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Cal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Păsări",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Suine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Rumegătoare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "86 Sulfafurazolul (Neoxazolul) se recomandă mai ales în infecții:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Urinare",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b Digestive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Respiratorii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Cutanate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e a+b+c",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "87 Alcoolul etilic are următoarele proprietăţi, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Este un bun antiseptic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Este indicat la nivelul mucoaselor",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c Este un bun revulsiv",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Este un bun astringent",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Aplicat în arsuri previne formarea veziculelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "88 Clindamicina realizează concentrații foarte ridicate:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a În plasma sanguină",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b În ficat",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c În lichidul cefalorahidian",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d În creier",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Toate variantele sunt adevărate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "89 Fluoroquinolonele sunt indicate în următoarele infecții, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Infecții urinare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Infecții gastrointestinale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Infecții cutanate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Infecții respiratorii",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Meningite",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "90 Pentru a-și exercita acțiunea, penicilina se cuplează cu enzima:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Murein transpeptidaza",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b ADN-giraza",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Nucleotidiltransferaza",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Acetiltransferaza",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Aminoacetiltranferaza",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "91 Acțiunea bactericidă a detergenților cationici este datorată:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Inhibiției enzimatice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Interacțiunii cu acizii nucleici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Denaturării proteinelor microbiene și citolizei",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d Acțiunii la nivelul peretelui celular",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Acțiunii la nivelul nucleului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "92 Penicilina naturală care poate fi administrată per os este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Ampicilina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Meticilina",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Amoxicilina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Fenoximetilpenicilina",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e a+b+c",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "93 Deși majoritatea tetraciclinelor pătrund în lichidul cefalorahidian, nivelurile sunt insuficiente pentru a fi eficiente terapeutic, cu excepţia:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Clortetraciclinei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Rolitetraciclinei",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Oxitetraciclinei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Minociclinei",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e Doxiciclinei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "94 Cloramfenicolul nu se administrează concomitent cu următoarele categorii de substanțe, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Antianemice pe bază de fier",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Salicilați",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Barbiturice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Tranchilizante fenotiazinice",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Tetracicline",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "95 Mecanismul de acţiune al polimixinei B constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a inhibarea sintezei proteice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b inhibarea sintezei acizilor nucleici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c inhibarea ADN-girazei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d alterarea ireversibilă a membranei citoplasmatice",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e inhibarea sintezei peretelui bacterian",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "96 Sulfametazina posedă proprietăţi antimicrobiene recunoscute şi se utilizează mai ales la păsări astfel, cu o excepție:",        
+        "options": [
+            {
+                "id": "a",
+                "text": "a în holeră",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b în salmoneloză",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c în coccidioză",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d în apa de băut",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e în micoplasmoză",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "97 Reacţiile adverse produse de acidul nolixidic sunt următoarele, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a neurotoxicitate",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b greaţă, vomă, diaree",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c erupţii cutanate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d fotosensibilizare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e deprimarea respiraţiei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "98 Nitrofuranul are spectru antibacterian larg ce cuprinde următoarele categorii de microorganisme, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Gram pozitivi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Gram negativi",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c micoplasme",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d acidorezistenţi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e unele protozoare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "99 Penicilinele semisintetice sunt mai puţin sensibilizante decât benzil-penicilina, cu excepţia:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a meticilinei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ampicilinei",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c amoxicilinei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d oxacilinei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cloxacilinei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "100 Gudronul de pin prezintă următoarele efecte, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a bactericid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b cheratoplastic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c caustic",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d antipruriginos",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cheratolitic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "101 Acidul nalidixic are următoarele indicaţii terapeutice, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a pielonefrite",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b nefrite interstiţiale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c litiază urinară infectată",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cistite",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e metrite",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "102 Un exemplu de antibiotic ce prezintă un spectru intermediar de acţiune este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a penicilină",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ampicilină",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c tetraciclină",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cloramfenicolul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e a+b",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "103 Gentamicina prezintă următoarele efecte adverse:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este ototoxică",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b este nefrotoxică",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c este hematotoxică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d hepatotoxică",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e este ototoxică şi nefrotoxică",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "104 Din grupa aminoglicozidelor de generaţia a III-a face parte:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a gentamicina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b aminosidina",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c kanamicina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d amikacina",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e spectinomicina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "105 Despre tilocină sunt adevărate următoarele afirmaţii, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a se foloseşte numai în medicina veterinară",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b se absoarbe slab din intestin",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c se foloseşte în micoplasmoză la păsări",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d se foloseşte în gastroenterite",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e se foloseşte în pneumopatii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "106 Alcaliile au importanţă mai mare pentru medicina veterinară decât acizii, deoarece prezintă următoarele avantaje, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a sunt dezinfectante puternice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b sunt dezodorizante",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c sunt inodore",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d sunt uşor accesibile",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e sunt relativ ieftine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "107 Din categoria antibioticelor care acţionează antibacterian prin inhibarea sintezei proteice ribozomale prin legarea de subunităţile 30S fac parte:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a tetraciclinele",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b cloramfenicolul",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c macrolidele",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d lincosamidele",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e chinolonele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "108 Rifampicina poate produce la nivel hepatic următoarele acţiuni, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a intră în ciclul entero-hepatic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b scurtarea timpului de înjumătăţire al altor medicamente",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c inducţie enzimaticăinducţie enzimatică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d inducţia oxidazelor hepatice",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e inhibiţie enzimatică",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "109 Pentru obţinerea sulfamidelor potenţate se folosesc următoarele substanţe, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a diaveridina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b sulbactamul",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c pirimetamina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d trimetoprimul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e etoxidiaveridina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "110 Acidul boric se poate utiliza în următoarele situaţii, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a în oftalmologie",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b în stomatite",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c în afecţiuni cutanate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d în ginecologie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e în afecţiuni podale",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "111 Toxicitatea directă a penicilinelor naturale se traduce prin tulburări:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cardiace",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b urinare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c respiratorii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d alergice",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e a+d",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "112 Un exemplu de cefalosporină parenterală din prima generaţie este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cefamandol",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b cefuroxima",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c cefazolina",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d cefotaxima",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e a+b",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "113 Din grupa antibioticelor macrolide fac parte următoarele substanţe, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a claritromicina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b tulatromicina",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c azitromicina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d clindamicina",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e spiramicina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "114 Rifampicina prezintă următorul mecanism de acţiune antibacterian:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a inhibă sinteza ARN bacterian",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b inhibă sinteza proteinelor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c inhibă sinteza peretelui bacterian",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d substituie acidul paraaminobenzoic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e interferează cu membrana bacteriană",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "115 Din grupa aminoglicozidelor cea mai mică acţiune nefrotoxică are:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a gentamicina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b amikacina",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c streptomicina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d kanamicina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e neomicina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "116 La porumbel, consecutiv administrării streptomicinei, pot apărea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a efecte nefrotoxice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b alergii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ataxii",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d bloc neuromuscular",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e a+c",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "117 Activitatea antibacteriană a sulfamidelor poate fi interferată şi antagonizată de următoarele substanţe, cu o excepţie:",      
+        "options": [
+            {
+                "id": "a",
+                "text": "a acidul paraaminobenzoic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b anestezicele locale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c unele antibiotice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d anestezicele generale",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e unii membri ai complexului vitaminic B",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "118 Colistina nu se poate asocia cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a penicilina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b tetraciclina",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c cloramfenicol",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cefalosporine",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e a+b+c",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "119 Acidul salicilic folosit în concentraţii mari are efect:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a antiseptic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b caustic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c fungicid",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cheratolitic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e b+d",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "120 Antibioticul Tiamulin prezintă următoarele caracteristici, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este un derivat semisintetic al antibioticului pleuromutilin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b acţionează antibacterian prin reducerea sintezei proteice la nivelul membranelor celulare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c acţionează antibacterian prin împiedicarea sintezei acizilor nucleici",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d este indicat în tratamentul dizenteriei porcului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e se foloseşte ca adjuvant în tratamentul complexului pneumoniei enzootice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "121 Cefalosporinele acţionează bactericid prin următoarele mecanisme, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a se fixează pe proteinele receptoare specifice (PBP)",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b împiedică sinteza peretelui celular",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c blochează transpeptidaza peptidoglicanului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d inhibă sinteza proteinelor bacteriene",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e activează enzimele autolitice din peretele celular",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "122 Metabolitul doxiciclinei este eliminat preferenţial prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a materiile fecale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b lapte",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c urină",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d salivă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e urină si materiile fecale",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "123 Din grupa antibioticelor macrolide face parte:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a doxiciclina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b azitromicina",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c lincomicina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d clindamicina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e colimicina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "124 Iodoforii prezintă următoarele caracteristici, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a sunt combinaţii ale iodului cu un detergent",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b sunt pulberi de culoare galbenă",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c nu au acţiune iritantă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d nu pătează",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e au efect bactericid prompt şi de lungă durată",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "125 Acidul 6-aminopenicilanic din structură chimică a penicilinelor este responsabil pentru:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a reacţiile adverse",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b proprietăţile antibacteriene",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c solubilitate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d spectrul de acţiune",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e a+b",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "126 Penicilinele semisintetice cu spectru larg posedă o penetrabilitate mai bună la nivelul peretelui bacterian şi astfel sunt active şi faţă de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a germeni anaerobi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ricketsii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Gram negativi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d micoplasme",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e c+d",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "127 În vederea lărgirii spectrului de acţiune şi asupra bacteriilor producătoare de betalactamaze, ampicilina se asociază cu:",    
+        "options": [
+            {
+                "id": "a",
+                "text": "a acid clavulanic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b sulbactam",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c spectinomicină",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d trimetoprim",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e diaveridină",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "128 Tulatromicina prezintă următoarele caracteristici, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a acţionează rapid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b se acumulează la nivelul ţesutului pulmonar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c are o durată lungă a timpului de înjumătăţite",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d se elimină rapid din organism",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e are o distribuţie extensivă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "129 Din grupa falselor macrolide (lincosamide) face parte următorul antibiotic:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a colimicina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b clindamicina",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c tirotricina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d azitromicina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e claritromicina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "130 Acidul boric sub formă de soluţii 3-4% se utilizează în următoarele situaţii, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a conjunctivite",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b blefarite",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ulcere corneene",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d stomatite",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e ginecologie",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "131 Din grupa penicilinelor cu spectru larg active faţă de Pseudomonas fac parte următoarele, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a carbenicilină",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b amoxicilină",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c ticarcilină",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d azlocilină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e piperacilină",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "132 Iodoformul prezintă următoarele caracteristici, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a se descompune şi acţionează rapid",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b este dezodorizant",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c este stimulant al cicatrizării",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d nu este iritant",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e este analgezic şi sicativ",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "133 Cloramina B sub formă de comprimate de 0,5g se utilizează extern în soluţii 0,5-1% ca antiseptic și dezinfectant pentru următoarele obiecte, cu o excepție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a lenjerie",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ustensile de cauciuc",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c săli de operaţie",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d mâini",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e plăgi",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "134 În mod obişnuit, sunt rezistente la kanamicină următoarele microorganisme, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a streptococii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b Pseudomonas",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c micobacteriile",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d clostridiile",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e protozoarele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "135 Reacţiile adverse produse de doxiciclină sunt comune tetraciclinelor cu următoarele deosebiri:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a toxicitate vestibulară frecventă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b disbacteriozele intestinale sunt rare",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c toxicitate hepatică frecventă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d toxicitate renală rareori",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ototoxicitate frecventă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "136 Mecanismul de acţiune antibacterian al cloramfenicolului constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a inhibă sinteza acizilor nucleici",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b inhibă sinteza peretelui bacterian",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c inhibă sinteza proteică",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d inhibă ADN-giraza",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e inhibă sinteza membranei celulare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "137 Antibioticele din grupa falselor macrolide cu aceeaşi mecanism de acţiune şi:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a penicilinele",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b macrolidele",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c aminoglicozidele",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cefalosporinele",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e fenicolii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "138 Procainpenicilina face parte din categoria:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a peniciline retard",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b peniciline de semisinteza",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c peniciline cu spectru larg",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d inhibitori ai betalactamazelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cefalosporine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "139 Nefrotoxicitatea aminoglicozidelor este crescută de către următoarele medicamente, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cefalosporinele",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b polimixinele",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c amfotericina B",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d macrolidele",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e furosemidul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "140 Eritromicina nu este indicată în tratamentul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a infecţiilor respiratorii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b meningitelor",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c infecţii digestive",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d mamitelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e artritelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "141 Ciprofloxacina face parte din grupa:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a antibiotice betalactamice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b antibiotice aminoglicozide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c quinolone",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d antibiotice macrolide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e antibiotice false macrolide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "142 Mecanismul de acţiune bacteriostatic al sulfamidelor constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a acidul paraaminobenzoic",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b inhibă ADN- giraza",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c inhibă sinteza proteinelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d inhibă sinteza acizilor nucleici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e inhibă sinteza peretelui bacterian",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "143 Ampicilina este o penicilină cu spectru larg asemenător:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a tetraciclinelor",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b polimixinelor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c aminoglicozidelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d macrolidelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e falselor macrolide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "144 Polimixina E poate fi asociată cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cefalosporine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b macrolide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c aminoglicozide",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d tetracicline",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e a+b",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "145 Mecanismul de activitate al Rifampicinei constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a inhibarea sintezei ADN bacterian",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b inhibarea sintezei ARN bacterian",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c inhibarea sintezei proteinelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d inhibarea sintezei peretelui bacterian",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e inhibarea sintezei ADN-girazei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "146 Speciile la care se utilizează cloramfenicolului sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a bovine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b cabaline",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c suine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d animalele de companie",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e animalele de rentă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "147 Bacitracina prezintă următoarele proprietaţi, cu o excepţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a împiedică sinteza peretelui bacterian",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b rezistenţa bacteriană se instalează lent",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c are nefrotoxicitate mare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d se utilizează pe cale sistemică",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e se asociază în special cu neomicina şi polimixina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "148 Streptomicina nu se administrează pe cale:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a orală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b intravenoasă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c intramusculară",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d externă",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e intramamară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "149 Benzatinpencilina face parte din categoria:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a peniciline naturale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b peniciline de semisinteză",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c peniciline retard",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d inhibitori ai beta-lactamazelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e peniciline cu spectru larg",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "150 Mecanismul de acțiune al quinolonelor constă în inhibarea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a Fosfodiesterazei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ADN-gyrazei",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c ATP-azei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d Ciclooxigenazei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e Lipoxigenazei",
+                "bool": "false"
+            }
+        ]
+    }
+]
+}

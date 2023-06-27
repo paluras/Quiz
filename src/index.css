@@ -109,3 +109,18 @@ button:active {
   background-color: red;
 }
 
+
+@media screen and (max-width: 768px){
+ .nav-bar{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0px;
+ 
+ }
+
+ .change{
+  width: 100px;
+  height: 30px;
+  font-size: 10px;
+ }
+}
