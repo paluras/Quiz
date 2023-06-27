@@ -1,0 +1,4505 @@
+
+{
+    "questions":[
+    {
+        "question": "1 Linia albă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este mascată de podofil",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b marchează limita dintre talpă şi furcuţă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ia naştere la nivelul marginii soleare, la limita de unire a peretelui cu talpa",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d delimitează zona în interiorul căreia pot fi bătute caielele pentru fixarea potcoavelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e reprezintă proeminarea ventrală a tubilor cornoşi şi a ţesutului intertubular",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "2 Bureletul perioplic:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a generează periopla sau glazura",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b este dispus distal de bureletul cutidural",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c este în continuitate cu ţesutul podofilos",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d se continuă la extremităţi cu ţesutul velutos al bulbilor furcuţei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e este structura externă a cutiei de corn",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "3 Bureletul cutidural:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este dispus la marginea superioară a bureletului perioplic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b generează tubii cornoşi şi ţesutul intertubular",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c generează cherafilul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d proemină sub piele la nivelul coroanei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e produce cornul tălpii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "4 Fibrocartilajele complementare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a au faţa externă acoperită în totalitate de piele",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b nu au continuitate cu bulbii cuzinetului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c vin în contact prin faţa profundă cu fundurile de sac laterale şi mediale ale articulației interfalangiană distală",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d nu sunt prezente la ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e sunt generate de membrana cheratogenă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "5 În timpul operaţiei de javart cartilaginos:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a articulaţia interfalangiană distală trebuie sa fie în extensie forţată",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b articulaţia interfalangiană distală trebuie sa fie în flexie",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c extensia sau flexia articulaţiei nu influenţează manopera chirurgicală",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d trebuie executată nevrectomia nervului digital anterior",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e trebuie îndepărtat şi bulbul cuzinetului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "6 Ligamentul pintenului întăreşte marginile:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a fasciei postsesamofalangiene",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b fasciei lata",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c fasciei postcarpiene",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d fasciei cuzinetului",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e fasciei furcuţei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "7 Barele cutiei de corn reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a braţele furcuţei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b bulbii călcâielor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c vârful furcuţei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d fibrocartilajele complementare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e continuarea peretelui cutiei de corn",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "8 Caielele pot fi bătute:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a în talpă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b în furcuţă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c în interiorul liniei albe",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d pe linia albă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e în afara liniei albe",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "9 La limita dintre piele şi membrana cheratogenă se găseşte:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a şanţul solear",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b şanţul cutidural",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c bureletul cutidural",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d bureletul perioplic",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e ţesutul cheratogen",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "10 Periopla este generată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a bureletul cutidural",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b podofil",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c nici un răspuns corect",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d ţesutul velutos al tălpii",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cherafil",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "11 Stratul mijlociu al peretelui cutiei de corn:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este mai subţire decât periopla",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b este total depigmentat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c este puternic vascularizat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d este generat de bureletul cutidural",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e este reprezentat prin cherafil",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "12 Stratul intern al peretelui cutiei de corn:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este cherafilul, generat de bureletul cutidural",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b este format din tubi cornoşi şi ţesut intertubular",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c este puternic vascularizat şi inervat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d este reprezentat doar prin lame cherafiloase",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e este reprezentat prin 500-600 lame primare c are se angrenează foarte puternic cu structurile podofilului",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "13 Talpa:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a reprezintă porţiunea parietală a cutiei de corn",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b are periferia circumscrisă de furcuţă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c are consistenţa cornului mai redusă decât cel de la nivelul peretelui cutiei de corn",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d are cornul mai moale decât cel de la nivelul furcuţei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e prezintă faţa dorsală concavă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "14 Stratul cornos ce constituie talpa este produs de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cherafil",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ţesutul cutidural al tălpii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ţesutul podofilos al tălpii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d ţesutul velutos al tălpii",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e periostul feţei soleare a falangei a III-a",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "15 Cuzinetul palmar:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este diferit conformat faţă de cel pelvin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b este în raport cu faţa dorsală a aponevrozei de întărire a aponevrozei palmare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c este o formaţiune elastică, impară, cu aspect piramidal",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d este singurul element al aparatului de amortizare al copitei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e are aspect patrulater",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "16 Fascia cuzinetului este plasată:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a pe faţa dorsală a regiunii acropodiale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b doar în regiunea metapodială",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c la faţa profundă a fasciei postsesamo-falangiene",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d între piele şi fascia postsesamo-falangiană",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e la vârful cuzinetului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "17 Porţiunea anterioară a peretelui cutiei de corn:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este cea mai joasă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b se numește pensă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c se numeşte frunte",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d se continuă posterior cu călcâiele",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e se continuă pe faţa soleară formând barele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "18 Braţele furcuţei:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a sunt dispuse pe faţa dorsală a furcuţei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b converg în sens caudal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c sunt divergente în sens posterior",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d nu participă la formarea bulbilor călcâielor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e sunt separate de talpă printr-o lacună mediană",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "19 Baza anatomică a copitei este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a extremitatea distală a falangei proximale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b articulaţia buletului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c articulaţia chişiţei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d reprezentată prin jumătatea distală a falangei a II-a, falanga a III-a şi micul sesamoid",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e falanga a III-a",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "20 Fascia (aponevroza) de întărire a aponevrozei palmare/plantare constituie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a peretele anterior al marii teci sesamoidiene",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b peretele anterior al micii teci sesamoidiene",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c peretele posterior al marii teci sesamoidiene",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d peretele posterior al micii teci sesamoidiene",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e micul burelet glenoidian",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "21 În porţiunea soleară membrana cheratogenă este reprezentată:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a doar prin ţesutul velutos (catifelat)al tălpii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b doar prin ţesutul velutos al furcuţei şi barelor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c doar prin podofilul plantar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d doar prin ţesutul velutos (catifelat)al tălpii şi al furcuţei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e prin ţesutul velutos (catifelat) al tălpii, furcuţei, barelor şi podofilul palmar/plantar",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "22 Porţiunea soleară a onglonului este reprezentată:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a numai prin talpă, lipsind furcuţa şi barele",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b numai prin furcuţă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c numai prin bare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d prin bare şi furcuţă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e prin talpă şi furcuţă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "23 Porţiunea soleară a cutiei de corn cuprinde:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a talpa, furcuţa şi bureletul perioplic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b talpa, furcuţa şi barele",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c talpa, furcuţa şi bureletul cutidural",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d talpa, barele şi bureletul perioplic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e talpa, barele şi bureletul cutidural",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "24 Bulbul ocular are o formă aproximativ sferică la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ovine, suine, carnivore şi leporide",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b ovine, ecvine, carnivore, leporide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c suine, carnivore, bovine, leporide",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d ovine, suine, carnivore, bovine, leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ovine, bovine, ecvine, suine, carnivore, leporide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "25 Porţiunea posterioară a tunicii fibroase a bulbului ocular este reprezentată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a corneea transparentă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b retină",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c sclerotica",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d coroidă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e corp ciliar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "26 Faţa internă a sclerei se găseşte în contact cu coroida prin intermediul unui strat de ţesut conjunctiv lax, pigmentat, numit:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a limb sclerocornean",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b cornee transparentă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c coroidă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d lamina fusca",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e retină vizuală",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "27 Deschiderea anterioară a sclerei este ocupată de cornee, zona de continuitate fiind reprezentată prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a arterele ciliare scurte",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b nervii ciliari",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c arterele ciliare posterioare lungi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d lamina fusca",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e limbul sclerocorneean",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "28 Coroida este plasată între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a sclerotică şi retină",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b sclerotică şi corpul ciliar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c retină şi corpul ciliar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d iris şi retină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e iris şi corpul ciliar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "29 Corpul ciliar cuprinde:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a irisul şi muşchiul ciliar",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b muşchiul ciliar şi procesele ciliare",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c procesele ciliare şi irisul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d retina şi procesele ciliare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e retina şi muşchiul ciliar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "30 Camera anterioară a ochiului este cuprinsă între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a iris şi cristalin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b cornee şi cristalin",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c cornee şi iris",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d cornee şi retină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e retină şi cristalin",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "31 Camera posterioară a ochiului este cuprinsă între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a iris şi cristalin",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b cornee şi cristalin",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c cornee şi iris",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cornee şi retină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e retină şi cristalin",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "32 Zona de joncțiune dintre cele două porţiuni ale retinei (vizuală și oarbă) corespunde:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a irisului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b cristalinului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c limbului sclero-corneean",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d proceselor ciliare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e orrei serrata",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "33 Nervul optic se detaşează de la nivelul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a coroidei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b proceselor ciliare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c orrei serrata",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d papilei optice",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e cristalinului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "34 Mediile refringente ale ochiului sunt reprezentate de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a umoarea apoasă; cristalin şi corpul vitros",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b umoarea apoasă, retina oarbă şi corpul vitros",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c cristalin, retina oarbă şi umoarea apoasă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cristalin, retina oarbă, umoarea apoasă şi corpul vitros",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e corpul vitros, umoarea apoasă şi retina vizuală",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "35 Anexele protectoare ale ochiului sunt reprezentate de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cavitatea orbitară, sprâncene şi conjunctivă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b cavitatea orbitară, sprâncene şi pleoape",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c cavitatea orbitară, sprâncene şi capsula Tenon",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cavitatea orbitară, pleoape şi conjunctivă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cavitatea orbitară, pleoape şi capsula Tenon",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "36 Anexele secretorii ale globului ocular sunt reprezentate de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a glandele mucipare, glandele sebacee şi aparatul lacrimal",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b glandele mucipare, glandele sebacee şi umoarea apoasă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c glandele mucipare, glandele sebacee şi cristalin",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d glandele mucipare, glandele sebacee şi corpul vitros",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e corpul vitros, umoarea apoasă şi aparatul lacrimal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "37 Tapetum lucidum este prezent la toate speciile de mamifere cu excepția:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ecvinelor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b caprinelor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c suinelor",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d canidelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e canidelor și felinelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "38 Mușchii pleoapei a III-a la păsări sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a mușchii ciliar și pătrat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b mușchii pătrat și piramidal",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c mușchii retractor al globului ocular și piramidal",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d mușchii drept dorsal al ochiului și pătrat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e mușchii drept ventral al ochiului și piramidal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "39 Mușchiul ridicător propriu al pleoapei superioare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este gros și cilindric",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b are origine pe foseta trochleară",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c se inseră pe fața externă a membranei tarsale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d se inseră pe ligamentul tars",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e este acoperit de mușchiul drept dorsal al ochiului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "40 Camera posterioară a bulbului ocular comunică cu camera anterioară prin intermediul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a coroidei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b limbului sclerocorneean",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c pupilei",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d irisului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e retinei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "41 La păsări, de pe coroidă la nivelul papilei se detaşează spre camera internă o membrană vasculară pigmentată numită:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a tapetum lucidum",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b cristalin",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c coroidă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d retină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e pecten",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "42 Măduva spinării prezintă intumescenţa cervicală situată între vertebrele:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a a V-a cervicală şi a II-a toracală",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b a IV-a cervicală şi a II-a toracală",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c a V-a cervicală şi a III-a toracală",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d a IV-a cervicală şi a III-a toracală",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e a V-a cervicală şi a IV-a toracală",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "43 La nivelul feţei mediale dorsale a măduvei spinării sunt prezente următoarele şanţuri:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a şanţul median dorsal, fisura mediană ventrală şi şanţul colateral dorsal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b şanţul median dorsal, fisura mediană ventrală şi şanţul intermediar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c şanţul median dorsal, şanţul colateral dorsal şi în regiunea cervicală un şanţ intermediar",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d şanţul median dorsal, şanţul colateral dorsal şi în regiunea toracală un şanţ intermediar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e şanţul median dorsal, şanţul colateral dorsal şi în regiunea sacrală un şanţ intermediar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "44 În anumite regiuni ala măduvei (în special toracală), la baza coarnelor ventral, se poate identifica câte un corn lateral mai redus cu funcţie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a motorie",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b vegetativă",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c motorie şi vegetativă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d senzitivă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e senzitivă şi vegetativă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "45 Cordonul dorsal al substanţei albe din măduva spinării este cuprins între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cornul dorsal şi cel ventral",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b între fisura mediană ventrală şi coarnele ventrale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c între fisura mediană ventrală şi coarnele dorsale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d între şanţul median dorsal şi coarnele dorsale",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e între şanţul median dorsal şi coarnele ventrale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "46 Baza bulbului rahidian, dispusă oral, se continuă cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a pedunculii cerebrali",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b măduva spinării",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c puntea",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d tuberculii cvadrigemeni",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e corpii geniculaţi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "47 Corpul trapezoid este plasat:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a imediat înapoia punţii",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b la nivelul trigonului bulbar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c pe faţa ventrală a bulbului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d pe faţa dorsală a bulbului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e la nivelul trigonului pontin",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "48 Pe părțile laterale ale corpului trapezoid își au originea aparentă următoarele perechi de nervi cranieni:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a VI, VII, VIII",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b VII, VIII",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c IX, X, XI",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d IX, X",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e V, VI",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "49 În şanţul lateral dorsal al bulbului rahidian se găsesc originile aparente ale perechilor:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a IX, X, XI",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b X, XI, XII",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c VII, IX, X",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d IX, X, XII",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e VII, XI, XII",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "50 Ventriculul al IV-lea reprezintă un spaţiu intranevraxial dispus pe:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a faţa dorsală a bulbului rahidian",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b faţa ventrală a bulbului rahidian",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c faţa dorsală a punţii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d faţa ventrală a diencefalului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e faţa ventrală a telencefalului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "51 Puntea este separată de bulbul rahidian prin şanţul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a pontopeduncular",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b bazilar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c interpeduncular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d postcvadrigeminal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e bulbopontin",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "52 Recesusul tectal al ventriculului al IV-lea pătrunde printre următorii lobi ai cerebelului:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a declive şi lingula",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b nodulus şi tuber vermis",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c pyramis şi lingula",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d nodulus şi lingula",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e uvula şi nodulus",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "53 Tuberculul cenuşiu şi tuberculul mamilar sunt formaţiuni ce aparţin de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a metatalamus",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b epitalamus",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c hipotalamus",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d talamus",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e telencefal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "54 Tuberculii cvadrigemeni aparţin de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a mielencefal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b metencefal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c mezencefal",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d diencefal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e telencefal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "55 Aria perforată posterioară se găseşte dispusă pe porţiunea aborală a:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a fosei interpedunculare",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b punţii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c bulbului rahidian",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d pedunculilor cerebeloşi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cerebelului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "56 Terminarea bandeletelor optice este marcată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a corpul geniculat medial",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b corpul geniculat lateral",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c chiasma optică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d comisura albă anterioară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e comisura albă posterioară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "57 Gaura comună anterioară reprezintă orificiul prin care:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ventriculii laterali comunică între ei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ventriculii laterali comunică cu ventriculul al IV-lea",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ventriculul al III-lea comunică cu ventriculii laterali",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d ventriculul al III-lea comunică cu ventriculul al IV-lea",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ventriculul lobului olfactiv comunică cu ventriculii laterali",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "58 Pe faţa ventrală a telencefalului, înapoia fosei silviene, există un relief ce constituie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a trigonul olfactiv",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b corpul calos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c bulbul olfactiv",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d lobul piriform",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e pedunculul olfactiv",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "59 Septumul pelucid este o lamă subţire de substanţă nervoasă ce constituie un perete separator între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ventriculul al III-lea şi ventriculul al IV-lea",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b pedunculii cerebrali",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c pedunculii cerebeloşi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d comisura albă anterioară şi comisura albă posterioară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cei doi ventriculi laterali",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "60 Corpul calos prezintă în secţiune sagitală:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a trunchiul corpului calos, bureletul corpului calos, ciocul corpului calos şi genunchiul corpului calos",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b trunchiul corpului calos, bureletul corpului calos, ciocul corpului calos şi trigonul cerebral",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c trunchiul corpului calos, bureletul corpului calos, ciocul corpului calos, genunchiul corpului calos şi trigonul cerebral",  
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d trunchiul corpului calos, bureletul corpului calos, ciocul corpului calos, genunchiul corpului calos şi septumul pelucid",   
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e trunchiul corpului calos, bureletul corpului calos, ciocul corpului calos, genunchiul corpului calos, trigonul cerebral şi septumul pelucid",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "61 Capsula albă internă din structura corpului striat împarte substanţa cenuşie în doi nuclei principali:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a gracilis şi cuneatus",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b caudat şi lentiform",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c caudat şi claustrum",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d claustrum şi lentiform",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e gracilis şi lentiform",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "62 Ligamentele dinţate se detaşează de pe faţa externă a:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a dureimater",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b arahnoidei",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c pieimater",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d dureimater şi pieimater",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e arahnoidei şi pieimater",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "63 Cortul hipofizei este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a o cută fibroasă de forma lamei unei coase ce pătrunde în şanţul interemisferic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b o cută fibroasă situată între extremitatea caudală a emisferelor cerebrale şi cerebel",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c format prin dedublarea pieimater la nivelul şeii turceşti",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d format prin dedublarea dureimater la nivelul şeii turceşti",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e format prin dedublarea arahnoidei la nivelul şeii turceşti",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "64 La formarea voalurilor şi plexurilor coroidiene ce produc lichidul cefalorahidian contribuie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a duramater",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b arahnoida",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c arahnoida si piamater",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d duramater şi piamater",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e piamater",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "65 Pericardul fibros derivă din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a fascia cervicală profundă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b fascia transversă a abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c septumul mediastinal al fasciei endotoracice",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d fascia cervicală superficială",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e fascia gluteenă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "66 Podeaua atriului drept este perforată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a orificiul sinusului coronar",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b orificiul atrioventricular drept",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c orificiul venei cave craniale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d orificiul arterei pulmonare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e orificiile venelor pulmonare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "67 Orificiul atrioventricular stâng:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a este situat caudal, prevăzut cu o valvă bicuspidă sau mitrală",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b prezintă o valvă pulmonară, constituită din trei valvule semilunare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c este larg, prevăzut cu o valvă triplu incizată, formată din trei cuspizi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d este format de valva aortică compusă din trei valvule semilunare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e prezintă un tubercul intervenos",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "68 Atriul stâng, dispus caudal, prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a dorsocranial deschiderea venei cave craniale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b caudolateral deschiderea venei cave caudale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c orificiul sinusului coronar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d orificiul trunchiului pulmonar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e caudodorsal 4-6 orificii largi, reprezentând deschiderea venelor pulmonare",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "69 Faţa stângă a masei ventriculare este străbătută oblic de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a şanţul longitudinal interventricular subsinuos",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b şanţul coronar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c şanţul longitudinal intermediar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d şanţul longitudinal interventricular paraconal",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e două şanţuri coronare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "70 La caprine şanţul longitudinal intermediar este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a absent",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b rectiliniu şi atinge apexul",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c rectiliniu, dar nu atinge apexul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d foarte scurt",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e inconstant",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "71 La bovine marginea ventriculului stâng este ornată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a un şanţ intermediar rectiliniu, ce atinge apexul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b şanţul longitudinal interventricular subsinuos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c şanţul coronar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d vena cavă caudală",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e şanţul intermediar care nu abordează vârful cordului",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "72 Atriile la ecvine sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cu marginile foarte festonate",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b mai mici decât la rumegătoare, dar cu marginile mai puţin festonate",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c sunt asemănătoare celor de la suine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d mai mari decât la rumegătoare, au marginile mai puţin festonate",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e sunt asemănătoare celor de la carnivore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "73 Auriculul drept la suine este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a foarte bine reprezentat, cu marginile netede",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b redus, cu marginile puţin festonate",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c foarte bine reprezentat cu marginile puţin festonate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d redus, cu marginile puternic festonate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e este asemănător cu cel stâng",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "74 Vena azigos (situată pe partea dreaptă) se descarcă în vena cava cranială la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a bovine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c caprine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e carnivore",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "75 La ce specie în atriul drept se deschid două vene cave craniale?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a rumegătoare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c caprine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e carnivore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "76 La ce specie şanţul intermediar apare uneori foarte scurt sau absent?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a bovine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suine",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c caprine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e carnivore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "77 La ce specie în atriul drept se deschid două vene cave craniale şi vena cavă caudală?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a numai la păsări",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c caprine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d păsări și leporide",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e carnivore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "78 La suine artera subclaviculară stângă se detaşează direct din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a trunchiul comun brahiocefalic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b artera carotidă comună",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c trunchiul pulmonar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cârja aortică",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e artera subclaviculară dreaptă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "79 Protuberanța linguală este foarte dezvoltată la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a rumegătoarele mari",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d feline",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e leporide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "80 Papilele foliate lipsesc la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c carnivore",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e rumegatoare mari",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "81 La nivelul protuberanței linguale la rumegătoare se întâlnesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a papile fungiforme",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b papile foliate",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c papile de formă lenticulară",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d papile filiforme necheratinizate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e papile conice necheratinizate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "82 La suine limba:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a prezintă două proieminențe înalte, dispuse pe părțile laterale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b prezintă o proieminență mediană alungită",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c este lipsită de proieminețe laterale și mediană",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d este lipsită de proieminență mediană",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e prezintă un silon median, dispus pe toată lungimea limbii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "83 La ce specie pe fața ventrală a vârfului limbii se poate palpa un cordon fibros (lyssa)?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a leporide",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c rumegătoare mici",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d câine",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e rumegătoare mari",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "84 La iepure, limba prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a 2 perechi de papile circumvalate",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b 3 perechi de papile circumvalate",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c 4 perechi de papile circumvalate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d 1 pereche de papile circumvalate",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e 5 perechi de papile circumvalate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "85 Atriul ruminal comunică cu rețeaua prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a orificiul cardia",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b vezicule conice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c orificiul rumino-reticular",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d orificiul reticulo-omasic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e orificiul omaso-abomasic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "86 Veziculele conice sunt separate de restul rumenului prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a șanțul longitudinal drept",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b șanțul longitudinal stâng",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c șanțul rumino-reticular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d șanțurile coronare",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e pilierii craniali",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "87 Fața viscerală a rumenului este parcursă de :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a șanțul longitudinal drept",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b șanțul longitudinal stâng",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c șanțul rumino-reticular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d șanțurile coronare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e pilierii craniali",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "88 Fața parietală a rumenului este parcursă de :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a șanțul longitudinal drept",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b șanțul longitudinal stâng",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c șanțul rumino-reticular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d șanțurile coronare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e pilierii craniali",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "89 In ce porțiune a stomacului compartimentat de la rumegătoare se găsesc celule reticulare de formă hexagonală:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a rețea",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b foios",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c sacul ruminal ventral",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cheag",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e atriul ruminal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "90 Foiosul comunică cu cheagul prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a orificiul omaso-abomasic",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b orificiul reticulo-omasic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c orificiul pilor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d orificiul cardia",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e atriul ruminal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "91 Șanțul omasic se dispune între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a orificiul reticulo-ruminal și reticulo-omasic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b orifciul cardia și orificiul reticulo-ruminal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c orificiul pilor si orificiul omaso-abomasic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d orificiul reticulo-omasic și orificiul omaso-abomasic",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e atriul ruminal și veziculele conice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "92 La rumegătoare, micul epiplon sau ligamentul hepato-gastric se inseră:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a în jurul orificului reticulo-ruminal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b pe marea curbură a cheagului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c pe mica curbură a cheagului",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d la nivelul șanțului coronar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e la nivelul orificiului cardia",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "93 La oaie, rețeaua este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a mai mică decât foiosul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b egală cu foiosul",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c mai mare decât rumenul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d egală cu rumenul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e mai mare decât foiosul",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "94 La care din următoarele specii nu există vezică biliară:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a carnivore",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b leporide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ecvine",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d suine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e rumegătoare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "95 Care din cei cinci lobi ai ficatului la ecvine prezintă amprentă renală:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a lobul drept",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b lobul stâng medial",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c lobul stâng lateral",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d lobul caudat",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e lobul patrat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "96 La ce specie incizurile interlobare sunt puțin profunde și ficatul are 4 lobi?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b rumegătoare",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c suine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d feline",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e leporide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "97 Fundul vezicii biliare la rumegătoarele mari :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a nu depășește marginea ventrală a ficatului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b depășește marginea ventrală a ficatului",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c este dispus pe fața diafragmatică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d este dispus între lobul pătrat și lobul stâng",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e depășește marginea dorsală a ficatului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "98 La rumegătoarele mici canalul coledoc se deschide în duoden:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a împreună cu canalul pancreatic",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b împreună cu canalul cistic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c împreună cu canalul hepatic principal",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d singur",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e împreună cu canalul Santorini",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "99 La ce specie lobul pătrat prezintă formă triunghiulară:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b canide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c feline",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e suine",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "100 La ce specie lobul medial drept al ficatului are un aspect triunghiular, lanceolat și depășește marginea ventrală a ficatului :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b canide",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c feline",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e suine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "101 Canalul cistic este flexuos la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b canide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c feline",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e suine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "102 La leporide ficatul are:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a 4 lobi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b 5 lobi",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c 2 lobi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d 6 lobi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e 3 lobi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "103 La ce specie lobul medial drept al ficatului este foarte dezvoltat și are aspect dreptunghiular:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b canide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c feline",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e suine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "104 La ce specie pulmonul nu prezintă fisuri interlobare ?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a suine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b feline",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c rumegătoare mari",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d canide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ecvine",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "105 Porțiunea cranială (anterioară) a lobului cranial al pulmonului drept la rumegătorul mare este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a foarte redusă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b foarte dezvoltată, trece pe sub trahee, deviind mediastinul spre stânga",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c foarte dezvoltată, trece pe sub trahee, deviind mediastinul spre dreapta",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d la fel ca la suine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e la fel ca la ecvine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "106 La caprine lobulația este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a evidentă pe toată suprafața pulmonului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b absentă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c vizibilă pe lobii craniali și caudali",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d vizibilă pe lobii craniali și mijlocii",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e la fel ca oaie",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "107 Lobulația la pulmonii de suine este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a vizibilă doar pe lobii craniali",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b vizibilă pe lobii mijlocii și craniali",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c vizibilă doar pe lobii caudali",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d absentă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e vizibil pe toată suprafața pulmonului, dar mai estompat ca la rumegătoarele mari",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "108 La canide, fisurile interlobare sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a reduse",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b sunt doar puțin vizibile între lobii craniali și mijlocii",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c sunt asemănătoare celor de la ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d sunt foarte adânci, ajungând până la hil",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e sunt adânci, dar nu ating hilul.",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "109 La ce specie lobii craniali ai pulmonului sunt relativ asemănători:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a suine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b feline",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c bovine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d canide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ovine și feline",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "110 Pulmonii la leporide prezintă un aspect:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a de triunghi isoscel",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b de triunghi dreptunghic",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c de pătrat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d de dreptunghi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e identic cu cel de la pisică.",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "111 La ce specie lobul accesoriu al pulmonului este mai redus și are formă triunghiulară:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a canide",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b leporide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c feline",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d rumegătoare mari",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ecvine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "112 La ovine, lipsește de la nivelul articulației coxo-femurale, următorul ligament:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ligamentul capului femural",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ligament acetabular transvers",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c burelet acetabular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d ligamentul accesoriu al capului femural",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e capsulă articulară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "113 Simfiza pelvină este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a unirea suprafețelor simfizare ale celor două oase coxale prin intermediul unei lame cartilaginoase",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b unirea suprafețelor doar dintre paletele iliace",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c unirea suprafețelor dintre sacrum și ilium",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d unirea suprafețelor dintre sacrum si pubis",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e unirea suprafețelor dintre sacrum și ischium",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "114 Articulația sacro-iliacă este legătura ce se realizează între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a suprafețele articulare auriculare dintre sacrum și pubis",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suprafețele articulare auriculare dintre sacrum și ilium",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c suprafețele articulare auriculare dintre sacrum și ischium",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d suprafața articulară auriculară dintre sacrum și ultima vertebră lombară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e suprafața articulară auriculară dintre sacrum și vertebrele lombare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "115 Mijloacele de legătură ale articulației sacro-iliace sunt reprezentate de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ligament sacro-iliac dorsal, ligamentul sacro-iliac ventral și ligament ilio-lombar",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b ligament sacro-iliac dorsal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ligament sacro-iliac ventral",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d ligamentul pubian cranial",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ligamentul arciform ischiatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "116 Ligamentul sacro-tuberos este întâlnit la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ecvine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c feline",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d canide",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e leporide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "117 Articulația sacro-iliacă este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a o articulație cartilaginoasă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b doar articulație fibroasă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c doar articulație sinoviala",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d o sinostoză",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e o combinație de articulație sinovială și articulație fibroasă",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "118 Suprafețele de articulare ale articulației coxo-femurale sunt reprezentate de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a cavitate acetabulară și cap articular femural",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b cavitate acetabulară și trochleea femurală",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c cavitate acetabulară și condil femural",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d cavitate glenoidă și cap articular femural",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e cavitate acetabulară și patelă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "119 La ecvine, la nivelul articulației coxo-femurale se dispune:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ligamentul colateral lateral",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b meniscul femural",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c discul intraarticular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d mușchiul articular și ligamentul accesoriu al capului femural",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e ligamentul sacro-iliac dorsal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "120 La ce specie există mușchiul gluteobiceps:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a doar la rumegătoare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b doar la suine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c la ecvine și suine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d la rumegătoare și suine",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e la rumegătoare și ecvine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "121 Porțiunea cranială a mușchiului biceps femural la ecvine își are originea pe:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a spina sacrală, pe fața externă a ligamentului sacrosciatic și fascia gluteană",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b spina sacrală, pe fața externă a ligamentului sacrosciatic și fascia toraco-lombară",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c spina sacrală, pe fața externă a ligamentului sacrosciatic și tunica abdominală",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d pe fața laterală a paletei iliace",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e pe unghiul extern al iliumului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "122 Mușchiul semitendinos la ecvine, își are originea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a pe spina sacrală, ligamentul sacrosciatic, pe procesele transverse ale primelor vertebre coccigiene",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b pe spina sacrală, ligamentul sacrosciatic, pe procesele transverse ale primelor vertebre coccigiene și tuberozitatea ischiatică",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c pe spina sacrală, pe procesele transverse ale primelor vertebre coccigiene și tuberozitatea ischiatică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d doar pe procesele transverse ale primelor vertebre coccigiene și tuberozitatea ischiatică",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e doar pe tuberozitatea ischiatică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "123 La ce specii mușchiul semitendinos se inseră doar pe tuberozitatea ischiatică:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a suine și carnivore",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b suine și rumegătoare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ecvine si rumegătoare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d rumegătoare și carnivore",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e suine și ecvine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "124 La ce specie mușchiul semimembranos își are originea pe marginea caudală a ligamentului sacrosciatic, pe fascia coccigiană și tuberozitatea ischiatică:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a suine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b canide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c feline",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d leporide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ecvine",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "125 Rolul mușchiului semimembranos :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a adductor și extensor al articulației coxofemurale, propulsor și cabrator",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b abductor și extensor al articulației coxofemurale, propulsor și cabrator",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c abductor și extensor al articulației femuro-tibio-patelare, propulsor și cabrator",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d adductor și extensor al articulației femuro-tibio-patelare, propulsor și cabrator",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e abductor și flexor al articulației coxofemurale, propulsor și cabrator",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "126 Fața medială a trigonului femural este acoperită de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a fascia brahială",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b fascia scapulară laterală",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c Fascia (aponevroza) femurală",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d fascia lata",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e fascia gambieră",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "127 Originea bifidă a mușchiului pectineu este pe :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a creasta iliacă și marginea caudală a ischiumului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b creasta pectinee și marginea ventrală a pubisului",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c creasta pectinee și marginea ventrală a ischiumului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d creasta iliacă și marginea ventrală a ischiumului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e tuberozitatea ischiatică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "128 Inserția distală a mușchiului adductor scurt este pe:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a fața caudală și medială a femurului, proximal găurii vasculare",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b fața laterală și cranială a femurului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c fața medială și cranială a femurului, proximal găurii vasculare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d fața medială și laterală a femurului, proximal găurii vasculare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e pe trochanterul mare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "129 Porțiunea lungă a mușchiului adductor mare se inseră distal:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a pe eminența excentrică a condilului lateral al femurului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b pe buza medială a trochleei",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c în fosa intercondiliană",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d pe eminența excentrică a condilului medial al femurului",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e pe trochanterul al treilea",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "130 Rolul mușchiului adductor mare este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a adductor și extensor al coapsei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b adductor și extensor al gambei",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c adductor și flexor al coapsei",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d adductor și flexor al gambei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e abductor și flexor al coapsei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "131 Orificiul esofagian de la nivelul mușchiului diafragm se dispune între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a pilierul stâng și pilierul medial stâng",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b pilierul drept și pilierul medial drept",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c cei doi pilieri mediali",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d la vârful pilierului drept",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e la vârful pilierului stâng",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "132 Porțiunea centrală a mușchiului diafragm se numește:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a porțiune sternală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b porțiune costală",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c porțiune lombară",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d porțiune toracală",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e porțiune aponevrotică",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "133 Inelul inghinal superficial este un orificiu eliptic realizat în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a aponevroza oblicului extern",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b aponevroza oblicului intern",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c aponevroza mușchiului transvers al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d aponevroza mușchiului drept al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e aponevrozele reunite ale oblicilor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "134 Linia albă a abdomenului se întinde de la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a fața ventrală a vertebrei a VII-a cervicale până la stern",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b fața ventrală a sternului până la simfiza pubiană",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c fața ventrală a vertebrei a VII-a cervicale până la simfiza pubiană",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d de la unghiul extern al iliumului la pubis",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e de la unghiul intern al iliumului la stern",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "135 Ligamentul inghinal reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a o lamă fibroasă orientată oblic în sens dorsolateral între tendonul prepubian și tuberculul coxal",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b o lamă fibroasă orientată oblic în sens ventral între tendonul prepubian și linia albă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c o lamă fibroasă orientată oblic în sens dorsolateral între tendonul prepubian și femur",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d o lamă fibroasă orientată oblic pe fața medială a femurului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e o lamă fibroasă orientată oblic pe fața laterală a femurului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "136 Aponevroza femurală reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a lama ascendentă rezultată prin clivarea aponevrozei mușchiului oblic extern al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b lama ascendentă rezultată prin clivarea aponevrozei mușchiului oblic intern al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c lama descendentă rezultată prin clivarea aponevrozei mușchiului oblic extern al abdomenului",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d lama descendentă rezultată prin clivarea aponevrozei mușchiului oblic intern al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e lama descendentă rezultată prin clivarea aponevrozei mușchiului transvers al abdomenului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "137 Inelul femural se delimitează între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a linia pectinee a pubisului și ligamentul inghinal",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b tuberozitatea ischiatică și ligamentul inghinal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c linia pectinee a pubisului și aponevroza femurală",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d tuberozitatea ischiatică și aponevroza femurală",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e tuberozitatea ischiatică și tendonul prepubian",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "138 Mușchiului oblic extern al abdomenului, prin comprimarea masei viscerale și ridicarea ei, intervine în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a expirație și este extensor al coloanei vertebrale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b inspirație și este extensor al coloanei vertebrale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c expirație, micțiune și este adductor al gambei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d expirație, în micțiune și parturiție; flexor al coloanei vertebrale și înclinător lateral",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e abbductor și înclinător lateral al gambei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "139 Mușchiul cremaster extern se formează dintr-un:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a grup restrâns de fibre desprinse din porțiunea inghinală a oblicului intern",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b grup restrâns de fibre desprinse din porțiunea inghinală a oblicului extern",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c grup restrâns de fibre desprinse din porțiunea inghinală a mușchiului transvers al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d grup restrâns de fibre desprinse din porțiunea inghinală a mușchiului drept al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e grup restrâns de fibre desprinse din porțiunea inghinală a mușchiului iliac",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "140 Mușchiul drept al abdomenului are originea pe:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a tendonul prepubian",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b fața ventrală a simfizei ischiopubiene",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c arcada ischiatică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d fața laterală a cartilajelor costale și manubriul sternal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e fața ventrală a cartilajelor costale și a apendicelui xifoid",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "141 Mușchiul drept al abdomenului acționează în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a inspirație, comprimă viscerele, flexor al trunchiului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b inspirație, comprimă viscerele, extensor al trunchiului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c expirație, comprimă viscerele, adductor al trunchiului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d expirație, comprimă viscerele, flexor al trunchiului",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e inspirație, comprimă viscerele, abductor al trunchiului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "142 Mușchii abdominali ventrali sunt reprezentați de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a mușchiul oblic extern al abdomenului, mușchiul oblic intern al abdomenului, mușchiul transvers al abdomenului, mușchiul drept abdominal",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b mușchiul oblic extern al abdomenului, mușchiul oblic intern al abdomenului, mușchiul transvers al abdomenului, mușchiul iliopsoas",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c mușchiul oblic extern al abdomenului, mușchiul oblic intern al abdomenului, mușchiul transvers al abdomenului, mușchiul drept abdominal, mușchiul pătrat al lombelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d mușchiul micul psoas, mușchiul oblic intern al abdomenului, mușchiul transvers al abdomenului, mușchiul drept abdominal",    
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e mușchiul oblic extern al abdomenului, mușchiul oblic intern al abdomenului, mușchiul transvers al abdomenului, mușchiul drept abdominal, mușchiul pătrat al lombelor, mușchiul iliopsoas, mușchiul micul psoas",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "143 La ecvine, tendonul prepubian se prelungește lateral cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a ligamentul inghinal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ligamentul accesoriu al capului femural",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c ligamentul propriu al capului femural",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d ligamentul sacro-iliac dorsal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e ligamentul sacro-iliac ventral",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "144 Porțiunea musculară a mușchiului transvers al abdomenului își are originea pe:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a marginea liberă a proceselor transverse toracale și pe fața internă a articulațiilor condrocostale a coastelor asternale",   
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b marginea liberă a proceselor transverse lombare și pe fața externă a articulațiilor condrocostale a coastelor asternale",    
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c marginea liberă a proceselor transverse lombare și pe fața internă a articulațiilor condrocostale a coastelor asternale",    
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d marginea liberă a proceselor transverse toracale și pe fața externă a articulațiilor condrocostale a coastelor asternale",   
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e marginea liberă a proceselor transverse lombare și pe fața internă a articulațiilor condrocostale a coastelor sternale",     
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "145 Mușchiul drept al abdomenului este plasat în interiorul unei teci aponevrotice formată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a aponevrozele mușchilor oblic extern al abdomenului și oblic intern al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b aponevrozele mușchilor oblic extern al abdomenului și mușchiul transvers al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c aponevrozele mușchilor oblic extern al abdomenului și mușchiul ileopsoas",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d aponevrozele mușchilor oblici și transvers al abdomenului",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e aponevrozele mușchilor oblici și mușchiul micul psoas",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "146 Mușchiul oblic extern al abdomenului este acoperit în totalitate de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a fascia toraco-lombară",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b fascia gluteenă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c fascia lata",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d tunica galbenă",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e alți mușchi abdominali",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "147 Mușchii abdominali ventrali formează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a podeaua și pereții laterali ai cavității abdominale",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b doar plafonul cavității abdominale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c doar pereții laterali ai cavități abdominale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d doar podeaua cavității abdominale",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e plafonul, podeaua și pereții cavității abdominale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "148 Lama externă a tecii mușchiului drept al abdomenului este reprezentată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a aponevroza mușchiului oblic intern al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b aponevroza comună, ce rezultă din țeserea aponevrozei mușchilor oblici extern și intern ai abdomenului",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c aponevroza mușchiului oblic extern al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d aponevroza mușchiului transvers al abdomenului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e aponevroza comună, ce rezultă din țeserea aponevrozei mușchilor oblic extern și intern ai abdomenului cu aponevroza mușchiului transvers al abdomenului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "149 Canalul inghinal este limitat superior de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a inelul inghinal profund format de fața caudală a oblicului intern și marginea superioară a ligamentului sacro-iliac dorsal", 
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b inelul inghinal profund format de fața caudală a oblicului intern și marginea superioară a ligamentului sacro-iliac ventral",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c inelul inghinal profund format de fața caudală a oblicului intern și marginea superioară a ligamentului inghinal",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d inelul inghinal superficial format de fața caudală a oblicului intern și marginea superioară a ligamentului sacro-iliac dorsal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e inelul inghinal superficial format de fața caudală a oblicului intern și marginea superioară a ligamentului inghinal",       
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "150 Limita inferioară a canalului inghinal este dată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a inelul inghinal profund",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b ligamentul inghinal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c ligamentul sacro-iliac dorsal",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d inelul inghinal superficial",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e ligamentul sacro-iliac ventral",
+                "bool": "false"
+            }
+        ]
+    }
+]
+}

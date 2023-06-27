@@ -1,0 +1,4504 @@
+{
+    "questions":[
+    {
+        "question": "1 Apa potabilă este apa care:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) afectează starea de sănătate a consumatorilor;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) nu afectează sănătatea consumatorilor;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) afectează salubritatea produselor;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) afectează calitatea instalaţiilor;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) îndeplineşte normele chimice de toxicitate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "2 Aprobarea investiţiilor din zootehnie şi industria alimentară este condiţionată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) normele de calitate a apei;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) felul investiţiei;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) apa de suprafaţă;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) numai de calitatea biologică a apei;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) încărcătura bacteriană a apei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "3 Sursele de apă care nu se încadrează nici în limitele admise excepţional pentru animale,după probele biologice efectuate 21 zile pe animale de laborator se vor marca cu specificarea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) numai pentru consum uman;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numai pentru consumul animalelor;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) pentru consum uman şi animal;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) numai pentru industrie;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) consum industrial, uman, animal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "4 Gustul apei ca parametru organoleptic este consecinţa:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) prezenţei elementelor naturale în apă;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) prezenţei elementelor poluante din apă;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) gazelor dizolvate în apă;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) elementelor parazitare din apă;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) încărcăturii microbiene a apei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "5 Sărurile de calciu din apă dau acesteia gust:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) astringent;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) metalic;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) acrişor;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) sălciu;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) dulceag",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "6 Mucegaiurile prezente în apă dau acesteia gust:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) sărat;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) acrişor;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) metalic;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) mlaştină;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) dulceag",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "7 Parametrii fizici ai apei potabile sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) temperatură, culoare, turbiditate, conductivitate, pH;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) substanţe indezirabile;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) micropoluanţi chimici organici;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) elemente indicatoare ale poluării;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) gust, miros",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "8 PH-ul apei potabile trebuie să fie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 5 UNT;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 6,5-8,5;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) 5-17 °C;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 2500 μS/cm;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 3,5-6,0",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "9 Temperatura apei potabile trebuie să fie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) la temperatura sursei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) sub 5 °C;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 7-15 °C;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) peste 17 °C;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 22 °C;",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "10 Duritatea temporară a apei, dată de sărurile de calciu şi magneziu din aceasta, este parametrul chimic care:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) dispare prin fierbere;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) nu dispare prin fierbere;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) nu este influenţată de fierberea apei;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) dispare la temperatura de 50 °C;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) dispare numai la -10 °C",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "11 Pentru clorul rezidual liber (indicator chimic de potabilitate a apei) sunt prevăzute limite la consumator de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 0,05 mg/dm3;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 0,10 mg/dm3;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 0,50 mg/dm3;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 0,10-0,28 mg/dm3;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) 0,50-0,55 mg/dm3",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "12 Numărul de colonii care se dezvoltă la 37 °C din apa potabilă provenită din surse locale trebuie să fie de maxim:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 100/ml;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 0/ml;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 20/ml;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 300/ml;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 50/ml",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "13 Planctonul reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) conţinutul abiotic al apei;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) conţinutul biotic al apei;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) conţinutul biotic şi abiotic al apei;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) triptonul din apă;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) fito şi zooplanctonul din sol",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "14 Microclimatul de confort reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) factorii care solicită declanşarea mecanismelor adaptative;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) factorii care nu permit exprimarea potenţialului genetic;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) ansamblul factorilor care nu declanşează mecanismele de adaptare;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) factorii care nu menţin starea optimă de sănătate;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) factorii care determină bunăstarea precară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "15 Care sunt factorii fizici de microclimat?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) temperatură, gazele din aer, UFC;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) CO2, NH3, H2S, UFC;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) temperatură, umiditate relativă, viteza curenţilor de aer, intensitatea luminoasă, intensitatea zgomotelor;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) zgomote, gaze, temperatură;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) gaze, microorganisme, pulberi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "16 Care este norma igienică pentru pulberile în suspensie?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 17 g/m2/30 zile;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 200000/m3 aer;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 15 mg/m3 aer;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 250000 UFC/m3 aer;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 15 g/m2/30 zile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "17 Norma igienică pentru pulberile sedimentabile este de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 17 g/m2/30 zile;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) 200000/m3 aer;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 15 mg/m3 aer;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 250000 UFC/m3 aer;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 15 g/m2/30 zile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "18 Din UFC (250000/m3 aer), care este procentul admis pentru miceţi?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) sub 50%;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) sub 25%;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) sub 75%;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) sub 5%;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) peste 5%",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "19 La stabilirea indicelui de prospeţime a mediului ambiant se are în vedere conţinutul aerului în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) numai ozon;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numai fitoncide;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) ozon, fitoncide, aeroioni;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) parametrii fizici şi ozon;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) parametrii chimici şi aeroioni negativi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "20 Microclimatul bun, conform cheii Petkov, este considerat la un punctaj:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) între 80 şi 100;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 90-100;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) 70-90;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) sub 70;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 50-70",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "21 Transportul animalelor se poate face la nivel:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) numai judeţean;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numai între judeţe;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) numai naţional;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) numai între ţări;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) local, regional, naţional şi internaţional",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "22 Transportul animalelor la nivel regional, naţional şi internaţional se face:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) pe jos;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) pe jos sau cu vehicule;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) cu trenul;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) numai cu vehicule;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) cu orice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "23 În abatoare animalele sunt transportate din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) pieţe, exploataţii, import;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) numai din exploataţii;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) numai din import;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) târguri, expoziţii;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) alte abatoare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "24 Transportul animalelor a apărut ca o necesitate obiectivă, odată cu domesticirea animalelor şi se poate face:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) oricum;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) pe jos, feroviar, rutier, aerian, naval;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) numai pe cale ferată;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) numai pe cale rutieră;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) numai aerian",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "25 În vederea efectuării transporturilor de animale, pregătirea sanitară veterinară a efectivelor presupune:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) acţiuni imunoprofilactice, tratamente, teste de laborator;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) lotizarea animalelor;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) obţinerea actelor de adeverirea proprietăţii;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) obţinerea actelor de adeverirea sănătăţii",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) cântărirea animalelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "26 Pregătirea zootehnică a animalelor destinate transportului constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) asigurarea mijloacelor de transport;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) asigurarea necesităţilor de însoţitori, apă, furaje, aşternut;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) lotizare, tundere, ecornare, sexare;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) elaborarea graficului de livrare a numărului de animale;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) stabilirea rutei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "27 Obţinerea actelor de adeverirea proprietăţii animalelor în vederea transportului face parte din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) pregătirea sanitară veterinară;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) pregătirea zootehnică;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) pregătirea administrativ-organizatorică;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) pregătirea personalului care participă la îmbarcare;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) pregătirea sanitară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "28 Actele de certificarea proprietăţii animalelor care provin din gospodăriile populaţiei pentru transporturile interne sunt:",    
+        "options": [
+            {
+                "id": "a",
+                "text": "a) biletul de adeverire a proprietăţii animalelor;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) adeverinţa de proprietate;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) adeverinţa de transport animale vii;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) certificat de transport;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) bilet de transport",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "29 Adeverinţa de proprietate se eliberează pentru transporturile animalelor care provin din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) gospodăriile populaţiei;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) de la agenţii economici;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) din unităţi de izolare TBC;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) din unităţi de izolare leucoză;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) din afara ţării",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "30 Pentru confirmarea originii româneşti a animalelor, biletul de adeverirea proprietăţii şi sănătăţii animalelor este semnat şi de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) şeful ANSVSA;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) medicul veterinar oficial;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) primărie;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) conducătorul organizaţiei;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) cei care participă la îmbarcare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "31 Adeverinţa de proprietate este semnată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) conducătorul unităţii;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) primar;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) împuternicitul primarului;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) medicul veterinar;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) reprezentantul Autorităţii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "32 Biletul de adeverire a proprietăţii este eliberat de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) conducătorul organizaţiei;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) primărie;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) Direcţia sanitară veterinară judeţeană;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) Autoritatea sanitară veterinară;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) Ministerul Agriculturii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "33 Certificatele sanitar-veterinare de transport animale vii sunt acte care certifică sănătatea animalelor şi se eliberează:",     
+        "options": [
+            {
+                "id": "a",
+                "text": "a) pentru toate mijloacele de transport la un loc;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) pentru fiecare mijloc de transport în parte;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) pentru fiecare animal din mijlocul de transport;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) pentru o categorie de vârstă din mijlocul de transport;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) numai pentru cabaline şi bovine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "34 Provenienţa animalelor destinate transportului din localităţi libere de boli transmisibile este certificată pe proprie răspundere de către:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) directorul unităţii;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) primar;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) împuternicitul primăriei;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) medicul veterinar oficial;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) proprietarul animalelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "35 Certificatele sanitare veterinare de transport animale vii sunt valabile:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) cel mult 10 zile de la eliberare;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) până la sosirea animalelor la destinaţie;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) 30 de zile de la eliberare;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 48 ore de la eliberare;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) un an de zile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "36 Scrisoarea de trăsură este un document care se elaborează de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) primăria localităţii de provenienţă a animalelor;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) staţia de cale ferată de îmbarcare;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) medicii veterinari oficiali;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) responsabilii punctelor de oprire a mijloacelor de transport;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) responsabilii unităţii de unde provin animalele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "37 Îmbarcarea animalelor pe timp de noapte se realizează sub un iluminat cu o intensitate de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 100 lucşi/m2;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 50 lucşi/m2;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 500 lucşi/m2;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) >1000 lucşi/m2;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 2000 lucşi/m2",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "38 Medicul veterinar care participă la îmbarcarea/debarcarea animalelor trebuie anunţat de către proprietarii animalelor înainte cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 2 ore;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 3 zile;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 24 ore;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) în momentul îmbarcării;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 48 ore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "39 Pe măsura îmbarcării animalelor, medicul veterinar oficial înscrie fiecare mijloc de transport încărcat în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) registrul de îmbarcare;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) registrul de transport;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) scrisoarea de trăsură;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) planul de rută;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) registrul animale vii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "40 În cazul în care medicul veterinar constată nereguli privind mijloacele de transport sub raport igienic şi al integrităţii cum procedează?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) avizează îmbarcarea, făcând pe loc igienizarea mijlocului de transport;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) interzice îmbarcarea;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) se repară pe loc mijlocul de transport;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) se amână câteva ore îmbarcarea;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) se amendează staţia de îmbarcare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "41 Importul sau tranzitul de animale în şi pe teritoriul tării noastre se face cu aprobarea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) Direcţiei Sanitare Veterinare Judeţene;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) Autorităţii portuare;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) Punctelor de frontieră;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) Autorităţii Naţionale Sanitare Veterinare şi pentru Siguranţa Alimentelor;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) medicului veterinar de la punctul de intrare a animalelor în ţară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "42 Pentru transportul auto al cailor pe distanţe mari se folosesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) autovehicule de uz general;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) autocamioane;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) remorci;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) autovane;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) orice vehicul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "43 Din motive de biosecuritate, la îmbarcarea animalelor în vederea transportului, în faţa rampelor fixe este recomandat să se amplaseze:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) padoc de aşteptare;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) dezinfector rutier;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) dezinfector pentru încălţăminte;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) staţie de spălare-dezinfecţie;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) duş pentru îmbăierea animalelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "44 Îmbarcarea animalelor din exploataţiile zootehnice se face cu ajutorul rampelor fixe, care se vor amplasa:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) la nivelul limitei împrejmuirii;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) în faţa adăpostului de unde se vor livra animale;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) pe aleea de circulaţie;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) în zona dezinfectorului rutier;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) în faţa sediului administrativ al unităţii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "45 Transportul struţilor în vehicule destinate pentru aceştia se face:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) direct în vehicul;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) în cuşti plasate în dreptul uşii padocului;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) în autovane;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) în plase de sârmă;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) în lăzi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "46 În cazul transportului de animale este obligatoriu să se asigure aşternut, furaje şi apă pentru călătorii care durează:",       
+        "options": [
+            {
+                "id": "a",
+                "text": "a) până la 8 ore;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 24 ore;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) mai mult de 8 ore;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 48 ore;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 2 zile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "47 Viteza de deplasare a autovehiculelor în vederea transportului de animale va fi:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) sub 40 km/h;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 50 - 60 km/h;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) mai mult de 80 km/h;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) viteza maximă de deplasare a vehiculului;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 80 - 100 km/h",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "48 Animalele care se transportă pe calea ferată se aduc la îmbarcare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) cu 24 ore înaintea acesteia;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) cu cel puţin 2 ore înainte de începerea acţiunii;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) cu 48 ore înainte;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) cu 30 minute înainte;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) cu 40 zile înainte",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "49 Bovinele care se transportă pe calea ferată se vor aşeza în vagoane:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) perpendicular pe axul longitudinal al vagonului;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) paralel cu axul longitudinal al vagonului;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) cap la cap;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) crupă la crupă;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) jumătate perpendicular şi jumătate în paralel cu axul longitudinal al vagonului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "50 Cabalinele în vagoane se aşează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) perpendicular pe axul longitudinal al vagonului;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) paralel cu axul longitudinal al vagonului;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) crupă la crupă;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) cap la cap;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) nu contează modul de aşezare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "51 Animalele mici şi păsările în vagoane se transportă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) în boxe;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) în cuşti;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) în lăzi;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) în cutii;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) în baterii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "52 Pentru animale mari transportate cu vagoane, repartiţia îngrijitorilor este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) un îngrijitor la 3 vagoane;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) un îngrijitor pentru fiecare vagon;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) 2 îngrijitori/vagon;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) un îngrijitor/tren;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) pentru fiecare 2 animale un îngrijitor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "53 În cazul îmbolnăvirilor, tăierilor de necesitate sau moarte, şefii staţiilor de cale ferată, la solicitarea şefului de tren au obligaţia:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) să oprească transportul;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) să verifice cauzele care au dus la moarte, îmbolnăvirea sau tăierea animalelor;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) să anunţe medicul veterinar oficial din zonă;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) să avizeze continuarea transportului, cu obligaţia şefului de tren să rezolve situaţia la destinaţie;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) să dea jos animalele moarte şi să îşi dea avizul continuării rutei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "54 Ce se face cu cadavrele animalelor mici din vagoane?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) se lasă în vagoane până la destinaţie;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) se îndepărtează din vagoane;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) se aruncă în timpul transportului;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) se predau cu proces verbal la prima staţie de cale ferată;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) se ard",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "55 În situaţia în care avioanele sunt folosite la întreaga capacitate pentru transportul animalelor, supravegherea va fi asigurată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) trei însoţitori;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) unu-doi însoţitori;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) medicul veterinar;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) un însoţitor la zece cuşti;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) un însoţitor la zece animale mari",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "56 Câinii se transportă cu avionul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) în cuşti speciale;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) în boxe individuale;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) în containere individuale;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) în cutii;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) legaţi pe culoare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "57 Animalele în cazul transportului pe apă vor fi cazate:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) numai pe punte;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numai în cală;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) pe punte şi în cală;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) legate în cală;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) dezlegate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "58 Unde sunt amplasate bazele de export din România pentru transportul animalelor pe apă?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) portul Tulcea;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) porturile Brăila şi Constanţa;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) Turnu-Severin;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) Mangalia;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) Giurgiu",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "59 Îngrijirea bovinelor şi cabalinelor pe vase este asigurată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) un îngrijitor la 50 animale;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) un îngrijitor la 10 animale;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) un îngrijitor la 5 animale;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) un îngrijitor la 20 animale;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) un îngrijitor la 15 animale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "60 Distanţele care vor fi parcurse pe zi de bovine sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) sub 100 km;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) 300 km;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 250 km;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 500 km;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 400 km",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "61 Împrejmuirea unei exploataţii delimitează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) zona administrativă de zona de producţie;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) zona interzisă de zona de apărare;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) zona de apărare de zona de producţie;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) zona administrativă de zona interzisă;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) sectoarele între ele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "62 Integritatea împrejmuirii este importantă pentru:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) evitarea sustragerilor, a intrării animalelor străine şi circulaţia necontrolată a oamenilor;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) a asigura biosecuritatea exploataţiilor;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) a proteja animalele de boli transmisibile;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) evitarea pătrunderii în exploataţie a autovehiculelor;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) a proteja exploataţia de boli parazitare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "63 Reglementarea circulaţiei mijloacelor de transport în şi din exploataţie se realizează prin existenţa:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) băilor pentru decontaminarea microbienă a roţilor;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) dezinfectoarelor pentru încălţăminte;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) rampelor de încărcare - descărcare;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) filtrului sanitar;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) platformelor de decontaminare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "64 Dimensiunile unei băi pentru decontaminarea încălţămintei sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) lungimea = 1m, adâncime = 5 cm;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) lungimea de cel puţin 0,7 m şi adâncime 5 cm;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) lăţimea aleii şi adâncimea 10 cm;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) lungimea 50 cm şi adâncimea 5 cm;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) pătrate de 70/70 cm",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "65 Zona sanitară a unui filtru sanitar dintr-o exploataţie mare trebuie să aibă două linii de vestiare, iar fiecare linie are încăperi în număr de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) două;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) una;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) trei;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) cinci;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) patru",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "66 Pentru respectarea normelor de circulaţie şi de igienă, întreaga activitate din filtru sanitar va fi supravegheată şi monitorizată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) conducătorul unităţii;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) şeful de compartiment;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) responsabilul cu protecţia muncii;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) medicul veterinar;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) tehnicianul veterinar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "67 În ţările dezvoltate, carantina animalelor importate se face în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) exploataţii depopulate;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) staţii de carantină;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) adăposturi special amenajate;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) adăpost amplasat la marginea sectorului de reproducţie;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) adăposturi din ferme de izolare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "68 Cât durează carantina profilactică?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 20 de zile;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 24 ore;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 60 zile;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 48 ore;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 30 zile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "69 Avortonii, placentele, cadavrele păsărilor şi tineretului porcin se colectează în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) remorci deschise;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) containere etanşe;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) remorci etanşe;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) dispozitive speciale de colectare;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) platforme betonate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "70 Sursa de apă caldă în staţiile pentru decontaminarea microbienă trebuie să aibă o temperatură de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 70 °C;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 50 °C;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) cel puţin 80 °C;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 180 °C;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) sub 60 °C",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "71 Staţionarele sanitare veterinare se proiectează pentru:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 5% din efectivul unităţii;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 3% din efectivul unităţii;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 1% din efectivul unităţii;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 2% din efectivul unităţii;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 4% din efectivul unităţii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "72 Punctele de tăiere concepute pentru reducerea riscului de difuzare a bolilor transmisibile se amplasează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) în apropierea sectorului administrativ;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) în apropierea sectorului de producţie;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) în apropierea adăposturilor de izolare;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) în afara exploataţiei;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) în apropierea sectorului de montă - gestaţie",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "73 Principiul \"totul plin - totul gol\" constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) spălare - vid sanitar;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) spălare - repaus biologic;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) decontaminare microbienă - repaus biologic;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) curăţenie mecanică - repaus;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) curăţenie mecanică şi hidromecanică - vid sanitar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "74 Acţiunile de sanitaţie veterinară se referă numai la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) decontaminare microbienă;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) dezinsecţie, spălare;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) deratizare - curăţire mecănică;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) decontaminare microbienă, dezinsecţie, deratizare;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) spălare, repaus, spălare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "75 Decontaminarea microbienă reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) mijloace şi metode de distrugere a insectelor;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) mijloace şi metode de distrugere a rozătoarelor;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) mijloace şi metode de distrugere a microorganismelor;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) mijloace şi metode de distrugere a insectelor şi rozătoarelor;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) mijloace şi metode de combatere a falsurilor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "76 După scopul urmărit, decontaminarea poate fi:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) locală;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) generală;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) parţială şi generală;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) profilactică şi de necesitate;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) preventivă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "77 În sistemul intensiv de exploatare, decontaminarea generală profilactică a adăposturilor se face:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) de cel puţin trei ori/an;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) după fiecare ciclul de producţie;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) o dată pe an;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) ori de câte ori este nevoie;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) trimestrial",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "78 Decontaminarea microbienă curentă se face astfel:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) discontinuu pe perioada evoluţiei focarului;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) continuu cât evoluează focarul;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) din două în două săptămâni;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) o dată la o lună;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) ori de câte ori este nevoie",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "79 Înainte de ridicarea măsurilor de carantină, decontaminarea finală se repetă de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) cel puţin două ori;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) patru ori;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) nu este obligatoriu să se repete dacă este făcută corespunzător;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) de câte ori este necesar;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) o singură dată",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "80 Apa folosită pentru spălare (etapa hidromecanică a decontaminării) trebuie să fie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) apă industrială;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) apa potabilă sau industrială;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) numai din sursă de apă potabilă;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) apă de suprafaţă;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) orice fel de apă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "81 Ordinea efectuării acţiunilor de sanitaţie este următoarea:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) decontaminare, dezinsecţie, deratizare;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) dezinsecţie, decontaminare, deratizare;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) deratizare, dezinsecţie, decontaminare;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) decontaminare, deratizare, dezinsecţie;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) nu contează ordinea acţiunilor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "82 Curăţirea mecanică (etapă a decontaminării) constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) spălarea suprafeţelor ce urmează a fi decontaminate;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) îndepărtarea murdăriei depuse pe suprafeţele ce urmează a fi decontaminate;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) aplicarea substanţelor decontaminante;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) spălarea şi decontaminarea chimică;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) aplicarea soluţiilor detergente",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "83 Curăţirea sanitară (etapa a doua a decontaminării) constă în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) spălarea suprafeţelor cu apă;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) aplicarea decontaminantelor;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) răzuirea materialelor depuse pe diferite suprafeţe;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) folosirea numai a agenţilor de curăţire;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) răzuire, spălare şi aplicarea dezinfectantelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "84 Unghiul de spălare a suprafeţelor pentru dislocarea murdăriei trebuie să fie de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) < 25 °;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) 45 °;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 90 °;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 50 °;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 60 °",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "85 În cadrul etapei de curăţire sanitară, numărul iniţial de germeni se reduce cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) până la 50%;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 70 - 90%;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) 100%;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) peste 90 %;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) nu se reduce",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "86 Temperatura şi umiditatea relativă sunt însuşiri fizice ale aerului care influenţează acţiunea substanţelor microbicide Care sunt valorile temperaturii şi umidităţii relative favorabile acţiunii acestora?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 20 °C, 50%;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 20 °C, peste 70%;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) - 10 °C, 70%;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 5 °C, 70%;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 15 °C, în jur de 70%",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "87 Ceaţa caldă, constituită din picături cu diametrul cuprins între 0,1 şi 10 μm, se obţine cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) nebulizator;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) termonebulizator;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) pompă manuală;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) sprayere;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) pulverizare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "88 Produsele formulate ca ceaţă caldă se folosesc pentru decontaminarea aerului, în următoarele cantităţi:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 3 - 5 ml/m3 aer;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 2,5 - 2,7 ml/m3 aer;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) peste 10 ml/m3 aer;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 50 - 100 ml/m3 aer;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 0, 5 l/m2",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "89 Pentru ce etape ale decontaminării se efectuează examenul organoleptic în vederea aprecierea eficienţei:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) numai pentru etapa mecanică;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numai pentru etapa hidromecanică;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) curăţire mecanică şi hidromecanică;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) etapa chimică;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) pentru toate trei etapele",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "90 Cât timp durează neutralizarea tampoanelor cu resturi?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 10 minute;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) două ore;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 5 minute;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 15 minute;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 30 de minute",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "91 Care sunt testele de laborator specifice utilizate în aprecierea eficienţei decontaminării în micobacterioze?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) testul bacililor coliformi modificaţi (TBCM);",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numărul total de fungi (NTF);",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) numărul total de germeni (NTG);",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) testul acido-alcoolo-rezistenţilor (TAAR) şi testul de sanitaţie prin bioproba pe cobai (TSBC);",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) testul microbiologic de teren (TMT)",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "92 Rozătoarele sunt cunoscute ca sursă şi vectori pentru mai multe boli:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) peste 30 de boli;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) trei boli;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 10 boli parazitare;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 15 boli infecţioase;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) peste 20 de boli",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "93 Biosecuritatea este definită ca:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) mijloace şi metode folosite pentru protecţia animalelor faţă de noxele animate;",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) mijloace şi metode folosite pentru protecţia animalelor faţă de noxe neanimate;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) mijloace de protecţie a animalelor faţă de poluare;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) metode de protecţie a animalelor faţă de furturi;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) mijloace şi metode folosite pentru decontaminare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "94 Nivelul de biosecuritate într-o exploataţie este impus de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) valoarea clădirilor;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) valoarea zootehnică a efectivelor cazate;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) valoarea personalului;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) valoarea exploataţiei în totalitate;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) valoarea produselor obţinute",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "95 Controlul punctelor critice de nivel 1 permite:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) reducerea pericolelor;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) eliminarea pericolelor;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) numai controlul punctelor critice;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) stabilirea pericolelor;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) stabilirea pericolelor şi reducerea lor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "96 Aplicarea sistemului HACCP în biosecuritatea staţiilor de incubaţie cuprinde mai multe etape.Câte etape sunt prevăzute?",       
+        "options": [
+            {
+                "id": "a",
+                "text": "a) cinci;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) opt;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) şapte;",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) trei;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) şase",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "97 Epurarea ecologică a apelor reziduale se poate face:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) numai mecanic;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numai biologic;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) numai chimic;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) mecanic, biologic, chimic;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) chimic şi mecanic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "98 Prelucrarea industrială a cadavrelor se realizează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) în ferme specializate;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) în unităţi Protan;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) în cimitire de animale;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) în puţuri seci;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) prin înhumarea animalelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "99 Puţurile seci sunt construcţii destinate:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) valorificării deşeurilor de origine animală;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) neutralizării deşeurilor de origine animală;",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) distrugerii deşeurilor de origine animală;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) prelucrării deşeurilor de origine animală;",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) fermentării deşeurilor de origine animală",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "100 Distrugerea deşeurilor de origine animală se realizează prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) prelucrare mecanică;",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) fermentare;",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) neutralizare;",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) ardere;",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) prelucrare chimică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "101 Transporturile tehnologice la viței, purcei și pui se fac cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) vehicule climatizate",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) vehicule obișnuite",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) vehicule cu elemente de închidere",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) vehicule cu rampă de încărcare interioară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) mașini specializate - tip șa",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "102 Fiecare mijloc de transport încărcat este trecut de medicul veterinar oficial într-un registru, care este numit:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) registrul de transport",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) registrul de îmbarcare",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) registrul de dezinfecție",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) foaie de parcurs",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) registrul de spălare, decontaminare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "103 În cazul transportului animalelor pe apă, îngrijitorii care însoțesc animalele au obligația de a anunța orice fel de modificare în starea de sănătate a animalelor pe:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) medicul veterinar care a avizat îmbarcarea animalelor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) comandantul navei",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) căpitănia portului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) direcția sanitară veterinară din punctul de îmbarcare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) managerul fermei de unde provin animalele îmbarcate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "104 În cazul exploatațiilor mici (formate din 1-3 adăposturi), regulile de filtru sanitar se derulează în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) zona sanitară a exploatației",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) camerele tampon ale adăposturilor",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) nu sunt obligatorii aceste reguli",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) înainte de intrarea în fermă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) în zona dezinfectorului rutier",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "105 Pentru o acțiune eficace, stațiile de decontaminare microbienă a vehiculelor trebuie să aibă surse de apă la temperatura de:", 
+        "options": [
+            {
+                "id": "a",
+                "text": "a) peste 80 °C",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) 60 °C",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 20-40 °C",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) nu contează temperatura",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 15 °C",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "106 Pentru sporirea efectului abraziv al apei utilizată în etapa sanitară a acțiunii de decontaminare, unghiul de spălare trebuie să fie de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 90 de grade",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) sub 25 de grade",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) nu contează unghiul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 60 de grade",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 70-80 de grade",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "107 Ceața caldă - metodă de aplicare a produselor microbicide se obține cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) nebulizatorul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) termonebulizatorul",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) pompe cu duze speciale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) pompe manuale",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) pompe carosate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "108 Pentru incubatoarele univârstă, decontaminarea microbiană funcționează după principiul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) multivârstă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) univârstă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) totul plin - totul gol",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) nu contează principiul",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) punctelor critice de control",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "109 Sterilizarea insectelor prin radiații ionizante și analogi hormonali reprezintă mijloace de dezinsecție:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) fizice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) chimice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) biologice",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) mecanice",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) fizice și mecanice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "110 Prevenirea infestațiilor cu rozătoare sinantrope presupune instituirea măsurilor care se implementează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) numai în interiorul adăposturilor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numai în exteriorul adăposturilor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) numai în incinta exploatațiilor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) în interiorul, exteriorul și în incinta exploatațiilor",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) nu este necesară implementarea nici unei măsuri",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "111 Grosimea optimă a așternutului de paie pe timpul transportului animalelor este de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 3 cm",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 5 cm",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 8-10 cm",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 25 cm",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 20 cm",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "112 La ce înălțime se fixează senzorii de temperatură din vehicul?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 60 cm",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) pe plafonul vehiculului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) la înălțimea capului animalelor",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) la partea inferioară a vehiculului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) nu contează locul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "113 La ce intervale de timp se va efectua mulsul femelelor de rumegătoare pe timpul transportului:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 6 ore",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 12 ore",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) nu se mulg",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 24 ore",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 8 ore",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "114 Cum se transportă struții?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) cu trenul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) în boxe",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) în vehicule speciale sau autovane",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) în camioane",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) cu avionul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "115 De cine sunt eliberate certificatele sanitare veterinare de transport pentru animale vii internaționale:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) Direcțiile Sanitare Veterinarare Județene",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) A.N.S.V.S.A.",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) Firma de transport",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) Medicul veterinar de la circumscripția sanitară-veterinară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) Managerul fermei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "116 “Scrisoarea de trăsură” este necesară pentru transportul feroviar și este eliberată de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) Stația CFR de îmbarcare",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) Direcția Sanitară Veterinară Județeană",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) A.N.S.V.S.A.",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) Medicul veterinar oficial",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) Proprietar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "117 Verificarea conformității rampelor de încărcare / descărcare a animalelor pentru transport se face pe baza:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) înclinării rampelor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) distanței față de sol",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) procentului de alunecări",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) gradului de curățenie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) materialului din care sunt făcute",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "118 Transportul cu trenul al ovinelor, caprinelor se realizează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) în boxe colective de cel mult 20 exemplare",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) în boxe individuale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) legate în containere",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) în autovane",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) în boxe de 100 exemplare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "119 Ce este caloul ca și consecință a transportului animalelor?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) stres fiziologic și psihologic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) pierderea în greutate vie",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) modificarea caracterului organoleptic al cărnii",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) modificarea comportamentului animalului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) tulburare de locomoție",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "120 Protecția pe părțile laterale ale rampei de încărcare / descărcare la ecvine trebuie să aibă înălțimea de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 1,3 m",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) 30 cm",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 50 cm",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 80 cm",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) nu este necesară această protecție",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "121 Cantitățile de produse sub formă de ceață rece utilizate în decontaminare sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 2,5-2,7 ml/m3 aer",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 50-100 ml/m3 aer",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) 0,5 l/m2",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 1 l/m2",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 25 ml/m2",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "122 Poluarea fizică a atmosferei reprezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) consecința vibrațiilor neplăcute",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) consecința adaosurilor de energie",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) consecința prezenței în atmosferă a unor substanțe chimice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) consecința prezenței în atmosferă a elemetelor radioactive",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) consecința radiațiilor luminoase",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "123 În ce constă ventilația artificială aspirantă?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) admisia aerului curat este liberă și evacuarea aerului viciat este forțată",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) admisia aerului curat este forțată și evacuarea aerului viciat este liberă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) admisia și evacuarea se fac forțat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) admisia și evacuarea aerului se fac liber",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) în toate etapele ventilației se folosesc ventilatoare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "124 În ce constă ventilația artificială refulantă?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) admisia aerului curat este liberă și evacuarea aerului viciat este forțată",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) admisia aerului curat este forțată și evacuarea aerului viciat este liberă",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) admisia și evacuarea se fac forțat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) admisia și evacuarea aerului se fac liber",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) în toate etapele ventilației se folosesc ventilatoare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "125 Rozătoarele tolerează temperaturi de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 38-40 °C",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 5-35 °C",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) peste 40 °C",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) sub 5 °C",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) sub 0 °C",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "126 Ce se are în vedere la aplicarea sistemului HACCP în biosecuritatea exploatațiilor în etapa I?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) stabilirea punctelor critice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) identificarea riscului pentru infecții specifice",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) schimbarea substanțelor decontaminante",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) remedierea deficiențelor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) identificarea riscului pentru parazitoze",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "127 Norma igienică pentru H2S este de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 5 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 10 ppm",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) 26 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 1000 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 15 ppm",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "128 Ce este helioterapia?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) tratamentul cu lumină",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) sensibilitatea la lumină",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) sinteza de radiație luminoasă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) fuga de lumină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) atracția față de lumină",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "129 În ce constă decontaminarea propriu-zisă?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) răzuirea suprafețelor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) spălarea cu apă simplă a suprafețelor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) aplicarea substanțelor decontaminante",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) spălarea cu apă și detergenți",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) curățirea mecanică și sanitară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "130 Conform cheii Petkov, microclimatul necorespunzător este considerat la un punctaj de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 90 puncte",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 90-100 puncte",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 80 puncte",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 70-90 puncte",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) sub 70 puncte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "131 Insectele cu rol de vectori activi transmit boala:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) prin înțepare",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) pe cale digestive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) pe corpul animalelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) pe cale respiratorie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) prin intermediul furajelor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "132 Care este nivelul toxic pentru CO2?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 10000 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 5000 ppm",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) 3000 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 1000 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 2500 ppm",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "133 Bolile telurice sunt boli care se transmit prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) aer",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) apă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) sol",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) contact",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) vânt",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "134 Care este unitatea funcțională tehnologică într-o exploatație?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) adăpostul",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) boxa",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) cușca",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) cușeta",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) standul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "135 Asocierea temperaturii crescute cu umiditate mare favorizează apariția:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) bolilor a frigore",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) șocului caloric",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) creșterii în greutate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) lipsei apetitului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) insolației",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "136 Căldura latentă este căldura pierdută de organismul animal prin:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) convecție",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) radiație",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) evaporare",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) transpirație",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) perspirație",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "137 Rampele de încărcare mobile sau fixe sunt prevăzute cu șipci orizontale amplasate între ele la distanța de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 4,5 cm",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 25 cm",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 2,5 cm",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 1,5 cm",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 3 cm",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "138 Transporturile de animale sub restricții în cadrul unui județ se fac:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) numai cu avizul medicului veterinar",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) numai cu avizul autorităților sanitare veterinare județene",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) cu avizul Autorității Centrale Sanitare Veterinare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) cu avizul circumscripției sanitare veterinare zonale",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) cu avizul proprietarilor",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "139 Cine interzice efectuarea transportului de animale dacă se constată că numărul și cunoștințele îngrijitorilor ce însoțesc animalele sunt necorespunzătoare?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) directorul fermei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) proprietarul animalelor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) conducătorul vehiculului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) medicul veterinar oficial",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e) nu constituie deficiență de transport",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "140 Care este perioada de gestație la iepe pentru care se interzice transportul cu avionul?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) gestație în prima lună",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) gestație mai mare de 300 zile",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) gestație de 115 zile",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) nu contează perioada de gestație",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) înainte de 90 zile",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "141 Împrejmuirea într-o exploatație delimitează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) zona de apărare de zona de protecție",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) zona interzisă de zona de protecție",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) zona de furajare de zona de adăpare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) zona administrativă de zona adăposturilor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) exploatația",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "142 Filtrul sanitar reprezintă locul prin care se realizează:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) circulația mijloacelor de transport",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) circulația persoanelor",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) circulația animalelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) legătura cu exteriorul fermei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) decontaminarea încălțămintei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "143 În cazul exploatațiilor de 2 adăposturi, măsurile de filtru sanitar se derulează în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) exteriorul adăposturilor",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) interiorul adăposturilor",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) camera tampon",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) biroul medicului veterinar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) nu sunt necesare măsuri de filtru sanitar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "144 Staționarele sanitare veterinare se proiectează pentru:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 1% din efectivul unității",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) nu sunt necesare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 10% din efectivul unității",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 5% din efectivul unității",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 15% din efectivul unității",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "145 Pentru creșterea segregată a tineretului porcin distanța minimă sanitară veterinară trebuie să fie de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) peste 2 km",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) 500 m",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 200 m",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) 100 m",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) 1 km",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "146 Ce reprezintă probele de apă potabilă recoltate în serie în flux orizontal?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) probe recoltate de la o adâncime dată și amplasament diferit",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b) probe recoltate de la o adâncime data și un amplasament dat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) mai multe probe prelevate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) probe recoltate de la o adâncime diferită și un amplasament diferit",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) probe recoltate de la suprafața apei",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "147 Ce reprezintă probele de apă în serie în flux vertical?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) probe recoltate dintr-un amaplasament dat și o adâncime variabilă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) probe recoltate dintr-un amaplasament dat și o adâncime dată",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) probe recoltate dintr-un amplasament variabil și o adâncime variabilă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) probe recoltate pe adâncimea apei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) probe din puncte diferite ale sursei de apă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "148 Conductivitatea electrică a apei ca normă fizică de potabilitate conform Legii 311/2004 trebuie să fie de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) maxim 1000 µS / cm apă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) maxim 2500 µS / cm apă",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c) maxim 3500 µS / cm apă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) nu este normată",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) maxim 50 µS / cm apă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "149 Limita maximă admisă a NH3 din aer pentru struți trebuie să fie de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) 10 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) 26 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) 4 ppm",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d) 15 ppm",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) nu este normat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "150 Cum se numește stratul atmosferic în care se găsesc în proporție de 90% vapori de apă?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a) stratosferă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b) mezosferă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c) troposferă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d) ozonosferă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e) ionosferă",
+                "bool": "false"
+            }
+        ]
+    }
+]
+}

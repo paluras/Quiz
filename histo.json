@@ -1,0 +1,4505 @@
+
+{
+    "questions":[
+    {
+        "question": "Care este dispunerea corectă, de la interior spre exterior, a celor patru tunici ce alcătuiesc peretele tubului digestiv?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. adventicea, submucoasa, mucoasa, musculara",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. mucoasa, submucoasa, musculara, adventicea (sau seroasa) ",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. submucoasa, musculara, adventicea, mucoasa",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. mucoasa, musculara, submucoasa, adventicea (sau seroasa)",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. musculara, mucoasa, adventicea, submucoasa",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Din ce este este formată o mucoasă?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. musculara mucoasei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. corion",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu, corion sau lamina propria, musculara mucoasei",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. lamina propria",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Ce cuprinde musculara mucoasei?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibre de colagen",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fibre de reticulina",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. fibre musculare netede ",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre musculare striate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. fibre elastice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Unde se găseşte plexul nervos Meissner ?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. în submucoasă",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. în adventice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. în mucoasă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. în musculară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. între musculară şi adventice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Plexul nevos mienteric (Auerbach) este situat:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. în adventice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. în submucoasă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. între straturile tunicii musculare",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. în mucoasă",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. între mucoasă şi musculară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Enumeraţi, în ordinea de la exterior spre interior, structurile din componenţa buzelor:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. mucoasa labială",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. pielea",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. stratul musculo-aponevrotico-conjunctiv",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. pielea, stratul musculo-aponevrotico-conjunctiv, mucoasa labială",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. foliculii piloşi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Ce epiteliu prezintă mucoasa labială la rumegătoare ?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu stratificat pavimentos cheratinizat",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu simplu columnar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu bistratificat columnar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu pseudostraticat prismatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Care element structural lipsește din mucoasa palatului dur ?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu stratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. corionul mucoasei",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. reţeua de sinusuri venoase şi capilare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ţesutul conjunctiv",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. musculara mucoasei",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Ce tip de epiteliu prezintă mucoasa feţei orale a valului palatin ?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu stratificat pavimentos necheratinizat",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu bistratificat columnar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu simplu columnar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu pseudostratificat prismatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Pe faţa aborală, mucoasa vălului palatin prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu stratificat pavimentos cheratinizat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu simplu columnar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu bistratificat columnar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu de tip respirator",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "La rumegătoare, mucoasa linguală prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu stratificat pavimentos cheratinizat",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu simplu columnar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu bistratificat columnar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu de tip respirator",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Muschii limbii sunt formaţi din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibre musculare netede",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fibre de reticulină",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. fibre musculare striate",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre de colagen",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. fibre musculare striate cardiace",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La păsări, mucoasa linguală prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu pseudostratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu simplu columnar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu stratificat pavimentos cheratinizat",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu bistratificat columnar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Dentina sau ivoriul este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ţesut conjunctiv calcificat",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. ţesut conjunctiv lax",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. ţesut vascular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. ţesut nervos",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ţesut conjunctiv reticulat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Liniile de contur sau de creștere (Owen) se găsesc în :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. cement",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. în fibra musculară striată",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. dentină",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. sarcomer",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. fibra musculară netedă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Smalţul este format din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibre de colagen",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. celule",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. fibre nervoase",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. prisme adamantine şi substanţă interprismatică",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. fibre musculare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Liniile incrementale (striaţiile Retzius) se găsesc în;",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. în prismele adamantine",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. în cement",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sarcomer",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. dentina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. fibra musculară striată",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Smalţul este produs de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. adamantoblaste",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. condrocite",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. odontoblaste",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. osteoclaste",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. osteoblaste",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Dentina este produsă de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. osteoblaste",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. condrocite",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. odontoblaste",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. osteoclaste",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. adamantoblaste",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Cementul este produs de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. osteoblaste",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. cementoplaste",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. odontoblaste",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. cementoblaste şi cementocite",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. adamantoblaste",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Pulpa dentară are origine:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epidermică",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. nervoasă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. endodermică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. mezenchimală",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. vasculară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Odontoblastele sau dentinoblastele produc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. smaltul",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. vase de sange",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. dentina",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. elastină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. cementul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Dinţii au origine:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. endodermică",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. nervoasă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. conjunctivă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. dublă, ectodermică şi mezenchimală",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. vasculară",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La rumegătoare, ligamentul alveolodentar este mai bogat în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibre musculare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fibre elastice",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. fibre nervoase",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre de reticulină",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celule conjuctive",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Organul smalţului sau organul adamantin cuprinde:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. adamantoblaste",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. celule conjunctive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celule musculare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. celule gliale",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celule nervoase",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Papila dentară este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. organul smalţului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. formaţiune musculară",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. formaţiune nervoasă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. organul dentinei",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. organul cementului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Cementul şi ligamentul alveolodentar se dezvoltă din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. organul dentinei",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. organul smalţului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sacul dentar",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliul bucal",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. gingie",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Glandele salivare sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. glande endocrine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. glande mixte",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. glande holocrine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. glande tubulo-acinoase",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. glande apocrine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Parenchimul glandelor salivare este format din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. foliculi",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. cordoane celulare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. acini secretori şi din sistemul canalicular intraglandular",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. vase sanguine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. insule celulare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Canaliculele striate (Pfluger ) au lumenul delimitat de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. membrana bazală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. celule endoteliale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. pericite",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu simplu prismatic",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. celule gliale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Semilunele seroase (Gianuzzi) se gasesc în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. acinii micşti",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. foliculii tiroidieni",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. lobulii hepatici",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. acinii mucoşi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. acinii serosi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În orofaringe, mucoasa faringelui prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. endoteliu",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu stratificat pavimentos de tip digestiv",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu bistratificat columnar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În nazo-faringe şi laringo-faringe, mucoasa prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu bistratificat columnar",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. endoteliu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu stratificat pavimentos de tip digestiv",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La rumegătoare, epiteliul mucoasei esofagiene este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. endoteliu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu stratificat pavimentos puternic cheratinizat",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu bistratificat columnar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La carnivore, epiteliul mucoasei esofagiene este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. endoteliu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu bistratificat columnar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. stratificat pavimentos necheratinizat",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa diverticulului ingluvial (guşa) prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu bistratificat columnar",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. endoteliu",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu stratificat pavimentos cheratinizat",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa gastrică prezintă un epiteliu de suprafaţă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. pavimentos unistratificat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. cilindric stratificat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. pavimentos stratificat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. simplu prismatic",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. pseudostratificat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Corionul mucoasei gastrice cuprinde:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibre musculare striate",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. acini mixti",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. acini seroşi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. glande cardiale, fundice, pilorice",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. foliculi glandulari",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Celulele marginale (parietale,oxintice sau delomorfe) din glandele fundice produc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. adrenalină",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. glicogen",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. insulina",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. acidul clorhidric",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. tiroxină",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Glandele fundice sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. acinoase",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. tubulare simple, rar ramificate",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. veziculare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. tubulare compuse",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. coordonale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Musculara din structura stomacului glandular conţine:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibre roşii ( sau de tip I )",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fibre striate cardiace",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. fibre striate scheletice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre musculare netede",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. fibre albe (sau de tip II )",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa prestomacelor prezintă un epiteliu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu stratificat pavimentos moale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu simplu pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu stratificat pavimentos cornificat",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "În corionul porţiunii apicale a papilelor din reţea se găsesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. glande tubulare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. acini seroşi",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. fibre musculare striate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre musculare netede",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. foliculi secretorii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Din axul conjunctiv al papilelor ruminale lipseşte:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. musculara mucoasei",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. fibrele elastice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. corionul",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fibrele de colagen",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ţesutul conjunctiv",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În corionul lamelor din foios fibrele musculare netede sunt dispuse în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. în trei staturi (unul central şi două periferice)",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. într-un strat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. în patru straturi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. două straturi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. în cinci straturi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Care sunt celulele ce lipsesc din glandele fundice?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. celulele principale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. celulele mucoase",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celulele marginale",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. celulele caliciforme",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. celulele endocrine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La păsări, ventriculul (stomacul muscular) are musculoasa compusă din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibre roşii sau de tip I",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fibre musculare striate scheletice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. fibre musculare netede",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre albe sau de tip II",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. fibre musculare striate cardiace",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La păsări, stomacul glandular (proventriculul) prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. glande fundice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. glande pilorice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. glande rugosale şi subrugosale",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. glande cardiale",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. glande sebacee",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Vilozitatea intestinală prezintă pe suprafaţa sa :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un epiteliu pseudustratificat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. enterocite (celule absortive) cu microvili la polul apical",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. celule cu microvili la polul bazal",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. mai multe straturi de celule epiteliale",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celule epiteliale lipsite de microvili",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În glandele intestinale nu se găsesc :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. enterocite",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. celule argentafine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celule caliciforme",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. celule Paneth",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celule endoteliale",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Celulele Paneth din glandele intestinale se aseamănă cu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. celule zimogene din glandele fundice",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. celulele conjunctive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celulele seroase din pancreas",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. celulele caliciforme",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celulele musculare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Glandele duodenale (Brunner) sunt situate în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. mucoasă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. seroasa",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. submucoasă",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. musculara mucoasei",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. în musculoasă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Glandele intestinale (Lieberkuhn) cuprind:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 5 tipuri de celule",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. 2 tipuri de celule",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 3 tipuri de celule",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. 8 tipuri de celule",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 7 tipuri de celule",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "La carnivore, în glandele mandibulare şi sublinguale predomină:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. celulele grase",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. celulele conjunctive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celulele seroase",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. celulele mucoase",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. celulele musculare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Care este caracteristica structurala a celulelor marginale din glandele fundice?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. au cili",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. prezinta canalicule intracitoplasmatice",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. au flagel",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. sunt anucleate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. emit pseudopode",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Plăcile Peyer:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sunt prezente la toate mamiferele, între duoden și ileon",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. se întânesc în musculara stomacului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. se întânesc la nivelul esofagului",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. se întânesc la nivelul colonului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. nici un răspuns corect",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Intestinul gros se caracterizează prin :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. lipsa glandelor tubulare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. prezenţa acinilor mucoşi",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezenţa unui epiteliu stratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. lipsa vilozităţilor intestinale",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. lipsa celulelor caliciforme",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Zona intermediară a canalului anal prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu simplu prismatic cu platou striat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. endoteliu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. un epiteliu stratificat pavimentos de tip moale",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În alcătuirea glandei parotide predomină :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. celulele mucoase",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. celulele grase",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celulele musculare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. celulele seroase",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. celulele conjunctive",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În glandele salivare mixte predomină :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. celulele grase",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. celulele conjunctive",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celulele mucoase",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. celulele seroase",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celulele musculare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Chiliferul central din vilozitatea intestinală este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un capilar sanguin",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. o arteriolă",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. un capilar limfatic",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. un canalicul secretor",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. o venulă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Ficatul are origine:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. mezodermică",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ectodermică",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. endodermică",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. în amnios",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. în corionul embrionar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Forma lobului hepatic este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sferoidală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. cilindrică",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. cubică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. prismatică,cu baza poligonală",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. conică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Spaţiul port (Kiernan) este angular,delimitat de :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. o membrană bazală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. endoteliu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. un epiteliu",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. doi sau mai mulţi lobuli învecinaţi",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. o capsulă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Lobulul hepatic port (Sabourin) este centrat pe :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un capilar sinusoid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. o venă centrolobulară",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. cordon Remak",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. un canal biliar din spaţiul port",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. un canalicul biliar intralobular",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În citoplasma hepatocitelor, corpii Berg sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. mitocondrii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fragmente de reticul endoplasmic rugos",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. reticul endoplasmic neted",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. lizozomi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. peroxizomi",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Acinul hepatic (Rappaport) este format din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. trei vene centrolobulare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. două arii triunghiulare situtate în acelaşi lobul hepatic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. hepatocite situate în trei lobului hepatici",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. două arii tringhiulare, cu bazele în contact",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. trei artere intralobulare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În zona periferică sau portală a unui lobul hepatic se găsesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. hepatocite diferenţiate",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. celule caliciforme",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celule care asigură regenerarea parenchimului",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. enterocite",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. podocite",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În zona mijlocie sau medio-lobulară a unui lobul hepatic se găsesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. celule caliciforme",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. hepatocite diferentiaţe",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. podocite",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. hepatocite tinere imature",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. enterocite",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În zona centrală sau pericentrolobulară a unui lobul hepatic, se găsesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. hepatocite îmbatrânite sau uzate",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. podocite",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. hepatocite tinere imature",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. timocite",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. hepatocie diferenţiate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Celulele principale (adelomorfe) din glandele fundice produc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. calcitonina",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. adrenalina",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. acid clorhidric",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. insulina",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. factorul gastric intrinsec şi renină",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Membrana (plasmalema) hepatocitului prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. cili",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. flagel",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. pseudopode",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. microvili",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. membrane ondulante",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Capilarele sinusoide se intind între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. două canalicule biliare intralobulare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. arterele interlobulare şi vena centrolobulară",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. vena centrolobulara şi venele perilobulare",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. vena centrolobulară şi canaliculele biliare intralobulare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. vena centrolobulară şi canalele biliare extralobulare",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Spaţiul Disse (perisinusoidal) este cuprins între:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. două capilare sinusoide",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. capilarele sinusoide şi hepatocite",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. două hepatocite",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. între două canalicule biliare intralobulare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. vena centrolobulară şi limitele unui lobul",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Canaliculele biliare intralobulare au lumenul delimitat de:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. celule endoteliale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. membranele hepatocitelor adiacente",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. celule grase",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. celule seroase",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celule gliale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Pasajele Herring fac trecerea de la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un capilar sinusoid la alt capilar sinusoid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. venele perilobulare la vena centrolobulară",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. un capilar sinusoid la un canalicul biliar intralobular",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. arterele perilobulare la vena centrolobulară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. canaliculele biliare intralobulare la canalele biliare extralobulare",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Cartilajele laringelui laringelui sunt de tip:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibros",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. seros",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. hialin (cu excepţia epiglotei)",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. striat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. neted",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa regiunii vestibulare (cavității nazale) prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un epiteliu stratificat pavimentos",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. un epiteliu stratificat cubic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. un epiteliu stratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. un epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. un epiteliu pseudostratificat pavimentos",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Muşchii intrinseci şi extrinseci ai laringelui sunt de tip:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. de tip elastic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. de tip mixt",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. striat cardiac",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. neted",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. striat scheletic",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Cornetul nazal rostral:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este situat în regiunea olfactivă a mucoasei nazale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. este situat în regiunea respiratorie a cavității nazale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezintă epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. prezintă epiteliu stratificat pavimentos cornificat",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. prezintă epiteliu stratificat prismatic cornificat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bronhiolele respiratorii:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. continuă ramificațiile bronhiolelor terminale",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. prezintă deschideri ale alveolelor pulmonare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezintă epiteliu simple cubic cu tendință de aplatizare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fac parte atât din componenta de conducere caât și din cea respiratorie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate raspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa traheală:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. prezintă epiteliu stratificat cubic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. prezintă epiteliu stratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezintă epiteliu pseudostratificat prismatic ciliat",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. prezintă epiteliu pseudostratificat cubic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. prezintă epiteliu stratificat prismatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Septele interalveolare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sunt străbătute de o rețea de capilare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. în structura lor intră substanța fundamentală",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sunt delimitate de membranele bazale ale celor două alveole adiacente",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. în strucura lor intră matricea extracelulară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Canalele alveolare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. se continuă cu sacii alveolari",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. prezintă epiteliu stratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezintă epiteliu pseudostratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. prezintă epiteliu pseudostratificat cubic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. prezintă epiteliu stratificat cubic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa bronhiei primare (pulmon păsării) prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. un aspect dantelat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. glande alveolare mucosae care dispar, acestea fiind înlocuite cu celule caliciforme",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu pseudostratificat prismatic ciliar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. noduli după stimulări antigenice",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Sacii alveolarii:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. au pereții “perforați” de orificile de deschidere ale alveolelor pulmonare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. prezintă un epiteliu simplu pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. în pereții lor sunt prezente fibre elastice și fibre reticulare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. în peretii lor lipsesc fibrele musculare netede",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Pneumocitul granulos:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. se mai numește celula alveolară mica",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. se mai numește macrofag alveolar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. este o celulă mobilă ce poate apărea în cavitatea alveolelor",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fagocitează particule străine de unde denumirea de “celule cu praf”",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. conține în citoplasmă incluzii fosfolipidice care contribuie la secreția surfactantului",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Canalele alveolare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. continuă bronhiile respiratorii",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. la nivelul lor se deschid sacii alveolari",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. la nivelul lor se deschid alveolele pulmonare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. prezintă epiteliu simplu cubic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Ce epiteliu prezintă sacii alveolari?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu simplu prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu pseudostratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu pseudostratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu simplu pavimentos",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Cornetul nazal caudal:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este situat în regiunea olfactivă a mucoasei nazale",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. este situat în regiunea vestibulară a cavității nazale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezintă epiteliu stratificat prismatic ciliat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. prezintă epiteliu stratificat pavimentos cornificat",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. prezintă epiteliu stratificat prismatic cornificat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Pneumocitul cu marginea în perie:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. are rol în absorbția transudatului alveolar",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. se mai numește celulă alveolară mica",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. se mai numește celulă alveolară mare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. se mai numește macrofag alveolar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. se mai numește pneumocit granulos",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Pneumocitul membranos:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. se mai numește celula alveolară mica",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. se mai numește macrofag alveolar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. este o celulă mobilă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fagocitează particule străine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. prezintă la nivelul polului apical cilii",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Celulele septale:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. se mai numește celula alveolară mica",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b . se mai numește celula alveolară mare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sunt imobile",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fagocitează particule străine de unde denumirea de “celule cu praf”",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. conține în citoplasmă incluzii fosfolipidice care contribuie la secrețiasurfactantului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Acinul pulmonar:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. reprezintă unitatea respiratorie a parenchimului pulmonar",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. este alcătuit dintr-o bronhiolă terminală",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezintă un epiteliu stratificat cubic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. are o formă sferică",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. reprezintă unitatea morfologică a parenchimului pulmonar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa laringelui prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu simplu primatic",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu stratificat pavimentos necheratinizat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu pseudostratificat prismatic ciliar",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. epteliu simplu pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu simplu cubic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Nazofaringele:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este porțiunea din faringe cu rol în respirație",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. prezintă un epiteliu pseudostratificat prismatic columnar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. musculara cuprinde fibre musculare striate scheletice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. în epiteliu mucoasei sunt numeroase celule caliciforme",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Mușchiul Reissessen se găsește în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. musculara stomacului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. axul vilozităților",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. mucoasa bronhiilor",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. musculara intestinului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. musculara foiosului",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Muşchiul traheal este format din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibre musculare striate scheletice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fibre albe de tip II",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. fibre musculare striate cardiace",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre roşii de tip I",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. fibre musculare netede",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Unitatea morfologică a parenchimului pulmonar este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. lobulul pulmonar secundar",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. lobulul pulmonar primar",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. acinul pulmonar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. segmentul pulmonar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. lobulul pulmonar terțiar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bronhiile extralobulare prezintă în tunica musculo-fibro-cartilaginoasă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu pseudostratificat prismatic ciliat",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. fibre musculare striate",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. insule (plăci - de cartilaj)",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre albe de tip II",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. fibre roşii de tip I",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În structura bronhiilor intralobulare (a bronhiolelor) lipsesc:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. fibrele musculare netede",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. insulele (plăcile - de cartilaj)",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. celulele secretorii neciliate (Clara)",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. infiltraţiile limfoide",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. fibrele elastice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Componenta respiratorie cuprinde:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. canale alveolare, sacii alveolari și alveolele pulmonare",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. canale colectoare, sacii pulmonari și bronhiole terminale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. bronhiole terminale, sacii alveolari și alveolele pulmonare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. bronhiole respiratorii, canale pulmonare și bronhiole pulmonare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. nici un raspuns nu este corect",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Arborele bronhic la păsării:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. nu prezintă canale alveolare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. nu prezintă saci alveolari",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. nu prezintă alveole pulmonare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. este compus dintr-o retea de bronhii intercomunicante",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Epiteliu parabronhiilor este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. simplu pavimentos",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. stratificat pavimentos cornificat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. stratificat prismatic cornificat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. simplu cubic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. pseudostratificat cubic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Epiteliu alveolelor pulmonare este:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. simplu pavimentos",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. pseudostratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. stratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. simplu cubic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. stratificat cubic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Structura unui corpusculul renal include:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. tubul contort distal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. tubul contort proximal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. glomerulul capilar",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. ansa Henle",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. tub atenuat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Creasta renală se întâlnește la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. ovine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. canide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. caprine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. cabaline",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Piramida corticală Ferrein se întâlnește în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. rinichi",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. ficat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. pulmon",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. timus",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. parotidă",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Diverticulul suburetral se întâlnește la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. suine și rumegătoarele",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. canide și felide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. suine și leporide",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. leporide și muride",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. leporide și canide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Rinichi multipiramidali se întâlnesc la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. suine și rumegătoarele mari",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. canide și felide",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. suine și leporide",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. leporide și muride",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. leporide și canide",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Foița externă – parietală a capsulei glomerulului prezintă un epiteliu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. simplu format din podocite",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. stratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. stratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. simplu cubic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. simplu pavimentos",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Uretra la femelă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. mucoasa prezintă un epiteliu tranzițional care inițial devine pseudostratificat și apoi stratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. corionul cuprinde un strat capilar și țesut limfatic difuz",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. lipsește musculara mucoasei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. musculara la cabaline prezintă trei straturi de fibre musculare",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Porțunea membranoasă a uretrei la mascul prezintă un epiteliu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. stratificat sau pesudostratificat columnar",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. stratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. simplu pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. simplu cubic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. simplu columnar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Foița internă - viscerală a capsulei glomerulului prezintă un epiteliu:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. simplu format din podocite",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. pseudostratificat pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. stratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. simplu cubic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. simplu columnar",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Corpusculul renal:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este situat în medulara rinichiului și în coloanele renale (Bertin)",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. prezintă 5 poli – 2 vasculari și 3 urinari",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. nu prezintă capsulă",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. reprezintă unitatea morfofuncțională a rinichiului",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. are o formă relatic sferoidală cu diametru de 200 - 300 μm",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Podocitele se găsesc în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. capilarele glomerulului",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. mezangiu",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. în epiteliul foitei interne a capsulei glomerulului",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. în tubii contorti",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. în tubii drepti",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa vezicii urinare prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu simplu pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu stratificat pavimentos moale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu pseudostratificat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu de tranziţie",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu bistratificat prismatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa calicelor şi bazinetului prezintă :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu simplu pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu stratificat pavimentos moale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu pseudostratificat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu de tranziţie",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu bistratificat prismatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Musculara vezicii urinare cuprinde:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. trei straturi de fibre musculare netede",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. un strat de fibre musculare netede",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. două straturi de fibre musculare netede",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. un strat de fibre musculare striate",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. trei straturi de fibre musculare striate",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "De câte tipuri sunt nefronii aviari?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 2",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. 4",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 3",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. 5",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 6",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Din câte structuri distincte este format complexul juxtaglomerular?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 2",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. 4",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 3",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. 5",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 6",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Rinichi unilobari se întâlnesc la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. leporide, muride",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. rumegătoare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. suine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. canide și caprine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ovine și suine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Apendicele cecal se întâlnește la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. leporide și hominide",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. rumegătoare",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. suine",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. canide și caprine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ovine și suine",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Cu excepția uretrei, căile urinare au peretele constituit din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 2 tunici",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. 4 tunici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 3 tunici",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. 5 tunici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 6 tunici",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Tubul contort distal:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este mai lung la cabaline și suine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu cuprinde celule prismatice",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. diametru lumenului și al tubilor este mai mare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. apar mai rari pe secțiune, au diametru mai larg",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Tubul contort proximal (nefron):",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. se continuă direct cu tubul contort distal",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. este situat în medulară",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. prezintă un epiteliu pseudostratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. prezintă un epiteliu simplu prismatic cu margine în perie",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. nu este afectat în procesele toxice și patologice",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Musculara ureterului prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 3 straturi de fibre musculare striate",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. 4 straturi de fibre musculare striate",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 3 straturi de fibre musculare netede",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. 4 straturi de fibre musculare netede",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 1 strat de fibre musculare netede",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Câte porțiuni prezintă uretra masculină?",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 3",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. 2",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 6",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. 5",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 1",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa ureterului la pasăre prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. simplu pavimentos",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. pseudostratificat columnar",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu de tranziție",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu stratificat prismatic",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu simplu pavimentos",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Celulele mezangiale (Mezangiul):",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. au origine mezenchimală",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. nu conțin microfibrile în citoplasma",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. nu produc matricea extracelulară",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. determină îngroșarea membranei bazale",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Sinusul subcapsular se întânește în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. limfonod",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. splina",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. timus",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. bursa cloacală",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ficat",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Musculara mucoasei vezicii urinare este absentă la:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. bovine",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ovine",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. cabaline",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. suine",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. felide",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Ţesutul limfoid, componenta de bază organelor limfoide, este alcătuit din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. reticul și celule libere",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. podocite",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. celule seroase",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. leiocite",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. celule gliale",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Organele limfoide periferice (secundare):",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. apar de timpuriu în cursul dezvoltării filo- şi ontogenetice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. limfopoieza este intensă înainte de naştere",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sunt centre de formare, diferenţiere şi diseminare a limfocitelor T sau B",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. nu pot fi extirpate în totalitate",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. limfopoieza este independentă de stimularea antigenică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Organele limfoide primare sunt:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. bursa cloacală (Fabricius), timus",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. timus, splină",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. splina, noduli imfoizi",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. nodulii limfoizi",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. timus, splina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Corpusculii HASSAL se găsesc în :",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. neuroni",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ficat",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. splină",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. medulara lobulilor timici",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. pancreas",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Bursa cloacală (Fabricius) prezintă foliculi (noduli) bursali situaţi în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. lamina propria din mucoasa",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. seroasa ce acoperă bursa",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. musculoasa bursei",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. coprodeum",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. în lumenul bursal",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Nodulii limfoizi:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sunt formațiuni microscopice neregulate sau sferice",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. sunt formați din țesut limfoid dens",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sunt dispuși în țesutul conjunctiv al diferitelor organe",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. nu sunt structuri permanente",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Nodulii limfoizi sunt formaţi din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epitelii glandulare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. ţesut elastic",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. ţesut limfoid dens",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. ţesut limfoid lax",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. ţesut adipos brun",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Limfonodurile sau ganglionii limfatici:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. sunt organe limfoide secundare",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. au aspect reniform sau sferoidal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. se găsesc izolați sau grupați de-a lungul vaselor limfatice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. prezintă capsulă și parenchim",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Pulpa roşie a parenchimului splenic este formată din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. trabecule conjunctive",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. leiocite și corpusculi Hassal",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sinusuri venoase și trabecule musculare",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. fibre musculare netede",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. cordoane splenice și sinusuri",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Coordoanele splenice se găsesc în:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. pulpa albă",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. pulpa roşie",
+                "bool": "true"
+            },
+            {
+                "id": "c",
+                "text": "c. în trabeculele splenice",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. foliculii splenici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. capsula splenică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Timusul:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este organ limfoepitelial",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. are origine nervoasa",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. este un organ limfoid secundar",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. este singurul organ limfoid cavitar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. este considerat glanda exocrină",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Celulele doică:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. se găsesc în stratul epitelial al cortexului extern timic",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. se dispun concentric și formează corpusculii timici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. sunt considerate celule conjunctive migrate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. se mai numesc Peyer",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. secretă bursopoietina",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Splina:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este organ limfoid primar",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. are origine nervoasa",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. este un sediu al răspunsului imun",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. este singurul organ limfoid cavitar",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. are circulație limfatică și origine ectodermică",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Organele limfoide primare:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este imposibilă extirparea lor în totalitate",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. sunt reprezentate de splină și de ganglioni limfatici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. au o apariție tardivă filo – și ontogenetică",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. sunt centre de formare, diferențiere și diseminare în organism a limfocitelor specializate",
+                "bool": "true"
+            },
+            {
+                "id": "e",
+                "text": "e. sunt reprezentate de splină și de timus",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "În limfonoduri, cortexul difuz sau regiunea paracorticală se găseşte:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. între capsulă şi corticală",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. în zona hilului",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. în cortexul superficial",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. în medulară",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. între corticală şi medulară",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Mucoasa bursei cloacale (Fabricius) prezintă:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. epiteliu simplu sau pseudoprismatic columnar",
+                "bool": "true"
+            },
+            {
+                "id": "b",
+                "text": "b. epiteliu stratificat pavimentos moale",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. epiteliu pseudostratificat",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. epiteliu de tranziţie",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. epiteliu bistratificat prismatic",
+                "bool": "false"
+            }
+        ]
+    },
+    {
+        "question": "Splina:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. este cea mai mare acumulare de țesut imfoid",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. acționeaza ca un filtru",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. are rol esențial în imunitate",
+                "bool": "false"
+            },
+            {
+                "id": "d",
+                "text": "d. este un sediu al răspunsului imun",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. toate răspunsurile sunt corecte",
+                "bool": "true"
+            }
+        ]
+    },
+    {
+        "question": "Peretele bursei cloacale (Fabricius) este format din:",
+        "options": [
+            {
+                "id": "a",
+                "text": "a. 2 tunici",
+                "bool": "false"
+            },
+            {
+                "id": "b",
+                "text": "b. 4 tunici",
+                "bool": "false"
+            },
+            {
+                "id": "c",
+                "text": "c. 3 tunici",
+                "bool": "true"
+            },
+            {
+                "id": "d",
+                "text": "d. 5 tunici",
+                "bool": "false"
+            },
+            {
+                "id": "e",
+                "text": "e. 6 tunici",
+                "bool": "false"
+            }
+        ]
+    }
+]
+}
